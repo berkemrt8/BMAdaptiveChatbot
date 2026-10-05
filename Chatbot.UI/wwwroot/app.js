@@ -3,8 +3,12 @@ const API_BASE_URL = new URLSearchParams(location.search).get("api") || "http://
 
 // Test edilen bot üstteki listeden seçilir; adresle de verilebilir: http://localhost:5090/?bot=nexora-demo
 // Öncelik: adresteki bot → bu tarayıcıda en son seçilen bot → listedeki ilk bot.
+// Veritabanında hiç bot yoksa seçili bot olmaz (botKey null kalır).
 let botKey = new URLSearchParams(location.search).get("bot") || readText("bot");
 let bots = [];
+
+// Bot listesi alınamadıysa nedeni; liste başarıyla alındıysa null.
+let botListError = null;
 
 const app = document.getElementById("app");
 const messages = document.getElementById("messages");
@@ -431,30 +435,63 @@ function setComposerEnabled(enabled) {
     sendButton.disabled = !enabled;
 }
 
-// API'deki bütün botları seçim listesine doldurur. Liste alınamazsa listede yalnızca mevcut bot görünür.
+// API'deki bütün botları seçim listesine doldurur. Liste alınamazsa (API kapalı) listede
+// yalnızca adresteki ya da bu tarayıcıda hatırlanan bot görünür.
 async function loadBots() {
     try {
         const response = await fetch(`${API_BASE_URL}/api/bots`);
-        if (response.ok) bots = await response.json();
+        if (response.ok) {
+            bots = await response.json();
+        } else {
+            botListError = await getErrorMessage(response);
+        }
     } catch {
-        // API kapalıysa bağlantı hatasını initialize() gösterir.
+        botListError = `Chatbot API'ye ulaşılamadı (${API_BASE_URL}). API çalışıyor mu?`;
     }
 
-    // Hatırlanan bot artık yoksa (ya da hiç seçilmemişse) listedeki ilk bot açılır.
-    if (bots.length > 0 && !bots.some(bot => bot.publicKey === botKey)) {
-        botKey = bots[0].publicKey;
+    // Hatırlanan bot artık yoksa (ya da hiç seçilmemişse) listedeki ilk bot açılır;
+    // veritabanında hiç bot yoksa hiçbir bot seçilmez.
+    if (botListError === null && !bots.some(bot => bot.publicKey === botKey)) {
+        botKey = bots.length > 0 ? bots[0].publicKey : null;
     }
-    botKey ??= "hotel-demo";
 
-    const choices = bots.length > 0 ? bots : [{ publicKey: botKey, name: botKey, modelReady: true }];
-    botSelect.replaceChildren(...choices.map(bot => {
-        const option = document.createElement("option");
-        option.value = bot.publicKey;
-        option.textContent = `${bot.name} (${bot.publicKey})${bot.modelReady ? "" : " · model yok"}`;
-        return option;
-    }));
-    botSelect.value = botKey;
+    const choices = bots.length > 0 || !botKey
+        ? bots
+        : [{ publicKey: botKey, name: botKey, modelReady: true }];
+
+    if (choices.length === 0) {
+        const empty = document.createElement("option");
+        empty.value = "";
+        empty.textContent = "Bot yok";
+        botSelect.replaceChildren(empty);
+    } else {
+        botSelect.replaceChildren(...choices.map(bot => {
+            const option = document.createElement("option");
+            option.value = bot.publicKey;
+            option.textContent = `${bot.name} (${bot.publicKey})${bot.modelReady ? "" : " · model yok"}`;
+            return option;
+        }));
+    }
+
+    botSelect.value = botKey ?? "";
     botSelect.disabled = bots.length < 2;
+}
+
+// Açılacak bot olmadığında nedenini gösterir: veritabanı boş ya da bot listesi alınamadı.
+function showNoBot() {
+    document.getElementById("botKey").textContent = "–";
+    inspector.provider.textContent = "–";
+
+    if (botListError) {
+        setStatus("Bağlantı hatası", "error");
+        addMessage(botListError, "bot", { isError: true });
+        return;
+    }
+
+    setStatus("Bot yok");
+    addMessage("Veritabanında henüz bot yok. Bir botun seed dosyasını ve eğitim verisini ekleyip modelini " +
+        "Chatbot.Trainer ile eğitin, ardından API'yi yeniden başlatın. Örnek botlar samples/ klasöründe, " +
+        "adımlar README'deki \"Yeni bir bot eklemek\" bölümünde.", "bot");
 }
 
 function switchBot(key) {
@@ -474,6 +511,12 @@ async function initialize() {
     const isStale = () => version !== loadVersion;
 
     setComposerEnabled(false);
+
+    if (!botKey) {
+        showNoBot();
+        return;
+    }
+
     document.getElementById("botKey").textContent = botKey;
     inspector.model.textContent = "–";
     inspector.provider.textContent = bots.find(bot => bot.publicKey === botKey)?.dataProvider
