@@ -1,0 +1,65 @@
+Text	Label
+selam herkese	Greeting
+merhaba iyi akşamlar size danışmak istediğim bir konu var	Greeting
+eyvallah çok sağ ol	Thanks
+teşekkürler bu bilgi yeterli	Thanks
+güz yarıyılı dersleri hangi tarihte sona erecek	SemesterDates
+bahar dönemi dersleri hangi ayda başlıyor	SemesterDates
+güz dönemi final sınavları hangi tarihler arasında	FinalExams
+bahar dönemi harf notları hangi gün yayınlanıyor	FinalExams
+4. sınıflar ders kaydını hangi gün yapacak	CourseRegistration
+ders kaydı için danışmanım ne zamana kadar onay vermeli	CourseRegistration
+ders ekle bırak işlemleri ekimde hangi günler	AddDrop
+ekleme bırakma döneminde şube değişikliği yapılabiliyor mu	AddDrop
+kurban bayramında okul kaç gün kapalı	Holidays
+nisan ayında resmi tatil var mı	Holidays
+yaz okulunda aynı anda kaç ders alınabilir	SummerSchool
+yaz okulu derslerini başka bir üniversiteden almak mümkün mü	SummerSchool
+35 kredim var ikinci sınıf mıyım	ClassStanding
+dördüncü sınıfa geçmek için toplam kaç kredi gerekli	ClassStanding
+bu yarıyıl 24 kredi almam mümkün mü	CourseLoad
+bir dönemde alınabilecek en düşük kredi miktarı	CourseLoad
+diploma alabilmem için genel ortalamam kaç olmalı	GraduationRequirements
+mezun olmak için bütün dersleri geçmek şart mı	GraduationRequirements
+mezuniyetime iki ders kaldı ek sınav hakkım var mı	GraduationExtraExam
+tedüde büt sınavı yapılıyor mu	GraduationExtraExam
+lisans eğitimimi en geç kaç yılda bitirmeliyim	MaxStudyDuration
+yedi yıl içinde bitiremezsem ne olacak	MaxStudyDuration
+92 puan hangi harf notuna karşılık geliyor	GradingSystem
+genel not ortalamasını hesaplarken krediler nasıl kullanılıyor	GradingSystem
+not ortalamam 1.9 oldu sınamalı mıyım	Probation
+sınamalı yetersiz olan öğrenci ne yapmalı	Probation
+dönem ortalamam 3.7 yüksek onur alır mıyım	HonorStatus
+onur listesine girmek için gereken yarıyıl ortalaması	HonorStatus
+dd aldığım bir dersi notumu artırmak için yeniden alabilir miyim	CourseRepeat
+kaldığım zorunlu dersi hangi dönem tekrar etmeliyim	CourseRepeat
+bu dönem iki dersten çekilmek istiyorum mümkün mü	CourseWithdrawal
+dersten çekilince transkripte ne yazılıyor	CourseWithdrawal
+ara sınav sonucuma itiraz süresi ne kadar	GradeAppeal
+notum yanlış hesaplanmış ne yapabilirim	GradeAppeal
+final günü hastaydım raporum var ne yapmalıyım	MissedExam
+proje teslimini mazeretim yüzünden yapamadım	MissedExam
+derslere katılmazsam başarısız olur muyum	Attendance
+devamsızlık nedeniyle fx alınır mı	Attendance
+makine mühendisliği öğrencileri kaç gün staj yapmalı	InternshipDuration
+staj süresine cumartesiler dahil mi	InternshipDuration
+staj onay formunu staja kaç gün kala yüklemeliyim	InternshipApplication
+staj yerim bölüm tarafından onaylanmazsa ne olur	InternshipApplication
+staj yaptığım şirket sigorta girişimi yapmıyor ne olacak	InternshipInsurance
+staj sigortası için ücret ödemem gerekiyor mu	InternshipInsurance
+zorunlu stajım bittikten sonra gönüllü staj yapabilir miyim	VoluntaryInternship
+genç yetenek programı hangi fakülteler için	VoluntaryInternship
+çap için başvuru şartlarından biri sıralamada ilk yüzde yirmi mi	DoubleMajor
+çift anadala en geç hangi yarıyılda başvurulur	DoubleMajor
+yandal başvurusu için gerekli genel not ortalaması	Minor
+yandalı bitirince ne belgesi alırım	Minor
+erasmus seçiminde not ortalamasının etkisi ne kadar	Erasmus
+yurt dışında staj yapmak için erasmus başvurusu	Erasmus
+bahar döneminde kaydımı dondurmak için son tarih	LeaveOfAbsence
+askerlik için kayıt dondurma yapabilir miyim	LeaveOfAbsence
+hazırlık sınıfında en fazla iki yıl mı kalınabiliyor	EnglishPrep
+temmuzdaki yeterlik sınavı hangi günler	EnglishPrep
+my tedu hesabımın şifresini unuttum	PortalPassword
+şifre denemelerim yüzünden hesabım bloke oldu	PortalPassword
+öğrenci işleri ile e-posta yoluyla iletişim	StudentAffairsContact
+transkriptimi almak için hangi birime yazmalıyım	StudentAffairsContact

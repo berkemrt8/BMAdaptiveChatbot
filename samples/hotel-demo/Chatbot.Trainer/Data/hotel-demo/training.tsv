@@ -1,0 +1,1130 @@
+Text	Label
+merhaba	Greeting
+selam	Greeting
+selamlar	Greeting
+iyi günler	Greeting
+günaydın	Greeting
+iyi akşamlar	Greeting
+hey merhaba	Greeting
+merhabalar	Greeting
+selam nasılsınız	Greeting
+kolay gelsin	Greeting
+iyi çalışmalar	Greeting
+merhaba yardımcı olur musun	Greeting
+selam bir şey soracağım	Greeting
+merhaba otel hakkında sorum var	Greeting
+selam size bir soru sorabilir miyim	Greeting
+günaydın bir konuda yardım lazım	Greeting
+iyi akşamlar bilgi alabilir miyim	Greeting
+merhaba danışmak istiyorum	Greeting
+selam bot	Greeting
+hey selam	Greeting
+rezervasyon yapmak istiyorum	ReservationCreate
+nasıl rezervasyon yapabilirim	ReservationCreate
+oda rezervasyonu nasıl oluşturulur	ReservationCreate
+yer ayırtmak istiyorum	ReservationCreate
+otel için rezervasyon nereden yapılır	ReservationCreate
+konaklama rezervasyonu oluşturmak istiyorum	ReservationCreate
+oda ayırtmak için ne yapmalıyım	ReservationCreate
+rezervasyon başlatabilir miyim	ReservationCreate
+online rezervasyon nasıl yapılır	ReservationCreate
+bir oda rezerve etmek istiyorum	ReservationCreate
+otel odası ayırtmak istiyorum	ReservationCreate
+rezervasyon işlemini nasıl yaparım	ReservationCreate
+yeni rezervasyon oluşturmak istiyorum	ReservationCreate
+kalmak için yer ayırmak istiyorum	ReservationCreate
+rezervasyon yapmak için nereye girmeliyim	ReservationCreate
+oda ayırma işlemi nasıl oluyor	ReservationCreate
+rezervasyon talebi oluşturabilir miyim	ReservationCreate
+konaklama için rezervasyon yapacağım	ReservationCreate
+otel rezervasyonumu nereden başlatırım	ReservationCreate
+rezervasyon yapmak için ne gerekiyor	ReservationCreate
+rezervasyonumu değiştirmek istiyorum	ReservationChange
+rezervasyon tarihini değiştirebilir miyim	ReservationChange
+oda rezervasyonumu güncellemek istiyorum	ReservationChange
+rezervasyondaki tarihleri nasıl değiştiririm	ReservationChange
+konaklama tarihimi değiştirmek istiyorum	ReservationChange
+rezervasyon bilgilerimi düzenleyebilir miyim	ReservationChange
+rezervasyonuma kişi eklemek istiyorum	ReservationChange
+rezervasyonumdaki oda tipini değiştirebilir miyim	ReservationChange
+mevcut rezervasyonu güncellemek istiyorum	ReservationChange
+rezervasyon değişikliği nasıl yapılır	ReservationChange
+giriş tarihimi rezervasyonda değiştirmek istiyorum	ReservationChange
+çıkış tarihini değiştirebilir miyim	ReservationChange
+rezervasyondaki misafir sayısını değiştirmek istiyorum	ReservationChange
+rezervasyonumu başka tarihe alabilir miyim	ReservationChange
+rezervasyon detaylarımı değiştirmem lazım	ReservationChange
+yaptığım rezervasyonda değişiklik yapabilir miyim	ReservationChange
+rezervasyon güncellemek için ne yapmalıyım	ReservationChange
+rezervasyonumu uzatmak istiyorum	ReservationChange
+rezervasyon süresini değiştirmek istiyorum	ReservationChange
+rezervasyonumda düzenleme yapmak istiyorum	ReservationChange
+rezervasyonumu iptal etmek istiyorum	ReservationCancel
+rezervasyon nasıl iptal edilir	ReservationCancel
+yaptığım rezervasyonu nasıl silebilirim	ReservationCancel
+oda rezervasyonumu iptal edebilir miyim	ReservationCancel
+mevcut rezervasyonu iptal etmek istiyorum	ReservationCancel
+rezervasyon iptal işlemi nasıl yapılır	ReservationCancel
+konaklama rezervasyonumu iptal edeceğim	ReservationCancel
+rezervasyonu tamamen kaldırmak istiyorum	ReservationCancel
+rezervasyonumu artık kullanmayacağım nasıl iptal ederim	ReservationCancel
+rezervasyon iptali için ne yapmalıyım	ReservationCancel
+oda ayırtmıştım iptal etmek istiyorum	ReservationCancel
+rezervasyonumu kapatmak istiyorum	ReservationCancel
+yaptığım oda rezervasyonunu iptal edebilir miyim	ReservationCancel
+rezervasyon iptali nereden yapılır	ReservationCancel
+rezervasyonumu vazgeçtiğim için iptal etmek istiyorum	ReservationCancel
+mevcut rezervasyonumu nasıl iptal ederim	ReservationCancel
+rezervasyon kaydımı silmek istiyorum	ReservationCancel
+rezervasyonu iptal etme işlemi	ReservationCancel
+rezervasyonumu sonlandırmak istiyorum	ReservationCancel
+rezervasyon iptali yapmak istiyorum	ReservationCancel
+boş oda var mı	RoomAvailability
+müsait odanız var mı	RoomAvailability
+bugün için oda var mı	RoomAvailability
+yarın boş oda bulunuyor mu	RoomAvailability
+bu gece kalacak oda var mı	RoomAvailability
+oda müsaitliği nedir	RoomAvailability
+odalarınız dolu mu	RoomAvailability
+konaklamak için boş yer var mı	RoomAvailability
+iki kişilik boş oda var mı	RoomAvailability
+hafta sonu müsait oda var mı	RoomAvailability
+kalabileceğim bir oda bulunuyor mu	RoomAvailability
+şu tarihte boş odanız var mı	RoomAvailability
+oda müsaitliğini öğrenmek istiyorum	RoomAvailability
+yeriniz var mı	RoomAvailability
+bu akşam için oda bulabilir miyim	RoomAvailability
+odada yer var mı	RoomAvailability
+boş oda durumunu öğrenebilir miyim	RoomAvailability
+müsaitlik kontrolü yapabilir misiniz	RoomAvailability
+oda bulabilir miyim	RoomAvailability
+konaklama için yeriniz mevcut mu	RoomAvailability
+oda tipleri nelerdir	RoomTypes
+hangi oda seçenekleriniz var	RoomTypes
+odalarınızın türleri neler	RoomTypes
+standart oda var mı	RoomTypes
+aile odası var mı	RoomTypes
+kaç çeşit odanız var	RoomTypes
+oda kategorilerini öğrenebilir miyim	RoomTypes
+hangi tür odalarda kalabilirim	RoomTypes
+oda seçeneklerini gösterir misiniz	RoomTypes
+çift kişilik oda var mı	RoomTypes
+tek kişilik oda var mı	RoomTypes
+suit oda bulunuyor mu	RoomTypes
+odaların çeşitleri nelerdir	RoomTypes
+hangi oda tiplerini sunuyorsunuz	RoomTypes
+oda sınıfları hakkında bilgi istiyorum	RoomTypes
+aile için hangi oda uygun	RoomTypes
+oda alternatifleri neler	RoomTypes
+konaklama için oda türleri neler	RoomTypes
+odalar arasında hangi seçenekler var	RoomTypes
+oda tipleri hakkında bilgi verir misiniz	RoomTypes
+oda fiyatları ne kadar	RoomPrice
+bir gecelik oda ücreti nedir	RoomPrice
+oda fiyatını öğrenebilir miyim	RoomPrice
+gecelik konaklama ne kadar	RoomPrice
+odaların fiyatları nedir	RoomPrice
+iki kişilik oda kaç lira	RoomPrice
+oda ücreti ne kadar	RoomPrice
+konaklama fiyatlarını öğrenmek istiyorum	RoomPrice
+gecelik fiyatınız nedir	RoomPrice
+otel odası kaç para	RoomPrice
+bir gece kalmak ne kadar	RoomPrice
+oda ücretleri hakkında bilgi verir misiniz	RoomPrice
+fiyatlarınızı öğrenebilir miyim	RoomPrice
+oda fiyatı tarihe göre değişiyor mu	RoomPrice
+standart odanın fiyatı ne kadar	RoomPrice
+konaklama ücretiniz nedir	RoomPrice
+oda için ne kadar ödeme yaparım	RoomPrice
+otel fiyatları hakkında bilgi istiyorum	RoomPrice
+gecelik oda bedeli kaç	RoomPrice
+oda fiyat bilgisi alabilir miyim	RoomPrice
+check in saati kaç	CheckInTime
+otele giriş saati kaçta	CheckInTime
+odaya ne zaman girebilirim	CheckInTime
+giriş işlemleri saat kaçta başlıyor	CheckInTime
+otele kaçta giriş yapabilirim	CheckInTime
+oda teslimi saat kaçta	CheckInTime
+check in ne zaman	CheckInTime
+odamı saat kaçta alabilirim	CheckInTime
+giriş saatiniz nedir	CheckInTime
+otele varınca odaya kaçta geçebilirim	CheckInTime
+normal giriş zamanı nedir	CheckInTime
+check in hangi saatte	CheckInTime
+odaya giriş kaçta	CheckInTime
+otel giriş zamanı ne zaman	CheckInTime
+resepsiyon odayı kaçta teslim ediyor	CheckInTime
+konaklama başlangıç saati kaç	CheckInTime
+odaya yerleşme saati nedir	CheckInTime
+giriş için saat kaçta gelmeliyim	CheckInTime
+check in işlemi ne zaman yapılır	CheckInTime
+otele giriş için standart saat nedir	CheckInTime
+check out saati kaç	CheckOutTime
+otelden çıkış saati kaçta	CheckOutTime
+odayı ne zaman boşaltmalıyım	CheckOutTime
+en geç kaçta çıkmam gerekiyor	CheckOutTime
+check out ne zaman	CheckOutTime
+oda teslim saati kaç	CheckOutTime
+otelden kaçta ayrılmalıyım	CheckOutTime
+çıkış saatiniz nedir	CheckOutTime
+odayı saat kaçta teslim etmeliyim	CheckOutTime
+normal çıkış zamanı nedir	CheckOutTime
+check out hangi saatte	CheckOutTime
+odadan çıkış kaçta	CheckOutTime
+otel çıkış zamanı ne zaman	CheckOutTime
+odayı en geç ne zaman boşaltırım	CheckOutTime
+konaklama bitiş saati kaç	CheckOutTime
+çıkış işlemi ne zaman yapılır	CheckOutTime
+resepsiyona anahtarı kaçta vermeliyim	CheckOutTime
+otelden ayrılma saati nedir	CheckOutTime
+check out için son saat kaç	CheckOutTime
+standart çıkış saati nedir	CheckOutTime
+erken check in yapabilir miyim	EarlyCheckIn
+otele erken giriş mümkün mü	EarlyCheckIn
+odaya 14ten önce girebilir miyim	EarlyCheckIn
+erken gelirsem odaya geçebilir miyim	EarlyCheckIn
+check in saatinden önce giriş yapabilir miyim	EarlyCheckIn
+sabah otele giriş yapabilir miyim	EarlyCheckIn
+erken giriş imkanı var mı	EarlyCheckIn
+odamı erken alabilir miyim	EarlyCheckIn
+normal saatten önce check in olur mu	EarlyCheckIn
+erken check in ücretli mi	EarlyCheckIn
+otele sabah gelirsem oda verilir mi	EarlyCheckIn
+giriş saatinden önce oda hazır olabilir mi	EarlyCheckIn
+erken check in talep etmek istiyorum	EarlyCheckIn
+erken oda teslimi mümkün mü	EarlyCheckIn
+otele erken geleceğim ne yapmalıyım	EarlyCheckIn
+check in saatini erkene çekebilir miyim	EarlyCheckIn
+öğleden önce odaya girmek mümkün mü	EarlyCheckIn
+erken varışta odayı kullanabilir miyim	EarlyCheckIn
+sabah erken check in yapmak istiyorum	EarlyCheckIn
+erken giriş için ne yapmam gerekiyor	EarlyCheckIn
+geç check out yapabilir miyim	LateCheckOut
+otelden geç çıkmak mümkün mü	LateCheckOut
+odayı 11den sonra boşaltabilir miyim	LateCheckOut
+çıkış saatini uzatabilir miyim	LateCheckOut
+late check out var mı	LateCheckOut
+odayı biraz daha geç teslim edebilir miyim	LateCheckOut
+geç çıkış ücretli mi	LateCheckOut
+check out saatinden sonra kalabilir miyim	LateCheckOut
+odayı öğleden sonraya kadar kullanabilir miyim	LateCheckOut
+çıkışımı geciktirmek istiyorum	LateCheckOut
+geç check out talep etmek istiyorum	LateCheckOut
+otelden akşam çıkabilir miyim	LateCheckOut
+odayı geç boşaltma imkanı var mı	LateCheckOut
+normal çıkış saatini uzatabilir miyim	LateCheckOut
+check out süresini uzatmak istiyorum	LateCheckOut
+geç ayrılmak istiyorum mümkün mü	LateCheckOut
+oda teslimini erteleyebilir miyim	LateCheckOut
+11den sonra odada kalabilir miyim	LateCheckOut
+geç çıkış için ne yapmalıyım	LateCheckOut
+late checkout nasıl alınır	LateCheckOut
+kahvaltı saat kaçta	BreakfastTime
+kahvaltı ne zaman başlıyor	BreakfastTime
+kahvaltı kaça kadar	BreakfastTime
+sabah kahvaltısı saatleri nedir	BreakfastTime
+kahvaltı servisi hangi saatlerde	BreakfastTime
+kahvaltı kaçta açılıyor	BreakfastTime
+kahvaltı ne zaman bitiyor	BreakfastTime
+kahvaltıya saat kaçta gidebilirim	BreakfastTime
+kahvaltı saatlerini öğrenebilir miyim	BreakfastTime
+sabah yemek servisi kaçta	BreakfastTime
+kahvaltı başlangıç saati nedir	BreakfastTime
+kahvaltı bitiş saati nedir	BreakfastTime
+kahvaltı hangi saatler arasında	BreakfastTime
+otelde kahvaltı kaçta veriliyor	BreakfastTime
+kahvaltı servisi ne zaman	BreakfastTime
+sabah büfesi kaçta açılıyor	BreakfastTime
+kahvaltı için son saat kaç	BreakfastTime
+kahvaltı salonu kaçta açılır	BreakfastTime
+kahvaltı zamanı nedir	BreakfastTime
+kahvaltı saat bilgisi verir misiniz	BreakfastTime
+kahvaltı fiyata dahil mi	BreakfastIncluded
+oda ücretine kahvaltı dahil mi	BreakfastIncluded
+rezervasyonum kahvaltılı mı	BreakfastIncluded
+kahvaltı için ayrıca ücret öder miyim	BreakfastIncluded
+konaklama fiyatında kahvaltı var mı	BreakfastIncluded
+kahvaltı ücretsiz mi	BreakfastIncluded
+kahvaltı pakete dahil mi	BreakfastIncluded
+oda fiyatına sabah kahvaltısı dahil mi	BreakfastIncluded
+kahvaltı ekstra ücretli mi	BreakfastIncluded
+rezervasyon fiyatı kahvaltıyı kapsıyor mu	BreakfastIncluded
+kahvaltı dahil oda seçeneği var mı	BreakfastIncluded
+kahvaltı için ek ödeme gerekiyor mu	BreakfastIncluded
+konaklamaya kahvaltı dahil oluyor mu	BreakfastIncluded
+kahvaltı ücretin içinde mi	BreakfastIncluded
+kahvaltı bedeli ayrıca mı	BreakfastIncluded
+rezervasyonda kahvaltı bulunduğunu nasıl anlarım	BreakfastIncluded
+kahvaltı dahil mi değil mi	BreakfastIncluded
+kahvaltı ücreti oda fiyatına ekli mi	BreakfastIncluded
+sabah kahvaltısı ücretsiz sunuluyor mu	BreakfastIncluded
+kahvaltı için ayrıca ödeme yapacak mıyım	BreakfastIncluded
+restoran saatleri nedir	RestaurantHours
+restoran kaçta açılıyor	RestaurantHours
+restoran kaça kadar açık	RestaurantHours
+akşam yemeği saat kaçta	RestaurantHours
+restoran çalışma saatlerini öğrenebilir miyim	RestaurantHours
+otel restoranı ne zaman açılıyor	RestaurantHours
+restoran ne zaman kapanıyor	RestaurantHours
+öğle yemeği hangi saatlerde	RestaurantHours
+akşam restoran açık mı	RestaurantHours
+restoran servis saatleri nedir	RestaurantHours
+yemek salonu kaçta açılıyor	RestaurantHours
+restoran hangi saatler arasında hizmet veriyor	RestaurantHours
+otel restoranı kaça kadar çalışıyor	RestaurantHours
+restoranda yemek saatleri nedir	RestaurantHours
+restoranın açılış saati kaç	RestaurantHours
+restoranın kapanış saati kaç	RestaurantHours
+öğlen restoran açık mı	RestaurantHours
+akşam yemeği servisi ne zaman	RestaurantHours
+restoran ne zaman hizmet veriyor	RestaurantHours
+restoran saat bilgisi verir misiniz	RestaurantHours
+oda servisi var mı	RoomService
+odaya yemek söyleyebilir miyim	RoomService
+room service hizmetiniz var mı	RoomService
+odama yemek getirebilir misiniz	RoomService
+oda servisi saatleri nedir	RoomService
+odadan yemek siparişi verebilir miyim	RoomService
+yemek odaya geliyor mu	RoomService
+room service nasıl kullanılır	RoomService
+odaya içecek siparişi verebilir miyim	RoomService
+oda servisi ücretli mi	RoomService
+odama kahve söyleyebilir miyim	RoomService
+odaya yemek servisi yapılıyor mu	RoomService
+oda servisi menüsü var mı	RoomService
+room service kaça kadar açık	RoomService
+odadan restoran siparişi verebilir miyim	RoomService
+yemeği odada yiyebilir miyim	RoomService
+oda servisi siparişi nasıl verilir	RoomService
+odaya servis mevcut mu	RoomService
+odama yiyecek getirilir mi	RoomService
+room service hakkında bilgi verir misiniz	RoomService
+wifi şifresi nedir	WifiHelp
+internete nasıl bağlanırım	WifiHelp
+wi fi bilgilerini nereden öğrenirim	WifiHelp
+kablosuz internet var mı	WifiHelp
+otel wifi şifresi ne	WifiHelp
+internet bağlantısı nasıl yapılır	WifiHelp
+wifi çalışmıyor ne yapmalıyım	WifiHelp
+kablosuz ağa nasıl bağlanabilirim	WifiHelp
+odada internet var mı	WifiHelp
+wifi bilgisi alabilir miyim	WifiHelp
+internet şifresini öğrenmek istiyorum	WifiHelp
+otele ait wifi ağı hangisi	WifiHelp
+wifi bağlantısında sorun yaşıyorum	WifiHelp
+internete bağlanamıyorum	WifiHelp
+kablosuz ağ şifresi nedir	WifiHelp
+wifi erişimi nasıl sağlanıyor	WifiHelp
+odadaki interneti nasıl kullanırım	WifiHelp
+wifi ücretsiz mi	WifiHelp
+internet bağlantı bilgileri nerede	WifiHelp
+wi fi konusunda yardım lazım	WifiHelp
+otopark var mı	Parking
+aracımı nereye park edebilirim	Parking
+otel otoparkı mevcut mu	Parking
+ücretsiz otoparkınız var mı	Parking
+park yeri bulunuyor mu	Parking
+arabamla gelirsem park edebilir miyim	Parking
+otopark ücretli mi	Parking
+araç park alanı var mı	Parking
+otelde vale var mı	Parking
+otoparkı kullanabilir miyim	Parking
+araba için yeriniz var mı	Parking
+park hizmeti sunuyor musunuz	Parking
+otopark rezervasyonu gerekiyor mu	Parking
+aracımı otelde bırakabilir miyim	Parking
+kapalı otopark var mı	Parking
+açık otoparkınız bulunuyor mu	Parking
+park ücreti ne kadar	Parking
+otopark girişini nasıl bulurum	Parking
+araçla geleceğim park sorunu olur mu	Parking
+otel misafirleri için otopark var mı	Parking
+havaalanı transferi var mı	AirportTransfer
+havaalanından otele servisiniz var mı	AirportTransfer
+airport transfer hizmeti sunuyor musunuz	AirportTransfer
+havaalanından nasıl gelebilirim	AirportTransfer
+transfer ayarlayabilir misiniz	AirportTransfer
+otele havaalanı servisi var mı	AirportTransfer
+havaalanına araç gönderiyor musunuz	AirportTransfer
+transfer ücreti ne kadar	AirportTransfer
+havaalanı transferi nasıl alınır	AirportTransfer
+shuttle hizmetiniz var mı	AirportTransfer
+havaalanından karşılama yapıyor musunuz	AirportTransfer
+transfer rezervasyonu nasıl yapılır	AirportTransfer
+havaalanına bırakma hizmeti var mı	AirportTransfer
+otel transfer aracı sağlıyor mu	AirportTransfer
+uçaktan indikten sonra transfer kullanabilir miyim	AirportTransfer
+havaalanı servisi hangi saatlerde	AirportTransfer
+transfer için önceden haber vermek gerekir mi	AirportTransfer
+airport shuttle mevcut mu	AirportTransfer
+havaalanı ulaşımı konusunda yardım eder misiniz	AirportTransfer
+havaalanı transfer bilgisi almak istiyorum	AirportTransfer
+oda temizliği ne zaman yapılıyor	Housekeeping
+odamı temizletebilir miyim	Housekeeping
+housekeeping hizmeti var mı	Housekeeping
+temizlik görevlisi ne zaman gelir	Housekeeping
+oda temizliği her gün mü	Housekeeping
+havlular ne zaman değişiyor	Housekeeping
+çarşaf değişimi yapılıyor mu	Housekeeping
+ek temizlik isteyebilir miyim	Housekeeping
+odamın temizlenmesini istiyorum	Housekeeping
+temizlik saatleri nedir	Housekeeping
+housekeeping nasıl çağrılır	Housekeeping
+odaya temizlik talebi verebilir miyim	Housekeeping
+temizlik hizmeti kaçta başlıyor	Housekeeping
+havlu değişimi talep edebilir miyim	Housekeeping
+oda bakım hizmeti nasıl oluyor	Housekeeping
+günlük oda temizliği var mı	Housekeeping
+odam bugün temizlenmedi	Housekeeping
+ekstra havlu isteyebilir miyim	Housekeeping
+temizlik için resepsiyonu mu aramalıyım	Housekeeping
+housekeeping hakkında bilgi verir misiniz	Housekeeping
+evcil hayvan kabul ediyor musunuz	PetPolicy
+köpeğimle gelebilir miyim	PetPolicy
+kedimi otele getirebilir miyim	PetPolicy
+pet friendly misiniz	PetPolicy
+hayvanla konaklamak mümkün mü	PetPolicy
+evcil hayvan yasak mı	PetPolicy
+köpek kabul ediliyor mu	PetPolicy
+kedi kabul ediyor musunuz	PetPolicy
+odada evcil hayvan kalabilir mi	PetPolicy
+evcil hayvan için ek ücret var mı	PetPolicy
+küçük köpeğimle kalabilir miyim	PetPolicy
+hayvan kabul eden odanız var mı	PetPolicy
+evcil hayvan politikası nedir	PetPolicy
+pet ile rezervasyon yapabilir miyim	PetPolicy
+kedimle konaklamak istiyorum	PetPolicy
+köpeğimi odaya alabilir miyim	PetPolicy
+evcil hayvan sınırı var mı	PetPolicy
+hangi hayvanlar kabul ediliyor	PetPolicy
+pet konaklaması mümkün mü	PetPolicy
+evcil hayvan kurallarını öğrenebilir miyim	PetPolicy
+sigara içilebilir mi	SmokingPolicy
+odada sigara içmek yasak mı	SmokingPolicy
+sigara içilen oda var mı	SmokingPolicy
+smoking room bulunuyor mu	SmokingPolicy
+sigara politikası nedir	SmokingPolicy
+otelde nerede sigara içebilirim	SmokingPolicy
+sigara içme alanı var mı	SmokingPolicy
+balkonda sigara içebilir miyim	SmokingPolicy
+odalar sigara içilmeyen oda mı	SmokingPolicy
+sigara kullanımı serbest mi	SmokingPolicy
+sigara içmek için alanınız var mı	SmokingPolicy
+sigara içenler için oda var mı	SmokingPolicy
+otelde sigara yasağı var mı	SmokingPolicy
+sigara içme kurallarını öğrenmek istiyorum	SmokingPolicy
+odada tütün kullanabilir miyim	SmokingPolicy
+sigara içilen bölüm nerede	SmokingPolicy
+smoking alanı mevcut mu	SmokingPolicy
+sigara içmeye izin veriliyor mu	SmokingPolicy
+odada sigara cezası var mı	SmokingPolicy
+sigara konusunda otel kuralı nedir	SmokingPolicy
+çocuklarla konaklama kuralları nedir	ChildPolicy
+çocuk kabul ediyor musunuz	ChildPolicy
+çocuk için ek yatak var mı	ChildPolicy
+bebek yatağı sağlayabilir misiniz	ChildPolicy
+çocuklar ücretsiz kalıyor mu	ChildPolicy
+aile olarak çocukla gelebilir miyiz	ChildPolicy
+çocuk konaklama ücreti var mı	ChildPolicy
+bebekle konaklamak mümkün mü	ChildPolicy
+çocuk yaş sınırı var mı	ChildPolicy
+çocuk politikası nedir	ChildPolicy
+çocuğum için yatak isteyebilir miyim	ChildPolicy
+aile odasında çocuk kalabilir mi	ChildPolicy
+bebek yatağı ücretli mi	ChildPolicy
+çocuk için rezervasyon nasıl yapılır	ChildPolicy
+çocuklu ailelere uygun musunuz	ChildPolicy
+çocuklar için ek ücret alıyor musunuz	ChildPolicy
+iki çocukla kalabilir miyiz	ChildPolicy
+çocuk konaklama koşullarını öğrenmek istiyorum	ChildPolicy
+bebekle oda ayırtabilir miyim	ChildPolicy
+çocuklar için otel kuralları neler	ChildPolicy
+hangi ödeme yöntemleri geçerli	PaymentMethods
+kredi kartı kabul ediyor musunuz	PaymentMethods
+nakit ödeme yapabilir miyim	PaymentMethods
+banka kartıyla ödeme olur mu	PaymentMethods
+ödeme seçenekleriniz neler	PaymentMethods
+hangi kartlar geçiyor	PaymentMethods
+otel ücretini nasıl ödeyebilirim	PaymentMethods
+ödeme yöntemlerini öğrenmek istiyorum	PaymentMethods
+online ödeme yapabilir miyim	PaymentMethods
+tesiste ödeme seçeneği var mı	PaymentMethods
+kredi kartıyla rezervasyon ödenir mi	PaymentMethods
+nakit kabul ediyor musunuz	PaymentMethods
+ödeme için havale yapabilir miyim	PaymentMethods
+hangi ödeme tiplerini kabul ediyorsunuz	PaymentMethods
+kartla ödeme mümkün mü	PaymentMethods
+konaklama ücretini neyle ödeyebilirim	PaymentMethods
+ödeme seçenekleri hakkında bilgi verir misiniz	PaymentMethods
+debit kart kullanabilir miyim	PaymentMethods
+ödeme tesiste mi yapılıyor	PaymentMethods
+rezervasyon ücretini nasıl öderim	PaymentMethods
+iptal koşulları nelerdir	CancellationPolicy
+ücretsiz iptal var mı	CancellationPolicy
+rezervasyonu iptal edersem para iadesi olur mu	CancellationPolicy
+iptal politikası nedir	CancellationPolicy
+iptalde ücret kesiliyor mu	CancellationPolicy
+kaç gün öncesine kadar ücretsiz iptal edebilirim	CancellationPolicy
+iptal ücreti var mı	CancellationPolicy
+rezervasyon iptalinde iade şartları nedir	CancellationPolicy
+cancellation policy nedir	CancellationPolicy
+iptal edersem ne kadar kesinti olur	CancellationPolicy
+ücret iadesi hangi koşullarda yapılır	CancellationPolicy
+rezervasyon iptal şartlarını öğrenmek istiyorum	CancellationPolicy
+ücretsiz iptal süresi ne kadar	CancellationPolicy
+iptal halinde param geri gelir mi	CancellationPolicy
+iade edilebilir rezervasyon ne demek	CancellationPolicy
+iptal cezası uygulanıyor mu	CancellationPolicy
+rezervasyonun iade koşulları nedir	CancellationPolicy
+iptal politikası hakkında bilgi verir misiniz	CancellationPolicy
+hangi tarihe kadar iptal ücretsiz	CancellationPolicy
+iptal ve iade kuralları neler	CancellationPolicy
+mrb	Greeting
+slm	Greeting
+iyi geceler	Greeting
+merhaba kolay gelsin	Greeting
+hello	Greeting
+hi	Greeting
+sa	Greeting
+selamlar herkese	Greeting
+iki kişilik premium oda ayırtmak istiyorum	ReservationCreate
+tek kişilik standart oda için rezervasyon yapmak istiyorum	ReservationCreate
+üç kişilik oda rezerve etmek istiyorum	ReservationCreate
+hafta sonu için rezervasyon yapabilir miyim	ReservationCreate
+üç gece kalmak için oda ayırtmak istiyorum	ReservationCreate
+telefonla rezervasyon yapabilir miyim	ReservationCreate
+e posta ile rezervasyon yapılıyor mu	ReservationCreate
+rezervasyon için hangi bilgiler gerekli	ReservationCreate
+ailem için oda ayırtacağım	ReservationCreate
+gelecek hafta için yer ayırtabilir misiniz	ReservationCreate
+premium odada kalmak istiyorum rezervasyon yapalım	ReservationCreate
+rezervasyon yaptırmak istiyorum	ReservationCreate
+nereden oda tutabilirim	ReservationCreate
+yer ayırtma işlemi nasıl	ReservationCreate
+rezervasyon onayı nasıl geliyor	ReservationCreate
+rezervasyonumu premium odaya yükseltmek istiyorum	ReservationChange
+standart odadan premium odaya geçebilir miyim	ReservationChange
+tarih değişikliği ücretli mi	ReservationChange
+rezervasyonumu bir gün kısaltmak istiyorum	ReservationChange
+rezervasyondaki ismi değiştirmek istiyorum	ReservationChange
+tek kişilik odayı iki kişilik yapmak istiyorum	ReservationChange
+geliş tarihimi ertelemek istiyorum	ReservationChange
+rezervasyonuma bir gece eklemek istiyorum	ReservationChange
+rezervasyon değişikliği için kime yazmalıyım	ReservationChange
+oda tipini yükseltmek mümkün mü	ReservationChange
+rezervasyonumu iptal ettirmek istiyorum	ReservationCancel
+iptal talebimi nereye iletmeliyim	ReservationCancel
+rezervasyon numaramla iptal yapabilir miyim	ReservationCancel
+gelemiyorum rezervasyonu iptal edin	ReservationCancel
+iptal için e posta göndermem yeterli mi	ReservationCancel
+online rezervasyonumu iptal etmek istiyorum	ReservationCancel
+ayırttığım odayı istemiyorum	ReservationCancel
+planım değişti rezervasyonu iptal etmem lazım	ReservationCancel
+iptal işlemini nasıl başlatırım	ReservationCancel
+rezervasyon iptalini nasıl yaparım	ReservationCancel
+premium oda müsait mi	RoomAvailability
+üç kişilik boş oda var mı	RoomAvailability
+tek kişilik oda boş mu	RoomAvailability
+bu hafta sonu yer var mı	RoomAvailability
+ayın 15inde boş oda var mı	RoomAvailability
+bayramda boş odanız olur mu	RoomAvailability
+premium odalarda yer kaldı mı	RoomAvailability
+standart oda müsait mi	RoomAvailability
+otel dolu mu	RoomAvailability
+müsaitlik durumunu nasıl öğrenirim	RoomAvailability
+iki gece için boş oda var mı	RoomAvailability
+yarın gece için yer kaldı mı	RoomAvailability
+premium oda ile standart oda arasındaki fark ne	RoomTypes
+premium odanın özellikleri neler	RoomTypes
+standart odada neler var	RoomTypes
+üç kişilik oda var mı	RoomTypes
+üç kişilik odalarınız nasıl	RoomTypes
+iki kişilik odada kaç yatak var	RoomTypes
+odalar kaç metrekare	RoomTypes
+balkonlu oda var mı	RoomTypes
+hangi odada küvet var	RoomTypes
+premium odalar nasıl	RoomTypes
+1 kişilik oda seçenekleri neler	RoomTypes
+3 kişilik oda türleri	RoomTypes
+üç kişi kalabileceğimiz oda var mı	RoomTypes
+tek başıma kalacağım hangi odayı önerirsiniz	RoomTypes
+odalarda neler bulunuyor	RoomTypes
+premium oda ne kadar	RoomPrice
+standart tek kişilik oda fiyatı	RoomPrice
+iki kişilik premium oda kaç tl	RoomPrice
+üç kişilik oda fiyatı nedir	RoomPrice
+tek kişilik oda ne kadar	RoomPrice
+premium iki kişilik odanın gecelik ücreti	RoomPrice
+en ucuz oda ne kadar	RoomPrice
+en pahalı oda kaç para	RoomPrice
+3 kişilik premium oda fiyatı	RoomPrice
+1 kişilik standart oda kaç lira	RoomPrice
+2 kişilik standart oda fiyatı ne kadar	RoomPrice
+premium ile standart arasında fiyat farkı ne	RoomPrice
+fiyatlara kdv dahil mi	RoomPrice
+üç gece kalsam ne kadar öderim	RoomPrice
+tek kişi için gecelik ücret ne	RoomPrice
+oda fiyat listesi	RoomPrice
+gecelik fiyatlar kişi başı mı	RoomPrice
+aile için oda fiyatı ne kadar	RoomPrice
+giriş saati	CheckInTime
+check in kaçta başlıyor	CheckInTime
+otele saat kaçtan itibaren giriş yapılıyor	CheckInTime
+odaya kaçtan sonra yerleşebilirim	CheckInTime
+giriş yapma saati nedir	CheckInTime
+kaçta check in yapabiliriz	CheckInTime
+çıkış saati	CheckOutTime
+check out kaçta	CheckOutTime
+odayı en geç saat kaçta bırakıyoruz	CheckOutTime
+ayrılış saati nedir	CheckOutTime
+kaçta çıkış yapmalıyız	CheckOutTime
+son çıkış saati	CheckOutTime
+erken giriş ücreti ne kadar	EarlyCheckIn
+saat 10da odaya girebilir miyim	EarlyCheckIn
+sabah 9da gelirsem odaya geçebilir miyim	EarlyCheckIn
+erken check in garantili mi	EarlyCheckIn
+erken giriş için ücret ödemem gerekir mi	EarlyCheckIn
+erken varış yapacağım oda verir misiniz	EarlyCheckIn
+geç çıkış ücreti ne kadar	LateCheckOut
+saat 14e kadar odada kalabilir miyim	LateCheckOut
+akşama kadar odayı kullanmak istiyorum	LateCheckOut
+geç check out ücretsiz mi	LateCheckOut
+uçağım akşam odayı geç bırakabilir miyim	LateCheckOut
+çıkışı öğleden sonraya uzatabilir miyim	LateCheckOut
+kahvaltı kaçta	BreakfastTime
+kahvaltı saati	BreakfastTime
+hafta sonu kahvaltı kaçta	BreakfastTime
+kahvaltı nerede veriliyor	BreakfastTime
+kahvaltı açık büfe mi	BreakfastTime
+fiyatlara kahvaltı dahil mi	BreakfastIncluded
+premium odada kahvaltı dahil mi	BreakfastIncluded
+kahvaltısız oda var mı	BreakfastIncluded
+kahvaltı ayrıca ücretli mi	BreakfastIncluded
+oda kahvaltı dahil mi	BreakfastIncluded
+kahvaltı dahil fiyat mı	BreakfastIncluded
+restoran açık mı	RestaurantHours
+akşam yemeği kaça kadar	RestaurantHours
+öğle yemeği kaçta	RestaurantHours
+lobi bar kaça kadar açık	RestaurantHours
+bar saatleri nedir	RestaurantHours
+otelde akşam yemeği var mı	RestaurantHours
+oda servisi 24 saat mi	RoomService
+gece oda servisi var mı	RoomService
+oda servisi nasıl çağırılır	RoomService
+odaya kahvaltı getirilebilir mi	RoomService
+oda servisi için hangi numarayı aramalıyım	RoomService
+oda servisinde servis ücreti var mı	RoomService
+wifi	WifiHelp
+wifi var mı	WifiHelp
+internet ücretli mi	WifiHelp
+wifi ağ adı ne	WifiHelp
+internet hızı nasıl	WifiHelp
+wifi şifresi nerede yazıyor	WifiHelp
+otopark ücreti ne kadar	Parking
+vale hizmeti var mı	Parking
+elektrikli araç şarj istasyonu var mı	Parking
+otopark 24 saat açık mı	Parking
+arabamı nereye bırakacağım	Parking
+otoparkta yer var mı	Parking
+havalimanından otele ulaşım nasıl	AirportTransfer
+havalimanından otele nasıl giderim	AirportTransfer
+havaalanından otelinize nasıl ulaşırım	AirportTransfer
+havalimanı transfer ücreti ne kadar	AirportTransfer
+havalimanına servis var mı	AirportTransfer
+havalimanından taksi ile ne kadar sürer	AirportTransfer
+uçaktan inince beni alır mısınız	AirportTransfer
+havaalanı karşılama ücretli mi	AirportTransfer
+havalimanı transferi ayarlamak istiyorum	AirportTransfer
+havalimanı otele uzak mı	AirportTransfer
+temizlik	Housekeeping
+oda temizliği ücretli mi	Housekeeping
+rahatsız etmeyin kartı nasıl kullanılır	Housekeeping
+havlu değişimi ne sıklıkla	Housekeeping
+odamı temizlemeyin	Housekeeping
+evcil hayvan ücreti ne kadar	PetPolicy
+premium odaya köpek alınır mı	PetPolicy
+kaç kiloya kadar köpek kabul ediliyor	PetPolicy
+kedi getirebilir miyim	PetPolicy
+evcil hayvanlar restorana girebilir mi	PetPolicy
+sigara içersem ceza var mı	SmokingPolicy
+elektronik sigara içilebilir mi	SmokingPolicy
+bahçede sigara içebilir miyim	SmokingPolicy
+sigara içilen alan nerede	SmokingPolicy
+ek yatak ücreti ne kadar	ChildPolicy
+kaç yaşa kadar çocuk ücretsiz	ChildPolicy
+bebek yatağı var mı	ChildPolicy
+iki kişilik odaya ek yatak konur mu	ChildPolicy
+12 yaşındaki çocuk ücretli mi	ChildPolicy
+çocuk için indirim var mı	ChildPolicy
+amex geçiyor mu	PaymentMethods
+döviz ile ödeme yapabilir miyim	PaymentMethods
+euro kabul ediyor musunuz	PaymentMethods
+ödeme girişte mi alınıyor	PaymentMethods
+ön ödeme gerekiyor mu	PaymentMethods
+iptal ücretli mi	CancellationPolicy
+iade edilemez fiyat nedir	CancellationPolicy
+48 saat içinde iptal edersem ne olur	CancellationPolicy
+gelmezsem ücret alınır mı	CancellationPolicy
+iptal iadesi kaç günde yatar	CancellationPolicy
+ücretsiz iptal süresi kaç saat	CancellationPolicy
+otelin adresi nedir	HotelLocation
+otel nerede	HotelLocation
+otel nerede bulunuyor	HotelLocation
+otelinizin konumu neresi	HotelLocation
+otele nasıl ulaşırım	HotelLocation
+otele nasıl gelirim	HotelLocation
+adresinizi alabilir miyim	HotelLocation
+otel şehir merkezine yakın mı	HotelLocation
+metroya yakın mısınız	HotelLocation
+en yakın metro durağı hangisi	HotelLocation
+otele toplu taşıma ile nasıl gidilir	HotelLocation
+otelin yeri neresi	HotelLocation
+haritada konumunuzu nasıl bulurum	HotelLocation
+otel merkeze ne kadar uzak	HotelLocation
+otelin yakınında neler var	HotelLocation
+otele otobüsle nasıl gelinir	HotelLocation
+otel hangi semtte	HotelLocation
+otelin tam adresi	HotelLocation
+konum bilgisi verir misiniz	HotelLocation
+otel adres	HotelLocation
+otelin lokasyonu	HotelLocation
+otele yürüyerek gidilir mi	HotelLocation
+istasyondan otele nasıl gelirim	HotelLocation
+otogardan otele nasıl ulaşırım	HotelLocation
+otel merkezi bir yerde mi	HotelLocation
+otelinize nasıl gelebilirim	HotelLocation
+otelin yol tarifi	HotelLocation
+yol tarifi alabilir miyim	HotelLocation
+otele ulaşım seçenekleri neler	HotelLocation
+otele en kolay nasıl gidilir	HotelLocation
+otelin konumunu paylaşır mısınız	HotelLocation
+otel hangi caddede	HotelLocation
+otelin posta adresi	HotelLocation
+otel sahile yakın mı	HotelLocation
+otele yakın alışveriş merkezi var mı	HotelLocation
+çevrede gezilecek yerler var mı	HotelLocation
+otelin etrafı nasıl	HotelLocation
+otel nerede konumlanıyor	HotelLocation
+konumunuz nedir	HotelLocation
+otel hangi bölgede	HotelLocation
+havuz var mı	PoolAndSpa
+otelde havuz var mı	PoolAndSpa
+havuz kaçta açılıyor	PoolAndSpa
+havuz saatleri nedir	PoolAndSpa
+havuz ücretli mi	PoolAndSpa
+kapalı havuz var mı	PoolAndSpa
+spa var mı	PoolAndSpa
+spa hizmetleriniz neler	PoolAndSpa
+masaj yaptırabilir miyim	PoolAndSpa
+masaj fiyatları ne kadar	PoolAndSpa
+hamam var mı	PoolAndSpa
+sauna var mı	PoolAndSpa
+türk hamamı ücretli mi	PoolAndSpa
+spa randevusu nasıl alınır	PoolAndSpa
+fitness salonu var mı	PoolAndSpa
+spor salonu kaçta açık	PoolAndSpa
+gym var mı	PoolAndSpa
+havuza çocuklar girebilir mi	PoolAndSpa
+havuzda bone zorunlu mu	PoolAndSpa
+spa kaçta kapanıyor	PoolAndSpa
+masaj randevusu almak istiyorum	PoolAndSpa
+havuz havlusu veriliyor mu	PoolAndSpa
+sauna kullanımı ücretsiz mi	PoolAndSpa
+wellness alanı var mı	PoolAndSpa
+buhar odası var mı	PoolAndSpa
+spor salonu ücretsiz mi	PoolAndSpa
+havuz ısıtmalı mı	PoolAndSpa
+açık havuz var mı	PoolAndSpa
+spa merkezi nerede	PoolAndSpa
+masaj çeşitleri neler	PoolAndSpa
+cilt bakımı yapılıyor mu	PoolAndSpa
+havuzu kullanabilir miyim	PoolAndSpa
+fitness saatleri nedir	PoolAndSpa
+spa paketi var mı	PoolAndSpa
+hamam kaçta açık	PoolAndSpa
+havuz hangi katta	PoolAndSpa
+spor yapabileceğim bir alan var mı	PoolAndSpa
+çiftler için masaj var mı	PoolAndSpa
+otelde jakuzi var mı	PoolAndSpa
+yüzme havuzunuz var mı	PoolAndSpa
+resepsiyonu nasıl ararım	ContactInfo
+otelin telefon numarası nedir	ContactInfo
+size nasıl ulaşabilirim	ContactInfo
+iletişim bilgileriniz neler	ContactInfo
+e posta adresiniz nedir	ContactInfo
+resepsiyon 24 saat açık mı	ContactInfo
+odadan resepsiyonu nasıl ararım	ContactInfo
+otelle iletişime geçmek istiyorum	ContactInfo
+mail adresiniz ne	ContactInfo
+resepsiyonla görüşmek istiyorum	ContactInfo
+bir yetkiliyle konuşabilir miyim	ContactInfo
+müşteri hizmetleri numarası	ContactInfo
+otelin maili nedir	ContactInfo
+size mail atabilir miyim	ContactInfo
+rezervasyon için e posta adresi	ContactInfo
+şikayetimi kime iletebilirim	ContactInfo
+resepsiyon kaça kadar açık	ContactInfo
+canlı biriyle konuşmak istiyorum	ContactInfo
+resepsiyonun dahili numarası	ContactInfo
+gece resepsiyonda kimse var mı	ContactInfo
+otelle nasıl iletişim kurarım	ContactInfo
+iletişim	ContactInfo
+telefon numaranız	ContactInfo
+otel yönetimine ulaşmak istiyorum	ContactInfo
+öneri ve şikayet için nereye yazmalıyım	ContactInfo
+odadaki telefondan kimi arayabilirim	ContactInfo
+acil durumda kime ulaşmalıyım	ContactInfo
+resepsiyonu aramam lazım	ContactInfo
+size yazabileceğim bir adres var mı	ContactInfo
+iletişim adresi nedir	ContactInfo
+resepsiyonun numarası kaç	ContactInfo
+otel çalışanlarına nasıl ulaşırım	ContactInfo
+bilgi almak için kime yazmalıyım	ContactInfo
+sizi arayabilir miyim	ContactInfo
+whatsapp hattınız var mı	ContactInfo
+misafir ilişkilerine nasıl ulaşırım	ContactInfo
+resepsiyonist ile konuşabilir miyim	ContactInfo
+otel iletişim bilgisi	ContactInfo
+size ulaşmanın yolu nedir	ContactInfo
+e posta ile iletişim kurabilir miyim	ContactInfo
+selamün aleyküm	Greeting
+iyi sabahlar	Greeting
+merhaba nasılsınız	Greeting
+hey	Greeting
+merhaba bir sorum var	Greeting
+selam yardım eder misin	Greeting
+iyi günler size bir şey sormak istiyorum	Greeting
+merhaba bilgi almak istiyorum	Greeting
+selam asistan	Greeting
+merhaba bot	Greeting
+günaydın nasılsınız	Greeting
+tünaydın	Greeting
+rezervasyon kaydı açmak istiyorum	ReservationCreate
+konaklama kaydı oluşturmak istiyorum	ReservationCreate
+otelinizde oda tutmak istiyorum	ReservationCreate
+bir haftalık rezervasyon yapmak istiyorum	ReservationCreate
+rezervasyon nasıl yapılıyor	ReservationCreate
+oda rezervasyonu yapmak mümkün mü	ReservationCreate
+sizde kalmak istiyorum nasıl yer ayırtırım	ReservationCreate
+oda almak istiyorum	ReservationCreate
+yer rezervasyonu	ReservationCreate
+rezervasyon oluşturma adımları neler	ReservationCreate
+rezervasyon kaydımı düzenlemek istiyorum	ReservationChange
+rezervasyonda değişiklik yapmak istiyorum	ReservationChange
+konaklama kaydımda değişiklik yapmak istiyorum	ReservationChange
+rezervasyon tarihlerimi kaydırmak istiyorum	ReservationChange
+giriş tarihimi bir gün sonraya almak istiyorum	ReservationChange
+rezervasyondaki kişi sayısını artırmak istiyorum	ReservationChange
+kişi sayısını azaltmak istiyorum	ReservationChange
+rezervasyonumu düzeltmem gerekiyor	ReservationChange
+yanlış tarih seçtim düzeltebilir miyim	ReservationChange
+rezervasyonumu güncelleyebilir misiniz	ReservationChange
+oda tipimi değiştirmek istiyorum	ReservationChange
+rezervasyonumu bir hafta ileri alabilir miyim	ReservationChange
+rezervasyon bilgilerini değiştirme	ReservationChange
+rezervasyonda tarih değişikliği	ReservationChange
+konaklama süremi uzatabilir miyim	ReservationChange
+rezervasyon kaydımı iptal etmek istiyorum	ReservationCancel
+konaklama kaydımı iptal etmek istiyorum	ReservationCancel
+rezervasyondan vazgeçtim	ReservationCancel
+gelmekten vazgeçtim rezervasyonu iptal etmek istiyorum	ReservationCancel
+rezervasyonumu geri almak istiyorum	ReservationCancel
+oda ayırtmaktan vazgeçtim	ReservationCancel
+rezervasyonu iptal ettirmem mümkün mü	ReservationCancel
+rezervasyon kaydını sildirmek istiyorum	ReservationCancel
+rezervasyonumu iptal eder misiniz	ReservationCancel
+iptal etmek istiyorum	ReservationCancel
+rezervasyon iptal talebi	ReservationCancel
+konaklamamı iptal etmek istiyorum	ReservationCancel
+rezervasyonumu sonlandırmam gerekiyor	ReservationCancel
+ayırtılan odayı iptal	ReservationCancel
+rezervasyonumu iptal ederken ne yapmalıyım	ReservationCancel
+odalarınızın doluluk durumu nedir	RoomAvailability
+doluluk oranı nasıl	RoomAvailability
+bu tarihlerde müsaitlik var mı	RoomAvailability
+boş yeriniz kaldı mı	RoomAvailability
+önümüzdeki hafta sonu oda bulunur mu	RoomAvailability
+oda kalmış mı	RoomAvailability
+otelde yer bulabilir miyim	RoomAvailability
+gelecek ay için boş oda var mı	RoomAvailability
+müsait oda sorgulamak istiyorum	RoomAvailability
+kalacak yer var mı	RoomAvailability
+otelde boş yer var mı	RoomAvailability
+tüm odalar dolu mu	RoomAvailability
+oda türlerinizi anlatır mısınız	RoomTypes
+odalar hakkında bilgi verir misiniz	RoomTypes
+odalarınız nasıl	RoomTypes
+hangi odalar var	RoomTypes
+süit odanız var mı	RoomTypes
+aileler için oda seçenekleri neler	RoomTypes
+kalabalık aile için oda var mı	RoomTypes
+odaların büyüklüğü nedir	RoomTypes
+oda kapasiteleri neler	RoomTypes
+odalar kaç kişilik	RoomTypes
+en büyük oda hangisi	RoomTypes
+manzaralı oda var mı	RoomTypes
+konaklama maliyeti ne kadar	RoomPrice
+bir gece kalmanın maliyeti nedir	RoomPrice
+oda bedelleri nedir	RoomPrice
+fiyatlar ne kadar	RoomPrice
+gecelik ücretler	RoomPrice
+oda fiyatlarınız pahalı mı	RoomPrice
+bütçeme uygun oda var mı	RoomPrice
+fiyat bilgisi alabilir miyim	RoomPrice
+odayı ne zaman teslim alırım	CheckInTime
+varış günü odaya ne zaman geçebilirim	CheckInTime
+checkin saati	CheckInTime
+checkin kaçta	CheckInTime
+check-in zamanı nedir	CheckInTime
+otele giriş kaçta yapılıyor	CheckInTime
+odaya yerleşme kaçta	CheckInTime
+girişte oda kaçta hazır olur	CheckInTime
+otele varış saatim kaç olmalı	CheckInTime
+giriş saatiniz kaçtır	CheckInTime
+odanın hazır olma saati	CheckInTime
+otele saat kaçta gelmeliyim	CheckInTime
+check in saatiniz	CheckInTime
+girişler saat kaçta	CheckInTime
+odaya giriş zamanı	CheckInTime
+otele giriş yapma saati kaç	CheckInTime
+checkout saati	CheckOutTime
+checkout kaçta	CheckOutTime
+check-out zamanı nedir	CheckOutTime
+odadan kaçta çıkmalıyım	CheckOutTime
+ayrılış günü odayı kaçta bırakmalıyım	CheckOutTime
+çıkış günü odadan en geç kaçta çıkılır	CheckOutTime
+anahtarı kaçta teslim ediyoruz	CheckOutTime
+otelden çıkış kaçta yapılıyor	CheckOutTime
+odayı kaçta boşaltıyoruz	CheckOutTime
+çıkışlar saat kaçta	CheckOutTime
+oda kartını ne zaman teslim edeceğim	CheckOutTime
+son ayrılış saati kaç	CheckOutTime
+çıkış zamanınız nedir	CheckOutTime
+otelden ayrılmak için son saat	CheckOutTime
+odadan ayrılma saati	CheckOutTime
+checkout zamanı kaç	CheckOutTime
+checkin saatinden önce odaya girebilir miyiz	EarlyCheckIn
+saat 14ten önce gelirsem ne olur	EarlyCheckIn
+erken gelirsem oda hazır olur mu	EarlyCheckIn
+erken check in ücreti var mı	EarlyCheckIn
+sabah erkenden odaya yerleşebilir miyim	EarlyCheckIn
+erken check in rica ediyorum	EarlyCheckIn
+erken varışta odaya girebilir miyim	EarlyCheckIn
+gece uçuşla sabah varacağım odaya girebilir miyim	EarlyCheckIn
+öğlen olmadan odayı almak istiyorum	EarlyCheckIn
+erken giriş yapmak istiyorum	EarlyCheckIn
+giriş saatini öne çekebilir miyim	EarlyCheckIn
+erkenden check in olur mu	EarlyCheckIn
+odaya erken yerleşme imkanı	EarlyCheckIn
+erken check in şartları neler	EarlyCheckIn
+checkout saatinden sonra kalmak istiyorum	LateCheckOut
+çıkış saatinden sonra odada kalabilir miyiz	LateCheckOut
+odayı akşama kadar tutabilir miyim	LateCheckOut
+geç ayrılış mümkün mü	LateCheckOut
+geç çıkış yapmak istiyorum	LateCheckOut
+çıkışı birkaç saat erteleyebilir miyim	LateCheckOut
+oda teslimini akşama bırakabilir miyim	LateCheckOut
+uçuşum gece odamı geç bırakabilir miyim	LateCheckOut
+late check out ücreti	LateCheckOut
+geç çıkış şartları neler	LateCheckOut
+çıkış saatini geciktirebilir miyim	LateCheckOut
+öğleden sonra çıkış yapabilir miyim	LateCheckOut
+odadan geç çıkma imkanı var mı	LateCheckOut
+check out saatini uzatma	LateCheckOut
+kahvaltı saatleri	BreakfastTime
+kahvaltı kaçta başlar	BreakfastTime
+kahvaltı ne zamana kadar	BreakfastTime
+kahvaltıya en geç kaçta inebilirim	BreakfastTime
+kahvaltı servisi kaçta bitiyor	BreakfastTime
+açık büfe kahvaltı saatleri	BreakfastTime
+sabah kahvaltısı kaçta	BreakfastTime
+kahvaltı hangi saatte	BreakfastTime
+kahvaltı kaçta sona eriyor	BreakfastTime
+kahvaltı salonu ne zaman açık	BreakfastTime
+sabah öğünü kaçta	BreakfastTime
+kahvaltıya kaçta gidebiliriz	BreakfastTime
+kahvaltı saat aralığı	BreakfastTime
+büfe kahvaltı ne zaman	BreakfastTime
+erken kahvaltı var mı	BreakfastTime
+kahvaltı zamanları nelerdir	BreakfastTime
+kahvaltı oda fiyatına dahil mi	BreakfastIncluded
+sabah kahvaltısı fiyata dahil mi	BreakfastIncluded
+kahvaltı ekstra mı	BreakfastIncluded
+kahvaltı için para ödeyecek miyim	BreakfastIncluded
+kahvaltı paketime dahil mi	BreakfastIncluded
+kahvaltılı mı kalıyoruz	BreakfastIncluded
+oda kahvaltılı mı	BreakfastIncluded
+kahvaltı ücret dahil mi	BreakfastIncluded
+kahvaltı dahil fiyatlar mı	BreakfastIncluded
+kahvaltı dahil midir	BreakfastIncluded
+kahvaltı bedava mı	BreakfastIncluded
+kahvaltıya ayrıca ücret var mı	BreakfastIncluded
+kahvaltı fiyatı ne kadar	BreakfastIncluded
+dışarıdan kahvaltıya gelinebilir mi	BreakfastIncluded
+restoran saat kaça kadar açık	RestaurantHours
+akşam yemeği saatleri	RestaurantHours
+öğle yemeği saatleri nedir	RestaurantHours
+restoranda akşam yemeği kaçta	RestaurantHours
+restoran bugün açık mı	RestaurantHours
+akşam yemeği için restoran ne zaman açılıyor	RestaurantHours
+yemek saatleri nedir	RestaurantHours
+restoranınız kaçta kapanıyor	RestaurantHours
+otel restoranı saatleri	RestaurantHours
+bar kaçta kapanıyor	RestaurantHours
+lobi bar açık mı	RestaurantHours
+akşam yemeği servisi kaça kadar	RestaurantHours
+öğle arası restoran açık mı	RestaurantHours
+restoranda yer ayırtabilir miyim	RestaurantHours
+odaya yemek siparişi	RoomService
+oda servisi saatleri	RoomService
+gece odaya yemek söyleyebilir miyim	RoomService
+odaya sipariş verebilir miyim	RoomService
+oda servisinden yemek istemek istiyorum	RoomService
+odama içecek getirebilir misiniz	RoomService
+oda servisi kaça kadar açık	RoomService
+odada yemek yemek istiyorum	RoomService
+odaya servis nasıl istenir	RoomService
+oda servisi menüsünü görebilir miyim	RoomService
+gece acıktım odaya yemek gelir mi	RoomService
+odaya kahve istiyorum	RoomService
+room service	RoomService
+oda servisi fiyatları	RoomService
+wifi şifresi	WifiHelp
+internet şifresi ne	WifiHelp
+wifi adı nedir	WifiHelp
+wifi bağlanmıyor	WifiHelp
+internet çok yavaş	WifiHelp
+wifi parolası nedir	WifiHelp
+kablosuz internet şifresi	WifiHelp
+internet var mı	WifiHelp
+odamda wifi çekiyor mu	WifiHelp
+wifi ye nasıl bağlanırım	WifiHelp
+internet bağlantısı yok	WifiHelp
+wifi çekmiyor	WifiHelp
+wi fi şifresini unuttum	WifiHelp
+misafir wifi ağı hangisi	WifiHelp
+otopark	Parking
+park yeri var mı	Parking
+otopark fiyatı	Parking
+arabamı park edebilir miyim	Parking
+vale var mı	Parking
+otopark nerede	Parking
+otopark kapalı mı	Parking
+araç park ücreti ne kadar	Parking
+otelde park sorunu var mı	Parking
+arabayla geliyoruz park yeri var mı	Parking
+otopark kaç araçlık	Parking
+elektrikli arabamı şarj edebilir miyim	Parking
+otoparka nasıl girilir	Parking
+otopark için rezervasyon lazım mı	Parking
+havalimanı transferi	AirportTransfer
+havalimanı servisi var mı	AirportTransfer
+transfer hizmeti	AirportTransfer
+havaalanından otele servis	AirportTransfer
+otel havalimanından alıyor mu	AirportTransfer
+havalimanı ulaşımı nasıl	AirportTransfer
+transfer fiyatı nedir	AirportTransfer
+havalimanına dönüş transferi	AirportTransfer
+havaalanına nasıl giderim	AirportTransfer
+havaalanından otele ulaşım	AirportTransfer
+uçuş sonrası transfer	AirportTransfer
+havaalanı transferi rezervasyonu	AirportTransfer
+odam temizlenmedi	Housekeeping
+oda temizliği	Housekeeping
+temizlikçi ne zaman gelir	Housekeeping
+odamın temizlenmesi	Housekeeping
+yeni havlu istiyorum	Housekeeping
+çarşafları değiştirir misiniz	Housekeeping
+temizlik saatleri	Housekeeping
+oda temizlik saati	Housekeeping
+odama temizlik gönderir misiniz	Housekeeping
+havlu istiyorum	Housekeeping
+oda temizliğini sonra yapabilir misiniz	Housekeeping
+temizlik görevlisi çağırmak istiyorum	Housekeeping
+günlük temizlik saat kaçta	Housekeeping
+yastık ve battaniye isteyebilir miyim	Housekeeping
+evcil hayvan	PetPolicy
+köpek kabul ediyor musunuz	PetPolicy
+kedi ile konaklama	PetPolicy
+evcil hayvanımla kalabilir miyim	PetPolicy
+pet kabul	PetPolicy
+köpeğimi getirebilir miyim	PetPolicy
+hayvanlar kabul ediliyor mu	PetPolicy
+büyük köpek kabul ediyor musunuz	PetPolicy
+evcil hayvan dostu musunuz	PetPolicy
+kedimi getirsem sorun olur mu	PetPolicy
+evcil hayvan için oda	PetPolicy
+köpek ücreti ne kadar	PetPolicy
+hayvanımla gelebilir miyim	PetPolicy
+evcil hayvan kabul şartları	PetPolicy
+sigara	SmokingPolicy
+sigara içilir mi	SmokingPolicy
+odada sigara içebilir miyim	SmokingPolicy
+sigara alanı nerede	SmokingPolicy
+sigara yasak mı	SmokingPolicy
+sigara içilecek yer var mı	SmokingPolicy
+balkonda sigara içilir mi	SmokingPolicy
+sigara içen odası var mı	SmokingPolicy
+sigara cezası ne kadar	SmokingPolicy
+otelde sigara serbest mi	SmokingPolicy
+nerede sigara içilebilir	SmokingPolicy
+odada elektronik sigara kullanabilir miyim	SmokingPolicy
+sigara içilmeyen otel misiniz	SmokingPolicy
+tütün ürünleri kullanılabilir mi	SmokingPolicy
+çocuklar için ücret	ChildPolicy
+çocuk ücretsiz mi	ChildPolicy
+bebek yatağı istiyorum	ChildPolicy
+ek yatak var mı	ChildPolicy
+çocuğumla kalabilir miyim	ChildPolicy
+çocuklar için yaş sınırı	ChildPolicy
+bebek için beşik var mı	ChildPolicy
+kaç yaşa kadar ücretsiz	ChildPolicy
+çocuk için ek yatak ücreti	ChildPolicy
+iki çocuk ve iki yetişkin kalabilir mi	ChildPolicy
+çocuklu konaklama	ChildPolicy
+çocuk politikanız nedir	ChildPolicy
+bebek ile gelebilir miyiz	ChildPolicy
+çocuklara indirim var mı	ChildPolicy
+ödeme yöntemleri	PaymentMethods
+kartla ödeyebilir miyim	PaymentMethods
+nakit geçiyor mu	PaymentMethods
+visa geçiyor mu	PaymentMethods
+mastercard kabul ediyor musunuz	PaymentMethods
+havale ile ödeme	PaymentMethods
+eft yapabilir miyim	PaymentMethods
+dolar ile ödeme	PaymentMethods
+ödeme nasıl yapılıyor	PaymentMethods
+ödemeyi ne zaman yapıyoruz	PaymentMethods
+banka kartı geçiyor mu	PaymentMethods
+ödeme şekilleri neler	PaymentMethods
+yabancı kart geçer mi	PaymentMethods
+provizyon alınıyor mu	PaymentMethods
+iptal koşulları	CancellationPolicy
+iptal şartları neler	CancellationPolicy
+ücretsiz iptal	CancellationPolicy
+iptal edersem para iadesi alır mıyım	CancellationPolicy
+iade politikası nedir	CancellationPolicy
+iptalde kesinti var mı	CancellationPolicy
+son dakika iptal ücretli mi	CancellationPolicy
+iptal ücreti ne kadar	CancellationPolicy
+rezervasyon iptal şartları	CancellationPolicy
+iade süresi ne kadar	CancellationPolicy
+paramı geri alabilir miyim	CancellationPolicy
+iptal etsem ücret öder miyim	CancellationPolicy
+iade edilemez rezervasyon iptal edilir mi	CancellationPolicy
+iptal için son gün ne zaman	CancellationPolicy
+otel neresi	HotelLocation
+adres nedir	HotelLocation
+otelin konumu	HotelLocation
+otelin haritası	HotelLocation
+otelinize nasıl gidilir	HotelLocation
+havuz	PoolAndSpa
+spa	PoolAndSpa
+masaj	PoolAndSpa
+sauna saatleri	PoolAndSpa
+spor salonu var mı	PoolAndSpa
+resepsiyon	ContactInfo
+resepsiyon numarası	ContactInfo
+iletişim numarası	ContactInfo
+otel e posta	ContactInfo
+size nasıl ulaşırım	ContactInfo

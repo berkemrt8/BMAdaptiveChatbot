@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adaptive Chatbot Test</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app" id="app">
+        <section class="chat" aria-label="Sohbet">
+            <header class="chat-header">
+                <div class="identity">
+                    <div class="avatar" id="botAvatar" aria-hidden="true">AC</div>
+                    <div class="identity-text">
+                        <h1 id="botName">Chatbot</h1>
+                        <p class="subline">
+                            <span id="statusDot" class="status-dot" aria-hidden="true"></span>
+                            <span id="status">Bağlanıyor…</span>
+                            <span class="sep" aria-hidden="true">·</span>
+                            <code id="botKey"></code>
+                        </p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <label class="bot-picker" title="Test edilecek bot profili. Değiştirince yeni bir sohbet başlar.">
+                        <span class="bot-picker-label">Bot</span>
+                        <select id="botSelect" aria-label="Bot profili" disabled></select>
+                    </label>
+                    <label class="switch" title="Mesajların altında intent ve skor bilgisini göster">
+                        <input type="checkbox" id="debugToggle" checked>
+                        <span class="switch-track" aria-hidden="true"></span>
+                        <span class="switch-label">Debug</span>
+                    </label>
+                    <button type="button" id="inspectorToggle" class="ghost-btn" aria-controls="inspector" aria-expanded="true">Panel</button>
+                    <button type="button" id="resetButton" class="ghost-btn">Yeni sohbet</button>
+                </div>
+            </header>
+
+            <div id="messages" class="messages" role="log" aria-live="polite"></div>
+
+            <form id="chatForm" class="composer">
+                <input id="messageInput" type="text" autocomplete="off"
+                       placeholder="Bir soru yazın…" aria-label="Mesaj" required>
+                <button type="submit" id="sendButton" class="send-btn" aria-label="Gönder">
+                    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M3.4 20.4 21 12 3.4 3.6l-.01 6.53L15 12 3.39 13.87z"/></svg>
+                </button>
+            </form>
+        </section>
+
+        <aside class="inspector" id="inspector" aria-label="Test paneli">
+            <div class="inspector-head">
+                <h2>Son yanıt</h2>
+                <button type="button" id="inspectorClose" class="ghost-btn only-mobile" aria-label="Paneli kapat">Kapat</button>
+            </div>
+
+            <p id="inspectorEmpty" class="empty">Bir mesaj gönderdiğinizde botun kararı burada görünür.</p>
+
+            <div id="inspectorBody" hidden>
+                <div class="verdict">
+                    <span id="verdictBadge" class="badge">–</span>
+                    <strong id="verdictIntent" class="mono">–</strong>
+                </div>
+
+                <dl class="facts">
+                    <div><dt>Karar adımı</dt><dd id="factSource">–</dd></div>
+                    <div><dt>ML adayı</dt><dd id="factCandidate" class="mono">–</dd></div>
+                    <div><dt>Veri kaynağı</dt><dd id="factData">–</dd></div>
+                </dl>
+
+                <div class="meter-block">
+                    <div class="meter-label"><span>Skor</span><span id="scoreValue" class="mono">–</span></div>
+                    <div class="meter" aria-hidden="true">
+                        <div class="meter-fill" id="scoreFill"></div>
+                        <div class="meter-mark" id="scoreMark" style="left:65%"></div>
+                    </div>
+                    <div class="meter-label"><span>Margin</span><span id="marginValue" class="mono">–</span></div>
+                    <div class="meter" aria-hidden="true">
+                        <div class="meter-fill" id="marginFill"></div>
+                        <div class="meter-mark" id="marginMark" style="left:15%"></div>
+                    </div>
+                    <p class="hint" id="thresholdHint">Çizgiler doğrudan cevap eşikleri.</p>
+                </div>
+
+                <details class="raw">
+                    <summary>Ham yanıt (JSON)</summary>
+                    <pre id="rawJson"></pre>
+                </details>
+            </div>
+
+            <div class="session">
+                <span>Oturum</span>
+                <code id="sessionValue">–</code>
+                <span>Model eğitimi</span>
+                <code id="modelValue">–</code>
+                <span>Canlı veri sağlayıcısı</span>
+                <code id="providerValue">–</code>
+                <span>API</span>
+                <code id="apiValue">–</code>
+            </div>
+        </aside>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

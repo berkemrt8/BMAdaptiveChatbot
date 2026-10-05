@@ -1,0 +1,946 @@
+Text	Label
+merhaba	Greeting
+selam	Greeting
+selamlar	Greeting
+günaydın	Greeting
+iyi günler	Greeting
+iyi akşamlar	Greeting
+iyi geceler	Greeting
+hello	Greeting
+hi	Greeting
+hey	Greeting
+merhaba nexora	Greeting
+selam nexora	Greeting
+merhaba yardımcı olur musun	Greeting
+selam yardımcı olabilir misin	Greeting
+kolay gelsin	Greeting
+iyi çalışmalar	Greeting
+merhabalar	Greeting
+selamün aleyküm	Greeting
+sa	Greeting
+mrb	Greeting
+slm	Greeting
+hey nexora	Greeting
+hello nexora	Greeting
+günaydın nexora	Greeting
+iyi akşamlar nexora	Greeting
+merhaba asistan	Greeting
+selam asistan	Greeting
+naber asistan	Greeting
+merhaba bir şey soracağım	Greeting
+selam bir sorum var	Greeting
+iyi günler bir şey danışacağım	Greeting
+merhaba yardıma ihtiyacım var	Greeting
+selam sana soru soracağım	Greeting
+hey yardımcı olur musun	Greeting
+meraba	Greeting
+selamm	Greeting
+selammm	Greeting
+merhabaa	Greeting
+hello there	Greeting
+hi there	Greeting
+orada mısın selam	Greeting
+hey bir şey danışacağım	Greeting
+merhaba iyi çalışmalar	Greeting
+selamlar kolay gelsin	Greeting
+hi nexora assistant	Greeting
+ne yapabilirsin	GeneralHelp
+hangi konularda yardımcı olabilirsin	GeneralHelp
+neleri biliyorsun	GeneralHelp
+sana ne sorabilirim	GeneralHelp
+bu bot ne işe yarıyor	GeneralHelp
+hangi soruları cevaplayabilirsin	GeneralHelp
+hangi konularda bilgin var	GeneralHelp
+bana nasıl yardımcı olursun	GeneralHelp
+özelliklerin neler	GeneralHelp
+yeteneklerin neler	GeneralHelp
+nexora hakkında nelerde yardım edersin	GeneralHelp
+hangi işlemlerde yardım sağlıyorsun	GeneralHelp
+ürünlerle ilgili neler sorabilirim	GeneralHelp
+mağaza hakkında hangi bilgileri verebilirsin	GeneralHelp
+yardım kapsamın nedir	GeneralHelp
+desteklediğin konular neler	GeneralHelp
+sen ne işe yarıyorsun	GeneralHelp
+chatbot hangi şeyleri biliyor	GeneralHelp
+hangi tür soruları anlıyorsun	GeneralHelp
+ne konusunda destek veriyorsun	GeneralHelp
+bana yapabildiklerini anlat	GeneralHelp
+yardım menün ne	GeneralHelp
+asistan olarak ne yapıyorsun	GeneralHelp
+hangi alanlarda cevap verebilirsin	GeneralHelp
+kapsamın ne	GeneralHelp
+nexora asistanı ne yapar	GeneralHelp
+senden ne isteyebilirim	GeneralHelp
+hangi hizmetleri sunuyorsun	GeneralHelp
+hangi mağaza konularını biliyorsun	GeneralHelp
+ürün dışında neler sorabilirim	GeneralHelp
+sorabileceğim şeyler neler	GeneralHelp
+bana yardımcı olabileceğin başlıklar neler	GeneralHelp
+chatbot özelliklerini söyle	GeneralHelp
+ne biliyosun	GeneralHelp
+neler yapabiliyon	GeneralHelp
+yardımcı olabileceğin konuları say	GeneralHelp
+hangi konuda soru sorayım	GeneralHelp
+sistem neleri destekliyor	GeneralHelp
+bu asistandan nasıl yararlanırım	GeneralHelp
+kullanım alanın nedir	GeneralHelp
+yardım sunduğun konu başlıklarını sıralar mısın	GeneralHelp
+bana hangi başlıklarda bilgi sağlayabilirsin	GeneralHelp
+cevaplayabildiğin soru türlerini göster	GeneralHelp
+bu asistanın görevleri neler	GeneralHelp
+hangi işlemler için seni kullanmalıyım	GeneralHelp
+kargo kaç günde gelir	ShippingPolicy
+teslimat süresi ne kadar	ShippingPolicy
+ürün kaç günde elime ulaşır	ShippingPolicy
+siparişim ne zaman gelir	ShippingPolicy
+sipariş ne zaman kargoya verilir	ShippingPolicy
+kargonuz kaç günde teslim ediyor	ShippingPolicy
+ortalama teslimat kaç gün	ShippingPolicy
+bugün sipariş versem ne zaman gelir	ShippingPolicy
+teslimat ne kadar sürüyor	ShippingPolicy
+ürünü ne kadar sürede gönderiyorsunuz	ShippingPolicy
+kargolama süreniz nedir	ShippingPolicy
+standart teslimat kaç iş günü	ShippingPolicy
+şehir dışına kaç günde gönderiyorsunuz	ShippingPolicy
+büyük şehirlere teslimat ne kadar sürer	ShippingPolicy
+ürünüm ne zaman kargolanır	ShippingPolicy
+sipariş verdikten sonra kaç günde gelir	ShippingPolicy
+kargo firmaya ne zaman verilir	ShippingPolicy
+kargo hızlı mı	ShippingPolicy
+hızlı kargo seçeneği var mı	ShippingPolicy
+ekspres teslimat var mı	ShippingPolicy
+kargo ücreti ne kadar	ShippingPolicy
+standart kargo kaç tl	ShippingPolicy
+ücretsiz kargo var mı	ShippingPolicy
+ücretsiz kargo limiti kaç	ShippingPolicy
+kaç tl üzeri kargo bedava	ShippingPolicy
+1500 tl üzeri kargo ücretsiz mi	ShippingPolicy
+kargo için ücret ödüyor muyum	ShippingPolicy
+teslimat ücreti nedir	ShippingPolicy
+kargo politikanız nedir	ShippingPolicy
+teslimat koşulları neler	ShippingPolicy
+kargo bilgisi verir misin	ShippingPolicy
+kargo ve teslimat hakkında bilgi	ShippingPolicy
+siparisim kac gunde gelir	ShippingPolicy
+kargo kac gun suruyo	ShippingPolicy
+teslimat tahminen ne kadar surer	ShippingPolicy
+urun ne zaman elime ulasir	ShippingPolicy
+kargoya verilmesi kaç gün sürer	ShippingPolicy
+ne zaman teslim alırım	ShippingPolicy
+kaç günde kapımda olur	ShippingPolicy
+gönderim süresi nedir	ShippingPolicy
+siparişi verdikten sonra tahmini teslim günü nedir	ShippingPolicy
+hızlandırılmış teslimat seçeneği sunuyor musunuz	ShippingPolicy
+gönderi ne zaman kapıma gelir	ShippingPolicy
+siparişin teslim edilmesi tahminen kaç gün alır	ShippingPolicy
+alışverişten sonra kargolama nasıl ilerler	ShippingPolicy
+ürünü iade edebilir miyim	ReturnPolicy
+iade nasıl yapılır	ReturnPolicy
+iade süresi kaç gün	ReturnPolicy
+aldığım ürünü geri verebilir miyim	ReturnPolicy
+ürünü geri göndermek istiyorum	ReturnPolicy
+iade şartları nelerdir	ReturnPolicy
+iade koşulları ne	ReturnPolicy
+kaç gün içinde iade yapabilirim	ReturnPolicy
+30 gün iade hakkı var mı	ReturnPolicy
+ürünü beğenmedim geri yollayabilir miyim	ReturnPolicy
+iade talebi nasıl açılır	ReturnPolicy
+iade sürecini anlatır mısın	ReturnPolicy
+hangi ürünler iade edilemez	ReturnPolicy
+iade kabul edilmeyen ürünler hangileri	ReturnPolicy
+kulak içi ürünü iade edebilir miyim	ReturnPolicy
+hasarlı ürünü iade edebilir miyim	ReturnPolicy
+kutusu açılan ürün iade olur mu	ReturnPolicy
+aksesuarları eksik ürün iade edilir mi	ReturnPolicy
+para iadesi ne zaman gelir	ReturnPolicy
+geri ödeme kaç günde yatar	ReturnPolicy
+iade sonrası param ne zaman hesabıma geçer	ReturnPolicy
+ödeme iadesi kaç iş günü sürer	ReturnPolicy
+iade ücretim ne zaman döner	ReturnPolicy
+ürünü geri vermek için ne yapmalıyım	ReturnPolicy
+satın aldığımı iade etmek istiyorum	ReturnPolicy
+iade politikanız nedir	ReturnPolicy
+geri gönderim şartlarınız neler	ReturnPolicy
+iade için süre sınırı nedir	ReturnPolicy
+ürün bana uygun değil iade edeceğim	ReturnPolicy
+siparişi teslim aldım ama geri vermek istiyorum	ReturnPolicy
+iade edebilirmiyim	ReturnPolicy
+iadeyi nerden baslatiyorum	ReturnPolicy
+urunu geri verebilir miyim	ReturnPolicy
+para iadesi kac gun	ReturnPolicy
+geri ödeme süreci nasıl	ReturnPolicy
+ürünü açtım iade olur mu	ReturnPolicy
+iade kargo süreci nasıl	ReturnPolicy
+teslim aldıktan sonra iade mümkün mü	ReturnPolicy
+iade hakkımı nasıl kullanırım	ReturnPolicy
+üründen vazgeçtim geri gönderebilir miyim	ReturnPolicy
+teslim aldığım ürünü geri yollama prosedürü	ReturnPolicy
+iade başlatınca sonraki adımlar neler	ReturnPolicy
+geri verme için son tarih ne zaman	ReturnPolicy
+ürünü teslimden sonra geri çevirebilir miyim	ReturnPolicy
+iade edilen ürünün ücreti hesabıma ne zaman döner	ReturnPolicy
+ürünlerin garantisi var mı	WarrantyPolicy
+garanti kaç yıl	WarrantyPolicy
+garanti süresi ne kadar	WarrantyPolicy
+ürün bozulursa ne yapacağım	WarrantyPolicy
+arızalı ürün için ne yapmalıyım	WarrantyPolicy
+teknik servis nasıl çalışıyor	WarrantyPolicy
+ürün bozuk geldi	WarrantyPolicy
+ürün arızalandı ne yapmalıyım	WarrantyPolicy
+garanti şartları nelerdir	WarrantyPolicy
+garanti kapsamı nedir	WarrantyPolicy
+servise nasıl gönderirim	WarrantyPolicy
+servis kaydı nasıl açılır	WarrantyPolicy
+garantiye nasıl yollarım	WarrantyPolicy
+cihaz çalışmıyor ne yapayım	WarrantyPolicy
+ürün arıza verdi	WarrantyPolicy
+üründe üretim hatası var	WarrantyPolicy
+doa süreci nedir	WarrantyPolicy
+ilk gün arızalı çıktı	WarrantyPolicy
+ürün teslimde bozuk çıktı	WarrantyPolicy
+garanti belgesi var mı	WarrantyPolicy
+satıcı garantisi kaç yıl	WarrantyPolicy
+iki yıl garanti var mı	WarrantyPolicy
+arıza durumunda kimle görüşmeliyim	WarrantyPolicy
+teknik destek için ürünümü nasıl gönderirim	WarrantyPolicy
+garanti kapsamında onarım nasıl olur	WarrantyPolicy
+garanti prosedürü nasıl	WarrantyPolicy
+bozulan cihazı nereye göndereceğim	WarrantyPolicy
+ürünün garantisini nasıl kullanırım	WarrantyPolicy
+servis süreci ne kadar	WarrantyPolicy
+arızalı ürünü servis kabul ediyor mu	WarrantyPolicy
+garantisi toplam ne kadar suruyor	WarrantyPolicy
+urun bozuldu ne yapayim	WarrantyPolicy
+teknik servis nerede	WarrantyPolicy
+servise nasil yollarim	WarrantyPolicy
+garanti kosullari	WarrantyPolicy
+ürün açılmıyor garantiye girer mi	WarrantyPolicy
+donanımsal arıza olursa ne olur	WarrantyPolicy
+ürün kusurlu çıktı ne yapmalıyım	WarrantyPolicy
+garanti desteği nasıl alınır	WarrantyPolicy
+satın aldığım cihaz arızalandı	WarrantyPolicy
+teknik arıza yaşayan üründe hangi garanti desteği var	WarrantyPolicy
+cihazda teknik arıza çıktı servis süreci ne	WarrantyPolicy
+garanti kapsamında yardım almak istiyorum	WarrantyPolicy
+bozuk cihaz için onarım talebi nasıl açılır	WarrantyPolicy
+ürün arızası garanti tarafından karşılanır mı	WarrantyPolicy
+hangi ödeme yöntemleri var	PaymentMethods
+ödeme seçenekleri neler	PaymentMethods
+kredi kartıyla ödeme yapabilir miyim	PaymentMethods
+banka kartı geçiyor mu	PaymentMethods
+havale ile ödeme var mı	PaymentMethods
+kartla ödeme kabul ediyor musunuz	PaymentMethods
+hangi kartlarla ödeme yapabilirim	PaymentMethods
+ödeme nasıl yapılır	PaymentMethods
+alışverişte hangi ödeme türleri destekleniyor	PaymentMethods
+kredi kartı kullanabilir miyim	PaymentMethods
+banka kartıyla alışveriş olur mu	PaymentMethods
+havale yapabilir miyim	PaymentMethods
+eft ile ödeme var mı	PaymentMethods
+taksit var mı	PaymentMethods
+taksit seçeneğiniz bulunuyor mu	PaymentMethods
+kart bilgilerim saklanıyor mu	PaymentMethods
+gerçek kart numarası tutuluyor mu	PaymentMethods
+ödeme güvenli mi	PaymentMethods
+kart bilgileri kayıt ediliyor mu	PaymentMethods
+ödeme sisteminiz güvenli mi	PaymentMethods
+kapıda ödeme var mı	PaymentMethods
+nakit ödeme yapabilir miyim	PaymentMethods
+ödeme yöntemleri hakkında bilgi ver	PaymentMethods
+satın alırken nasıl ödeme yapacağım	PaymentMethods
+kart kullanmadan ödeme mümkün mü	PaymentMethods
+ödeme seçeneklerini göster	PaymentMethods
+hangi ödeme kanalları var	PaymentMethods
+banka havalesi destekleniyor mu	PaymentMethods
+kredi kartı kabul ediliyor mu	PaymentMethods
+debit kart ile ödeme olur mu	PaymentMethods
+odeme yontemleri neler	PaymentMethods
+kredi karti geciyor mu	PaymentMethods
+banka kartiyla odeyebilir miyim	PaymentMethods
+havale var mi	PaymentMethods
+taksit yapiliyor mu	PaymentMethods
+kart bilgilerimi saklıyor musunuz	PaymentMethods
+ödeme ekranı hangi yöntemleri destekliyor	PaymentMethods
+satın alma için ödeme alternatifleri neler	PaymentMethods
+ödeme ile ilgili bilgi istiyorum	PaymentMethods
+para transferi ile ödeme yapabilir miyim	PaymentMethods
+alışveriş bedelini hangi ödeme araçlarıyla karşılayabilirim	PaymentMethods
+ürün alırken ödeme işlemi hangi yöntemlerle yapılır	PaymentMethods
+satın alma sırasında hangi ödeme biçimleri var	PaymentMethods
+ödemeyi kart dışında nasıl yapabilirim	PaymentMethods
+alışveriş bedelini hangi yöntemlerle verebilirim	PaymentMethods
+şifremi unuttum	PasswordResetHelp
+parolamı unuttum	PasswordResetHelp
+şifremi nasıl sıfırlarım	PasswordResetHelp
+parolamı nasıl sıfırlarım	PasswordResetHelp
+şifre sıfırlama nasıl yapılır	PasswordResetHelp
+giriş şifremi hatırlamıyorum	PasswordResetHelp
+hesabıma giremiyorum şifremi unuttum	PasswordResetHelp
+şifre reset linki lazım	PasswordResetHelp
+forgot password nerede	PasswordResetHelp
+password reset nasıl yapılır	PasswordResetHelp
+eski şifremi bilmiyorum	PasswordResetHelp
+şifreyi unuttum ne yapmalıyım	PasswordResetHelp
+parolamı hatırlamıyorum ne yapacağım	PasswordResetHelp
+hesap parolam aklımda değil	PasswordResetHelp
+şifre kurtarma nasıl çalışıyor	PasswordResetHelp
+hesaba erişemiyorum şifremi unuttum	PasswordResetHelp
+sifremi hatirlamiyorum	PasswordResetHelp
+parola aklimda degil	PasswordResetHelp
+sifre sifirlama	PasswordResetHelp
+passwordimi unuttum	PasswordResetHelp
+şifre sıfırlama sayfası nerede	PasswordResetHelp
+parola sıfırlama bağlantısı nerede	PasswordResetHelp
+şifremi geri kazanmak istiyorum	PasswordResetHelp
+parolamı kurtarmam gerekiyor	PasswordResetHelp
+giriş yapamıyorum şifrem yok	PasswordResetHelp
+şifre sıfırlama e-postasını nasıl isterim	PasswordResetHelp
+hesabın parolasını unuttum	PasswordResetHelp
+şifrem kayboldu nasıl giriş yaparım	PasswordResetHelp
+şifre kurtarma bağlantısı var mı	PasswordResetHelp
+parolamı yeniden oluşturmam lazım	PasswordResetHelp
+forgot password bağlantısını açmak istiyorum	PasswordResetHelp
+şifremi unutunca ne yapmalıyım	PasswordResetHelp
+parolayı hatırlamadığım için giriş yapamıyorum	PasswordResetHelp
+hesap şifremi unuttum yardım	PasswordResetHelp
+şifre kurtarma ekranı nerede	PasswordResetHelp
+sifremi unuttum nasil resetlerim	PasswordResetHelp
+parolami unuttum nasil yenilerim	PasswordResetHelp
+şifre resetleme sayfasına gitmek istiyorum	PasswordResetHelp
+giriş şifresini unuttum yeni parola lazım	PasswordResetHelp
+şifremi hatırlamıyorum resetlemek istiyorum	PasswordResetHelp
+parolamı bilmiyorum sıfırlamak istiyorum	PasswordResetHelp
+şifremi unuttuğum için oturum açamıyorum	PasswordResetHelp
+şifre kurtarma işlemini başlatmak istiyorum	PasswordResetHelp
+hesap parolasını sıfırlamam gerekiyor	PasswordResetHelp
+giriş şifremi unuttum	PasswordResetHelp
+şifremi değiştirmek istiyorum	PasswordChangeHelp
+mevcut şifremi değiştirmek istiyorum	PasswordChangeHelp
+hesap şifremi nasıl değiştiririm	PasswordChangeHelp
+parolamı değiştirmek istiyorum	PasswordChangeHelp
+şifre değiştirme sayfası nerede	PasswordChangeHelp
+giriş şifremi değiştirebilir miyim	PasswordChangeHelp
+oturum açtım şifremi değiştirmek istiyorum	PasswordChangeHelp
+mevcut parolamı yenilemek istiyorum	PasswordChangeHelp
+şifremi güvenlik için değiştireceğim	PasswordChangeHelp
+hesabımın şifresini güncellemek istiyorum	PasswordChangeHelp
+şifre değişikliği nasıl yapılır	PasswordChangeHelp
+parola değiştirme işlemi	PasswordChangeHelp
+şifremi nereden değiştiririm	PasswordChangeHelp
+mevcut şifremi biliyorum yenisini koymak istiyorum	PasswordChangeHelp
+şifre ayarları nerede	PasswordChangeHelp
+hesap güvenliğinden parola değiştirme	PasswordChangeHelp
+şifremi güncellemek istiyorum	PasswordChangeHelp
+parolamı güncellemek istiyorum	PasswordChangeHelp
+şifreyi değiştireceğim	PasswordChangeHelp
+hesap parolasını değiştireceğim	PasswordChangeHelp
+change password nerede	PasswordChangeHelp
+password change nasıl yapılır	PasswordChangeHelp
+şifre değiştir	PasswordChangeHelp
+parola değiştir	PasswordChangeHelp
+mevcut şifreyi değiştir	PasswordChangeHelp
+şifrem için yeni bir değer belirlemek istiyorum	PasswordChangeHelp
+hesap parolamı güvenlik amacıyla değiştireceğim	PasswordChangeHelp
+hesap sifresi degistirme	PasswordChangeHelp
+sifre degistirme ekrani	PasswordChangeHelp
+mevcut parolayi yenile	PasswordChangeHelp
+giriş yapabiliyorum ama şifremi değiştirmek istiyorum	PasswordChangeHelp
+şifremi unutmadan değiştirmek istiyorum	PasswordChangeHelp
+eski şifrem elimde yeni şifre belirlemek istiyorum	PasswordChangeHelp
+mevcut şifreyle yeni şifre oluşturmak istiyorum	PasswordChangeHelp
+hesap güvenliği şifre değişimi	PasswordChangeHelp
+şifre değiştirmek için nereye girmeliyim	PasswordChangeHelp
+parolayı değiştirebileceğim sayfa hangisi	PasswordChangeHelp
+hesap ayarlarından şifre nasıl değiştirilir	PasswordChangeHelp
+profilimde şifreyi nasıl değiştiririm	PasswordChangeHelp
+şifre güncelleme ekranını açmak istiyorum	PasswordChangeHelp
+parola güncelleme sayfası	PasswordChangeHelp
+şifre değiştirme bağlantısı	PasswordChangeHelp
+mevcut parolamı başka bir parolayla değiştireceğim	PasswordChangeHelp
+güvenlik ayarlarında şifre değişikliği	PasswordChangeHelp
+oturum açıkken şifre nasıl değiştirilir	PasswordChangeHelp
+aktif siparişlerimi görmek istiyorum	ActiveOrdersHelp
+aktif siparişlerim nerede	ActiveOrdersHelp
+devam eden siparişlerimi göster	ActiveOrdersHelp
+açık siparişlerimi görmek istiyorum	ActiveOrdersHelp
+siparişlerim şu an nerede	ActiveOrdersHelp
+halen devam eden siparişlerim	ActiveOrdersHelp
+kargoda olan siparişlerimi göster	ActiveOrdersHelp
+hazırlanan siparişlerimi görmek istiyorum	ActiveOrdersHelp
+işlemdeki siparişlerim nerede	ActiveOrdersHelp
+sipariş durumlarımı görmek istiyorum	ActiveOrdersHelp
+aktif siparişler sayfası nerede	ActiveOrdersHelp
+devam eden siparişler sayfasını aç	ActiveOrdersHelp
+siparişlerime nasıl bakarım	ActiveOrdersHelp
+mevcut siparişlerimi nasıl görürüm	ActiveOrdersHelp
+son siparişlerimi görmek istiyorum	ActiveOrdersHelp
+processing siparişlerim	ActiveOrdersHelp
+packed siparişlerim	ActiveOrdersHelp
+shipped siparişlerim	ActiveOrdersHelp
+gönderilen siparişlerimi görmek istiyorum	ActiveOrdersHelp
+hazırlıkta olan siparişlerim	ActiveOrdersHelp
+aktif sipariş listesi	ActiveOrdersHelp
+devam eden sipariş listesi	ActiveOrdersHelp
+sipariş takip ekranı nerede	ActiveOrdersHelp
+siparişlerimi takip etmek istiyorum	ActiveOrdersHelp
+siparişlerimin durumuna bakmak istiyorum	ActiveOrdersHelp
+aktif siparislerim	ActiveOrdersHelp
+devam eden siparislerim	ActiveOrdersHelp
+siparislerimi gormek istiyorum	ActiveOrdersHelp
+siparislerim nerede	ActiveOrdersHelp
+siparis takibi	ActiveOrdersHelp
+hangi siparişlerim devam ediyor	ActiveOrdersHelp
+tamamlanmamış siparişlerimi göster	ActiveOrdersHelp
+iptal olmayan aktif siparişlerim	ActiveOrdersHelp
+teslim edilmemiş siparişlerimi görmek istiyorum	ActiveOrdersHelp
+yoldaki siparişlerim nerede	ActiveOrdersHelp
+siparişler hesabımda nerede	ActiveOrdersHelp
+hesabımdaki aktif siparişleri aç	ActiveOrdersHelp
+aktif alışveriş siparişlerimi göster	ActiveOrdersHelp
+şu anki siparişlerim	ActiveOrdersHelp
+sipariş geçmişinden aktif olanları görmek istiyorum	ActiveOrdersHelp
+devam eden siparişlerime git	ActiveOrdersHelp
+aktif siparişlerimi aç	ActiveOrdersHelp
+sipariş takip sayfasını aç	ActiveOrdersHelp
+sipariş durum ekranını aç	ActiveOrdersHelp
+mevcut siparişlerime git	ActiveOrdersHelp
+nasıl üye olurum	AccountRegistrationHelp
+hesap nasıl açılır	AccountRegistrationHelp
+yeni hesap açmak istiyorum	AccountRegistrationHelp
+üyelik oluşturmak istiyorum	AccountRegistrationHelp
+kayıt olmak istiyorum	AccountRegistrationHelp
+nexoraya nasıl kayıt olurum	AccountRegistrationHelp
+yeni kullanıcı hesabı nasıl oluşturulur	AccountRegistrationHelp
+siteye nasıl üye olunur	AccountRegistrationHelp
+register sayfası nerede	AccountRegistrationHelp
+kayıt ekranı nerede	AccountRegistrationHelp
+hesap oluşturma adımları neler	AccountRegistrationHelp
+üyelik açabilir miyim	AccountRegistrationHelp
+müşteri hesabı nasıl kurulur	AccountRegistrationHelp
+siteye kayıt işlemi nasıl yapılır	AccountRegistrationHelp
+üyelik için ne gerekiyor	AccountRegistrationHelp
+hesap açmak ücretli mi	AccountRegistrationHelp
+kayıt olurken hangi bilgiler istenir	AccountRegistrationHelp
+e posta ile hesap açabilir miyim	AccountRegistrationHelp
+üye olmak için ne yapmalıyım	AccountRegistrationHelp
+yeni kullanıcı kaydı nasıl yapılır	AccountRegistrationHelp
+nexora üyeliği nasıl oluşturulur	AccountRegistrationHelp
+hesap açma sayfasına nasıl giderim	AccountRegistrationHelp
+kayıt formu nerede	AccountRegistrationHelp
+signup nasıl yapılır	AccountRegistrationHelp
+sign up nerede	AccountRegistrationHelp
+register olmak istiyorum	AccountRegistrationHelp
+üyelik işlemleri hakkında bilgi	AccountRegistrationHelp
+yeni müşteri hesabı oluşturacağım	AccountRegistrationHelp
+ilk kez hesap açacağım	AccountRegistrationHelp
+siteye kayıt olmak için yardım lazım	AccountRegistrationHelp
+uyelik acmayi bilmiyorum	AccountRegistrationHelp
+hesap acma islemi nerede	AccountRegistrationHelp
+kayit sayfasini ariyorum	AccountRegistrationHelp
+uye olmak istiyorum	AccountRegistrationHelp
+yeni hesap acma	AccountRegistrationHelp
+üyelik oluşturma nasıl	AccountRegistrationHelp
+nexora hesabı açmak istiyorum	AccountRegistrationHelp
+hesap kaydı nasıl yapılır	AccountRegistrationHelp
+kullanıcı oluşturabilir miyim	AccountRegistrationHelp
+üyelik başlatmak istiyorum	AccountRegistrationHelp
+üyelik kayıt formunu hangi sayfada bulurum	AccountRegistrationHelp
+siteye yeni müşteri olarak katılmak istiyorum	AccountRegistrationHelp
+nexorada kullanıcı hesabı oluşturma	AccountRegistrationHelp
+ilk üyelik kaydı nasıl açılır	AccountRegistrationHelp
+hesap oluşturma formunu bulamıyorum	AccountRegistrationHelp
+adres nasıl eklenir	AddressManagementHelp
+yeni adres eklemek istiyorum	AddressManagementHelp
+teslimat adresi nasıl eklenir	AddressManagementHelp
+birden fazla adres kaydedebilir miyim	AddressManagementHelp
+adresimi değiştirmek istiyorum	AddressManagementHelp
+kayıtlı adresi nasıl düzenlerim	AddressManagementHelp
+adres silebilir miyim	AddressManagementHelp
+adreslerim nerede	AddressManagementHelp
+varsayılan adres nasıl seçilir	AddressManagementHelp
+varsayılan adresi değiştirebilir miyim	AddressManagementHelp
+hesabıma adres ekleme	AddressManagementHelp
+teslimat adresimi nereden düzenlerim	AddressManagementHelp
+ev adresimi değiştireceğim	AddressManagementHelp
+ofis adresi ekleyebilir miyim	AddressManagementHelp
+yeni teslimat adresi kaydetmek istiyorum	AddressManagementHelp
+adres yönetimi nasıl çalışıyor	AddressManagementHelp
+adres defteri nerede	AddressManagementHelp
+kayıtlı adreslerimi görmek istiyorum	AddressManagementHelp
+eski adresimi silmek istiyorum	AddressManagementHelp
+sipariş adresini hesabıma kaydedebilir miyim	AddressManagementHelp
+iki farklı adres ekleniyor mu	AddressManagementHelp
+varsayılan teslimat adresi nasıl ayarlanır	AddressManagementHelp
+adres bilgilerimi güncellemek istiyorum	AddressManagementHelp
+hesaptaki adres yanlış	AddressManagementHelp
+adres kaydını düzenlemek istiyorum	AddressManagementHelp
+adres ekleme sayfası nerede	AddressManagementHelp
+adresimi güncelleyebilir miyim	AddressManagementHelp
+adres yönetimi hakkında bilgi	AddressManagementHelp
+adres listesine nereden ulaşırım	AddressManagementHelp
+yeni adresi varsayılan yapabilir miyim	AddressManagementHelp
+adres eklemeyi bulamadim	AddressManagementHelp
+adres bilgim yanlis duzeltmem lazim	AddressManagementHelp
+adres kaydini kaldiramiyorum	AddressManagementHelp
+teslimat adresi ekleme	AddressManagementHelp
+adreslerimi yönetmek istiyorum	AddressManagementHelp
+adres kaydı oluşturma	AddressManagementHelp
+hesap adresini güncelleme	AddressManagementHelp
+farklı bir teslimat adresi ekleyebilir miyim	AddressManagementHelp
+adresimi kaldırmak istiyorum	AddressManagementHelp
+adres ayarlarım nerede	AddressManagementHelp
+teslimat adresi kayıtlarını nereden yönetebilirim	AddressManagementHelp
+hesabımda yeni adres tanımlamak istiyorum	AddressManagementHelp
+adres defterindeki kaydı güncelleme	AddressManagementHelp
+bir adresi varsayılan teslimat adresi yapma	AddressManagementHelp
+kayıtlı teslimat adreslerini değiştirme	AddressManagementHelp
+ürünü favorilere nasıl eklerim	WishlistHelp
+favorilerim nerede	WishlistHelp
+wishlist nasıl çalışıyor	WishlistHelp
+bir ürünü daha sonra almak için kaydedebilir miyim	WishlistHelp
+favorilerden ürün nasıl çıkarılır	WishlistHelp
+kalp butonu ne işe yarıyor	WishlistHelp
+favori ürünlerimi nereden görürüm	WishlistHelp
+ürün kaydetme özelliği var mı	WishlistHelp
+favori listesine nasıl eklerim	WishlistHelp
+wishlist nerede	WishlistHelp
+bir ürünü favoriye kaydetmek istiyorum	WishlistHelp
+kaydettiğim ürünleri nereden görürüm	WishlistHelp
+favoriler listesine nasıl ulaşırım	WishlistHelp
+ürünü daha sonra bakmak için saklayabilir miyim	WishlistHelp
+favoriye eklediğim ürünü nasıl silerim	WishlistHelp
+favori ürünleri kaldırmak istiyorum	WishlistHelp
+ürünü istek listesine eklemek istiyorum	WishlistHelp
+istek listesi var mı	WishlistHelp
+wishlistten ürün çıkarma	WishlistHelp
+kalp simgesine basınca ne oluyor	WishlistHelp
+favori özelliği nasıl kullanılır	WishlistHelp
+ürünleri kaydedebilir miyim	WishlistHelp
+beğendiğim ürünü hesabıma kaydetmek istiyorum	WishlistHelp
+favori listemi aç	WishlistHelp
+kayıtlı ürünlerim nerede	WishlistHelp
+ürün favorileme nasıl yapılır	WishlistHelp
+favoriler hesabıma kaydoluyor mu	WishlistHelp
+favori listesini nasıl yönetirim	WishlistHelp
+istek listesine ürün ekleme	WishlistHelp
+daha sonra almak için ürün ayırabilir miyim	WishlistHelp
+favoriler nerede	WishlistHelp
+wishlist kullanmayi bilmiyorum	WishlistHelp
+favoriye nasil eklenir	WishlistHelp
+urun kaydetme	WishlistHelp
+kalp butonu	WishlistHelp
+favoriden çıkarma nasıl	WishlistHelp
+favori ürünlere nereden bakılır	WishlistHelp
+ürünleri favori yapabilir miyim	WishlistHelp
+istek listemi görmek istiyorum	WishlistHelp
+favori sistemi hakkında bilgi	WishlistHelp
+beğendiklerimi daha sonra görmek için listeye atabilir miyim	WishlistHelp
+istek listesindeki kaydı silmek istiyorum	WishlistHelp
+ürünleri favori koleksiyonuma ekleme	WishlistHelp
+favoriye alınmış ürünleri aç	WishlistHelp
+daha sonra bakacağım ürünleri nasıl saklarım	WishlistHelp
+ürüne nasıl yorum yaparım	ReviewPolicy
+ürün değerlendirmesi nasıl yazılır	ReviewPolicy
+satın aldığım ürüne puan verebilir miyim	ReviewPolicy
+yorum yapabilmek için satın almak gerekiyor mu	ReviewPolicy
+satın almadan yorum yapabilir miyim	ReviewPolicy
+kaç yıldız verebilirim	ReviewPolicy
+yorumumu güncelleyebilir miyim	ReviewPolicy
+ürün yorumu nereden yapılır	ReviewPolicy
+değerlendirme eklemek istiyorum	ReviewPolicy
+yorum şartları neler	ReviewPolicy
+yorum sistemi nasıl çalışıyor	ReviewPolicy
+ürüne yıldız vermek istiyorum	ReviewPolicy
+aldığım ürünü değerlendirebilir miyim	ReviewPolicy
+yorum bırakmak için ne gerekiyor	ReviewPolicy
+ürün incelemesi yazabilir miyim	ReviewPolicy
+eski yorumumu değiştirmek istiyorum	ReviewPolicy
+yorumumu silebilir miyim	ReviewPolicy
+değerlendirmemi düzenleyebilir miyim	ReviewPolicy
+aynı ürüne iki yorum yazabilir miyim	ReviewPolicy
+ürün satın almadan değerlendirme yapılır mı	ReviewPolicy
+puanlama sistemi nasıl	ReviewPolicy
+ürüne yorum bırakma adımları	ReviewPolicy
+review nasıl yazılır	ReviewPolicy
+ürün hakkında görüş paylaşmak istiyorum	ReviewPolicy
+yorum ekleme butonu nerede	ReviewPolicy
+satın aldığım ürünü yıldızlamak istiyorum	ReviewPolicy
+yorum politikası nedir	ReviewPolicy
+değerlendirme koşulları nelerdir	ReviewPolicy
+ürün puanı nasıl verilir	ReviewPolicy
+yorum yapma hakkı kimlerde var	ReviewPolicy
+urune yorum nasil yaparim	ReviewPolicy
+yorum yapabilir miyim	ReviewPolicy
+degerlendirme ekleme	ReviewPolicy
+yildiz vermek istiyorum	ReviewPolicy
+yorumumu degistirebilir miyim	ReviewPolicy
+ürün incelemesi ekleme	ReviewPolicy
+satın alma sonrası yorum nasıl yapılır	ReviewPolicy
+yorumumu güncellemek istiyorum	ReviewPolicy
+ürün değerlendirmesi nerede	ReviewPolicy
+yorum özelliğini nasıl kullanırım	ReviewPolicy
+satın alma sonrasında ürünü puanlama	ReviewPolicy
+ürün için kullanıcı değerlendirmesi bırakma	ReviewPolicy
+verdiğim yıldız sayısını değiştirmek istiyorum	ReviewPolicy
+yorum yazma yetkim var mı	ReviewPolicy
+ürün incelemesi yayınlama koşulları	ReviewPolicy
+siparişimi iptal edebilir miyim	OrderCancellationPolicy
+sipariş iptali nasıl yapılır	OrderCancellationPolicy
+hangi siparişler iptal edilebilir	OrderCancellationPolicy
+kargoya verilmeden siparişi iptal edebilir miyim	OrderCancellationPolicy
+processing sipariş iptal edilir mi	OrderCancellationPolicy
+packed sipariş iptal edilir mi	OrderCancellationPolicy
+shipped siparişi iptal edebilir miyim	OrderCancellationPolicy
+teslim edilmiş sipariş iptal olur mu	OrderCancellationPolicy
+sipariş hangi aşamada iptal edilebilir	OrderCancellationPolicy
+iptal koşulları neler	OrderCancellationPolicy
+siparişi iptal etmek istiyorum	OrderCancellationPolicy
+siparişimi vazgeçtim iptal edeceğim	OrderCancellationPolicy
+hazırlanan sipariş iptal olur mu	OrderCancellationPolicy
+paketlenmiş siparişi iptal edebilir miyim	OrderCancellationPolicy
+kargoya çıkmış siparişi iptal edebilir miyim	OrderCancellationPolicy
+sipariş iptal butonu ne zaman aktif	OrderCancellationPolicy
+sipariş iptalinde stok ne olur	OrderCancellationPolicy
+iptal edilen sipariş ne olur	OrderCancellationPolicy
+sipariş iptali politikası nedir	OrderCancellationPolicy
+siparişimi nasıl iptal ederim	OrderCancellationPolicy
+kargoya çıkmadan iptal mümkün mü	OrderCancellationPolicy
+henüz gönderilmedi siparişi iptal edebilir miyim	OrderCancellationPolicy
+siparişi vermekten vazgeçtim	OrderCancellationPolicy
+siparişimi iptal etmek için ne yapmalıyım	OrderCancellationPolicy
+hangi durumda iptal edemem	OrderCancellationPolicy
+shipped durumunda iptal olur mu	OrderCancellationPolicy
+delivered sipariş iptal edilir mi	OrderCancellationPolicy
+packed durumundaki siparişimi iptal etmek istiyorum	OrderCancellationPolicy
+processing durumunda iptal mümkün mü	OrderCancellationPolicy
+sipariş iptal sürecini anlat	OrderCancellationPolicy
+siparisi vazgecip geri cekebilir miyim	OrderCancellationPolicy
+siparis iptali nasil	OrderCancellationPolicy
+kargoya verilmeden iptal	OrderCancellationPolicy
+iptal etmek istiyorum	OrderCancellationPolicy
+siparişten vazgeçmek istiyorum	OrderCancellationPolicy
+sipariş iptal şartları	OrderCancellationPolicy
+siparişi geri çekebilir miyim	OrderCancellationPolicy
+gönderim öncesi sipariş iptali	OrderCancellationPolicy
+hazırlanıyor durumunda siparişi iptal	OrderCancellationPolicy
+paketlendi ama iptal etmek istiyorum	OrderCancellationPolicy
+verdiğim siparişi gönderilmeden geri almak istiyorum	OrderCancellationPolicy
+sipariş hazırlık aşamasındayken vazgeçebilir miyim	OrderCancellationPolicy
+paketlenmiş siparişi geri çekme mümkün mü	OrderCancellationPolicy
+sipariş iptal hakkı hangi durumda biter	OrderCancellationPolicy
+gönderilen sipariş artık iptal edilebilir mi	OrderCancellationPolicy
+destek ekibine nasıl ulaşırım	ContactSupport
+müşteri hizmetlerine nasıl ulaşırım	ContactSupport
+iletişim formu nerede	ContactSupport
+size nasıl ulaşabilirim	ContactSupport
+destek mesajı göndermek istiyorum	ContactSupport
+iletişim sayfası nerede	ContactSupport
+sorunumu nereye bildirebilirim	ContactSupport
+müşteri desteği nasıl alınır	ContactSupport
+nexoraya mesaj göndermek istiyorum	ContactSupport
+destek ekibine yazmak istiyorum	ContactSupport
+müşteri hizmetleriyle konuşmak istiyorum	ContactSupport
+iletişim kurmak istiyorum	ContactSupport
+bir yetkiliye nasıl ulaşırım	ContactSupport
+destek talebi nereye yazılır	ContactSupport
+iletişim formunu bulamıyorum	ContactSupport
+müşteri temsilcisine ulaşmak istiyorum	ContactSupport
+site yöneticisine mesaj atabilir miyim	ContactSupport
+destek için kime yazmalıyım	ContactSupport
+şikayetimi nereye iletebilirim	ContactSupport
+teknik bir sorunu bildirmek istiyorum	ContactSupport
+nexora destek iletişim bilgisi	ContactSupport
+destek sayfasına nasıl giderim	ContactSupport
+iletişim kanalınız nedir	ContactSupport
+yardım ekibine mesaj yollamak istiyorum	ContactSupport
+müşteri hizmetleri formu	ContactSupport
+iletişim formundan mesaj gönderme	ContactSupport
+size e posta gönderebilir miyim	ContactSupport
+destek birimine nasıl erişirim	ContactSupport
+bir sorun bildirmek istiyorum	ContactSupport
+yetkili biriyle iletişim kurmak istiyorum	ContactSupport
+destek birimine nasil varirim	ContactSupport
+musteri hizmetleri nerede	ContactSupport
+iletisim formu	ContactSupport
+size nasil ulasirim	ContactSupport
+destek ekibine yazicam	ContactSupport
+nexora iletişim	ContactSupport
+müşteri destek ekibi	ContactSupport
+destek kanalı nerede	ContactSupport
+iletişim desteği istiyorum	ContactSupport
+yardım masasına nasıl ulaşırım	ContactSupport
+müşteri destek birimine ulaşmak için ne yapmalıyım	ContactSupport
+nexora ile doğrudan iletişim kurmak istiyorum	ContactSupport
+destek temsilcisine mesaj bırakma	ContactSupport
+sorunumu bir yetkiliye iletmek istiyorum	ContactSupport
+iletişim formuyla destek isteme	ContactSupport
+AstraBook Pro 14 stokta mı	ProductAvailability
+NovaPhone X1 Pro mevcut mu	ProductAvailability
+Phantom X2 stokta var mı	ProductAvailability
+Forge GX 5080 kaç adet kaldı	ProductAvailability
+VisionQ 27 Pro stok durumu nedir	ProductAvailability
+EchoBuds Air mevcut mu	ProductAvailability
+PocketSSD 2TB stokta mı	ProductAvailability
+Nebula 75 HE var mı	ProductAvailability
+NovaPhone X1 128 tükenmiş mi	ProductAvailability
+RouteX BE7200 stokta var mı	ProductAvailability
+CreatorView 32 4K kaç tane kaldı	ProductAvailability
+ForgeBook X16 mevcut mu	ProductAvailability
+Nexora Lite 5G stokta mı	ProductAvailability
+AstraBook Pro 14 hala var mı	ProductAvailability
+NovaPhone X1 Pro satışta var mı	ProductAvailability
+Phantom X2 tükenmiş mi	ProductAvailability
+VisionQ 27 Pro elde var mı	ProductAvailability
+EchoBuds Air stoğunuzda bulunuyor mu	ProductAvailability
+PocketSSD 2TB kaç adet mevcut	ProductAvailability
+Nebula 75 HE stok bilgisi	ProductAvailability
+AstraBook Pro 14 için stok kontrolü yap	ProductAvailability
+NovaPhone X1 Pro rafta var mı	ProductAvailability
+Forge GX 5080 envanterde var mı	ProductAvailability
+CreatorView 32 4K mevcut stok ne	ProductAvailability
+RouteX BE7200 kaldı mı	ProductAvailability
+ForgeBook X16 stok sayısı kaç	ProductAvailability
+Nexora Lite 5G stok durumu	ProductAvailability
+AstraBook Pro 14 bitti mi	ProductAvailability
+NovaPhone X1 128 mevcut stok adedi	ProductAvailability
+Phantom X2 satın alınabilir mi stok var mı	ProductAvailability
+astrabook pro 14 elde kalmis mi	ProductAvailability
+novaphone x1 pro var mi	ProductAvailability
+visionq 27 pro kac adet kaldi	ProductAvailability
+pocketssd 2tb mevcut mu	ProductAvailability
+nebula 75 he tukendi mi	ProductAvailability
+stokta AstraBook Pro 14 var mı	ProductAvailability
+NovaPhone X1 Pro için stok kontrol eder misin	ProductAvailability
+Forge GX 5080 hazırda var mı	ProductAvailability
+EchoBuds Air sipariş verilebilir mi	ProductAvailability
+CreatorView 32 4K stok mevcut mu	ProductAvailability
+AstraBook Pro 14 satın almak istiyorum stok kaldı mı	ProductAvailability
+NovaPhone X1 Pro sipariş verebilir miyim elde var mı	ProductAvailability
+VisionQ 27 Pro şu an bulunabilir durumda mı	ProductAvailability
+PocketSSD 2TB tükenmeden kaç adet var	ProductAvailability
+ForgeBook X16 mağaza stoğunda görünüyor mu	ProductAvailability
+AstraBook Pro 14 fiyatı ne	ProductPrice
+NovaPhone X1 Pro 256 kaç TL	ProductPrice
+Phantom X2 ne kadar	ProductPrice
+ForgeBook X16 fiyatı	ProductPrice
+VisionQ 27 Pro kaç lira	ProductPrice
+PocketSSD 2TB fiyatını söyle	ProductPrice
+Nebula 75 HE ne kadar	ProductPrice
+EchoBuds Air kaç TL	ProductPrice
+Nexora Lite 5G fiyat bilgisi	ProductPrice
+RouteX BE7200 fiyatı nedir	ProductPrice
+CreatorView 32 4K ne kadara satılıyor	ProductPrice
+AstraBook Pro 14 kaç para	ProductPrice
+NovaPhone X1 Pro fiyatını öğrenebilir miyim	ProductPrice
+Phantom X2 güncel fiyatı ne	ProductPrice
+Forge GX 5080 fiyatı kaç	ProductPrice
+VisionQ 27 Pro güncel ücreti nedir	ProductPrice
+PocketSSD 2TB kaç para	ProductPrice
+Nebula 75 HE satış fiyatı	ProductPrice
+EchoBuds Air fiyat bilgisi verir misin	ProductPrice
+Nexora Lite 5G kaç liraya satılıyor	ProductPrice
+AstraBook Pro 14 etiket fiyatı nedir	ProductPrice
+NovaPhone X1 Pro şu an ne kadar	ProductPrice
+CreatorView 32 4K fiyatını kontrol et	ProductPrice
+RouteX BE7200 kaç tl	ProductPrice
+ForgeBook X16 güncel fiyat	ProductPrice
+Phantom X2 fiyat öğrenmek istiyorum	ProductPrice
+VisionQ 27 Pro ne kadarmış	ProductPrice
+PocketSSD 2TB ücreti ne	ProductPrice
+Nebula 75 HE fiyatına bakar mısın	ProductPrice
+EchoBuds Air kaça satılıyor	ProductPrice
+astrabook pro 14 kac tl	ProductPrice
+novaphone x1 pro kac para	ProductPrice
+visionq 27 pro fiyati ne	ProductPrice
+pocketssd 2tb ne kadar	ProductPrice
+routex be7200 kac lira	ProductPrice
+AstraBook Pro 14 fiyat kontrolü	ProductPrice
+NovaPhone X1 Pro fiyatına bak	ProductPrice
+ForgeBook X16 ne kadara geliyor	ProductPrice
+CreatorView 32 4K güncel satış fiyatı	ProductPrice
+Nexora Lite 5G fiyatını söyler misin	ProductPrice
+CreatorView 32 4K için satış bedelini söyler misin	ProductPrice
+AstraBook Pro 14 için kaç lira öderim	ProductPrice
+NovaPhone X1 Pro satın alma bedeli ne	ProductPrice
+Forge GX 5080 güncel satış bedeli kaç	ProductPrice
+EchoBuds Air ürününün şu anki fiyatını ver	ProductPrice
+AstraBook Pro 14 özellikleri neler	ProductSpecifications
+NovaPhone X1 Pro teknik özellikleri	ProductSpecifications
+VisionQ 27 Pro kaç hz	ProductSpecifications
+ForgeBook X16 ekran kartı ne	ProductSpecifications
+PocketSSD 2TB özellikleri	ProductSpecifications
+Nebula 75 HE switch özelliği nedir	ProductSpecifications
+RouteX BE7200 hangi wifi standardını destekliyor	ProductSpecifications
+CreatorView 32 4K paneli ne	ProductSpecifications
+NovaPhone X1 128 kamerası nasıl	ProductSpecifications
+AstraBook Pro 14 ram ne kadar	ProductSpecifications
+NovaPhone X1 Pro depolaması kaç gb	ProductSpecifications
+Phantom X2 teknik detayları	ProductSpecifications
+Forge GX 5080 özelliklerini göster	ProductSpecifications
+VisionQ 27 Pro çözünürlüğü ne	ProductSpecifications
+EchoBuds Air pil süresi ne	ProductSpecifications
+PocketSSD 2TB bağlantı tipi nedir	ProductSpecifications
+Nexora Lite 5G ekran özellikleri	ProductSpecifications
+AstraBook Pro 14 işlemcisi hangisi	ProductSpecifications
+ForgeBook X16 donanımı nedir	ProductSpecifications
+CreatorView 32 4K yenileme hızı kaç	ProductSpecifications
+NovaPhone X1 Pro kamera özelliklerini söyle	ProductSpecifications
+Nebula 75 HE teknik bilgi	ProductSpecifications
+RouteX BE7200 özellikleri neler	ProductSpecifications
+Phantom X2 sensörü ne	ProductSpecifications
+EchoBuds Air bağlantısı nasıl	ProductSpecifications
+AstraBook Pro 14 ekranı kaç inç	ProductSpecifications
+Forge GX 5080 belleği kaç gb	ProductSpecifications
+VisionQ 27 Pro panel tipi nedir	ProductSpecifications
+PocketSSD 2TB okuma hızı nedir	ProductSpecifications
+Nexora Lite 5G batarya kapasitesi kaç	ProductSpecifications
+astrabook pro 14 ozellikleri	ProductSpecifications
+novaphone x1 pro teknik detay	ProductSpecifications
+visionq 27 pro yenileme hizi ne	ProductSpecifications
+forgebook x16 gpu ne	ProductSpecifications
+pocketssd 2tb ozellik	ProductSpecifications
+AstraBook Pro 14 donanım bilgisi	ProductSpecifications
+NovaPhone X1 Pro spesifikasyonları	ProductSpecifications
+CreatorView 32 4K teknik bilgileri	ProductSpecifications
+RouteX BE7200 wifi özelliği	ProductSpecifications
+EchoBuds Air teknik özelliklerini ver	ProductSpecifications
+AstraBook Pro 14 cihaz bilgilerini ayrıntılı göster	ProductSpecifications
+NovaPhone X1 Pro hangi donanımlara sahip	ProductSpecifications
+VisionQ 27 Pro teknik detay tablosu	ProductSpecifications
+ForgeBook X16 sistem özellikleri neler	ProductSpecifications
+PocketSSD 2TB ürün detaylarını açıkla	ProductSpecifications
+gaming laptop arıyorum	ProductSearch
+hangi monitörler var	ProductSearch
+telefonları göster	ProductSearch
+kablosuz mouse arıyorum	ProductSearch
+2 TB SSD ürünleri var mı	ProductSearch
+Nexora marka klavyeleri göster	ProductSearch
+PixelForge ürünlerini bul	ProductSearch
+wifi 7 router arıyorum	ProductSearch
+mekanik klavye öner	ProductSearch
+kulaklık ürünlerini listele	ProductSearch
+laptop modellerini göster	ProductSearch
+monitör modellerini listeler misin	ProductSearch
+bana gaming laptop bul	ProductSearch
+Nexora klavyeleri görmek istiyorum	ProductSearch
+mouse seçenekleri neler	ProductSearch
+ssd modellerini göster	ProductSearch
+router ürünlerini listele	ProductSearch
+telefon seçeneklerine bakmak istiyorum	ProductSearch
+hangi kulaklıkları satıyorsunuz	ProductSearch
+depolama ürünlerini göster	ProductSearch
+oyuncu bilgisayarlarını bul	ProductSearch
+mekanik klavyeleriniz neler	ProductSearch
+kablosuz kulaklık arıyorum	ProductSearch
+4k monitör arıyorum	ProductSearch
+telefon kataloğunu göster	ProductSearch
+laptop kataloğu var mı	ProductSearch
+Nexora ürünlerini ara	ProductSearch
+PixelForge marka ürünler neler	ProductSearch
+wifi router seçenekleri	ProductSearch
+harici ssd arıyorum	ProductSearch
+gaming laptop bul	ProductSearch
+monitorleri goster	ProductSearch
+telefonlari listele	ProductSearch
+kablosuz mouse bul	ProductSearch
+ssd urunleri	ProductSearch
+klavye modelleri neler	ProductSearch
+kulaklık bakıyorum	ProductSearch
+router bakıyorum	ProductSearch
+hangi laptoplar mevcut	ProductSearch
+mağazadaki monitörleri görmek istiyorum	ProductSearch
+mağazada satılan laptopları bulup göster	ProductSearch
+monitör kategorisinde neler satılıyor	ProductSearch
+telefon ürün ailesini listele	ProductSearch
+klavye çeşitlerini görmek istiyorum	ProductSearch
+depolama ürünlerine göz atmak istiyorum	ProductSearch
+en ucuz klavye hangisi	CheapestProduct
+en uygun fiyatlı laptop hangisi	CheapestProduct
+en ucuz mouse ne	CheapestProduct
+en ucuz telefon hangisi	CheapestProduct
+en ucuz monitörü göster	CheapestProduct
+kulaklıklarda en ucuz ürün hangisi	CheapestProduct
+en ucuz 2 TB depolama ürünü	CheapestProduct
+en ucuz router hangisi	CheapestProduct
+en ucuz Nexora laptop	CheapestProduct
+fiyatı en düşük klavyeyi bul	CheapestProduct
+en hesaplı monitör hangisi	CheapestProduct
+en düşük fiyatlı mouse hangisi	CheapestProduct
+telefonlardan en ucuzu hangisi	CheapestProduct
+laptoplarda en ucuz model nedir	CheapestProduct
+en ucuz kulaklığı göster	CheapestProduct
+ssd ürünlerinde en düşük fiyat hangisi	CheapestProduct
+routerlarda en ucuz seçenek ne	CheapestProduct
+mekanik klavyelerde en ucuz ürün	CheapestProduct
+en uygun fiyatlı telefonun adı ne	CheapestProduct
+en düşük fiyatlı monitörü bul	CheapestProduct
+ucuzdan en ucuz laptop hangisi	CheapestProduct
+hangi klavye en az para	CheapestProduct
+en az fiyatlı mouse	CheapestProduct
+en ekonomik monitör hangisi	CheapestProduct
+en ucuz ürünü bul klavye kategorisinde	CheapestProduct
+laptop kategorisindeki en ucuz ürünü göster	CheapestProduct
+telefon kategorisinde fiyatı en düşük olan	CheapestProduct
+kulaklıklar içinde en ucuz olan hangisi	CheapestProduct
+ssdler arasında en ucuzu	CheapestProduct
+router seçeneklerinden en ucuzunu göster	CheapestProduct
+en ucuz klavye	CheapestProduct
+en ucuz laptop	CheapestProduct
+en ucuz telefon	CheapestProduct
+en ucuz monitor	CheapestProduct
+en ucuz mouse	CheapestProduct
+fiyati en dusuk klavye	CheapestProduct
+en hesapli laptop hangisi	CheapestProduct
+en düşük fiyatlı kulaklık	CheapestProduct
+en ucuz ssd hangisi	CheapestProduct
+en ucuz routerı bul	CheapestProduct
+laptoplarda minimum fiyatlı model hangisi	CheapestProduct
+klavye kategorisinin fiyat lideri en ucuz hangisi	CheapestProduct
+monitörlerde en az ödeyeceğim ürün ne	CheapestProduct
+telefonlardan fiyat tabanı en düşük olan	CheapestProduct
+ssd kategorisinde en düşük fiyatlı ürünü getir	CheapestProduct
+30 bin TL altında laptop var mı	ProductBudgetSearch
+5000 TL altı klavye göster	ProductBudgetSearch
+20 bin liraya kadar monitör arıyorum	ProductBudgetSearch
+7000 TL altında kulaklık öner	ProductBudgetSearch
+50 bin TL altı telefonlar	ProductBudgetSearch
+10 bin TL altında SSD var mı	ProductBudgetSearch
+3000 liraya kadar mouse göster	ProductBudgetSearch
+25 bin TL bütçeyle laptop	ProductBudgetSearch
+15 bin altında monitör	ProductBudgetSearch
+6000 TL altı mekanik klavye	ProductBudgetSearch
+4000 tl bütçeyle mouse bul	ProductBudgetSearch
+35000 liraya kadar laptop göster	ProductBudgetSearch
+8000 tl altında ssd öner	ProductBudgetSearch
+20000 tl bütçeme uygun telefon var mı	ProductBudgetSearch
+10000 lirayı geçmeyen klavye bul	ProductBudgetSearch
+45000 tl maksimum laptop istiyorum	ProductBudgetSearch
+5000 liraya kadar kulaklıkları listele	ProductBudgetSearch
+12000 tl altında monitör bul	ProductBudgetSearch
+2500 tl bütçeyle mouse arıyorum	ProductBudgetSearch
+9000 tl altı router göster	ProductBudgetSearch
+bütçem 30000 tl laptop öner	ProductBudgetSearch
+en fazla 15000 tl monitör istiyorum	ProductBudgetSearch
+7000 tl bütçem var kulaklık bul	ProductBudgetSearch
+50000 tl sınırında telefon göster	ProductBudgetSearch
+10000 tl bütçeye ssd	ProductBudgetSearch
+3000 tl geçmeyen mouse var mı	ProductBudgetSearch
+25000 tl civarı laptop değil en fazla 25000 olsun	ProductBudgetSearch
+6000 tl altında klavye bakıyorum	ProductBudgetSearch
+40000 tl altındaki gaming laptoplar	ProductBudgetSearch
+18000 tl altında telefon seçenekleri	ProductBudgetSearch
+30 bin altinda laptop	ProductBudgetSearch
+5000 tl alti klavye	ProductBudgetSearch
+20 bin liraya kadar monitor	ProductBudgetSearch
+7000 tl altinda kulaklik	ProductBudgetSearch
+10 bin tl alti ssd	ProductBudgetSearch
+3000 liraya kadar mouse	ProductBudgetSearch
+bütçe 35000 laptop	ProductBudgetSearch
+maksimum 8000 tl ssd	ProductBudgetSearch
+15000 tl yi geçmeyen monitör	ProductBudgetSearch
+50000 tl altında telefon bul	ProductBudgetSearch
+laptop için 28000 tl tavan bütçem var	ProductBudgetSearch
+klavyeye en fazla 5500 tl verebilirim	ProductBudgetSearch
+monitör için 16000 tl sınırım var	ProductBudgetSearch
+telefon bütçem maksimum 38000 tl	ProductBudgetSearch
+ssd almak için 7500 tl ayırdım	ProductBudgetSearch

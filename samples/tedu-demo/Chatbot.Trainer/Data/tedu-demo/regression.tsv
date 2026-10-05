@@ -1,0 +1,193 @@
+Text	Label
+selamünaleyküm	Greeting
+merhaba bir konuda bilgi lazım	Greeting
+hey bot merhaba	Greeting
+iyi günler size bir şey sorabilir miyim	Greeting
+selam ne tür sorulara cevap veriyorsun	Greeting
+merhabaa	Greeting
+çok sağolun yardımcı oldunuz	Thanks
+anladım çok teşekkürler	Thanks
+tamamdır eyvallah	Thanks
+bilgilendirme için teşekkür ederim	Thanks
+çok teşekkür ederim görüşmek üzere	Thanks
+süper teşekkürler	Thanks
+bu yıl güz dersleri hangi gün başladı	SemesterDates
+bahar yarıyılında derslere hangi tarihte başlanacak	SemesterDates
+dönemin son ders günü ne zaman	SemesterDates
+sömestr tatili hangi tarihler arasında	SemesterDates
+dersler ne zaman tamamlanıyor bu dönem	SemesterDates
+2027 bahar dönemi başlangıcı	SemesterDates
+final dönemi hangi tarihte başlayacak	FinalExams
+dönem sonu notları hangi gün açıklanacak	FinalExams
+ocak ayındaki sınav haftası ne zaman	FinalExams
+vize tarihleri akademik takvimde var mı	FinalExams
+bahar dönemi final sınav tarihleri	FinalExams
+harf notları saat kaçta ilan ediliyor	FinalExams
+bahar dönemi için ders seçimi hangi gün yapılacak	CourseRegistration
+ikinci sınıf öğrencileri ders kaydını ne zaman yapıyor	CourseRegistration
+ders kaydı yaparken danışman onayı şart mı	CourseRegistration
+kayıt dönemini kaçırırsam ne yaparım	CourseRegistration
+ders kayıt sistemi hangi saatte açılıyor	CourseRegistration
+dönem kaydımı nasıl yenilerim	CourseRegistration
+ekle bırak dönemi hangi tarihlerde	AddDrop
+ders ekleme bırakma haftasında saat kaça kadar işlem yapılır	AddDrop
+kayıttan sonra ders eklemek mümkün mü	AddDrop
+add drop haftası ne zaman başlıyor	AddDrop
+yanlış şubeye kaydoldum değiştirebilir miyim	AddDrop
+bahar yarıyılında ders ekleme tarihleri	AddDrop
+ramazan bayramında kaç gün tatil var	Holidays
+mayıs ayındaki tatiller hangi günler	Holidays
+cumhuriyet bayramı için dersler yapılacak mı	Holidays
+bahar dönemindeki ara tatil hangi gün	Holidays
+1 ocakta okul açık mı	Holidays
+bu akademik yılın bayram tatilleri	Holidays
+yazın en fazla kaç ders alabiliyoruz	SummerSchool
+yaz okulu derslerine hangi tarihte başlanıyor	SummerSchool
+yaz okulunu odtü veya bilkentte alabilir miyim	SummerSchool
+yaz okulu ücretini burslular da ödüyor mu	SummerSchool
+mezun olacağım yaz okulunda üç ders alabilir miyim	SummerSchool
+yaz okulu sınav tarihleri ne zaman	SummerSchool
+40 kredim var hangi sınıftayım	ClassStanding
+üçüncü sınıf sayılmam için kaç kredi tamamlamam gerekiyor	ClassStanding
+97 kredim var dördüncü sınıf mıyım	ClassStanding
+sınıfım hangi krediye göre hesaplanıyor	ClassStanding
+ikinci sınıf olmak için gereken kredi sayısı	ClassStanding
+70 krediyle kaçıncı sınıf oluyorum	ClassStanding
+dönemde alınabilecek maksimum kredi kaç	CourseLoad
+minimum kaç kredi almak zorundayım	CourseLoad
+normal yükün üstünde ders alabilir miyim	CourseLoad
+20 krediden fazla alırsam ek ücret öder miyim	CourseLoad
+gno 2nin altındayken kaç kredi alınabilir	CourseLoad
+bir yarıyılda alınabilecek kredi sınırları	CourseLoad
+mezuniyet için ortalamam en az kaç olmalı	GraduationRequirements
+mezun olmak için hangi şartları sağlamalıyım	GraduationRequirements
+tüm derslerden dd ile geçersem mezun olur muyum	GraduationRequirements
+mezuniyet için kredilerin ne kadarı tedüden alınmalı	GraduationRequirements
+mezuniyet tarihim nasıl belirlenecek	GraduationRequirements
+harçlarımı ödemezsem mezun olabilir miyim	GraduationRequirements
+mezun olmak için tek dersim kaldı sınav hakkım var mı	GraduationExtraExam
+iki dersten f ile mezuniyet ek sınavı	GraduationExtraExam
+tedüde bütünleme sınavı oluyor mu	GraduationExtraExam
+ek sınav başvurusu hangi tarihte	GraduationExtraExam
+ek sınavda da kalırsam ne yaparım	GraduationExtraExam
+ortalamam 2yi tutmadığı için ek sınava girebilir miyim	GraduationExtraExam
+lisansı en fazla kaç yılda tamamlamak zorundayım	MaxStudyDuration
+azami süreye yaz okulu dahil mi	MaxStudyDuration
+7 yılı doldurursam ne olur	MaxStudyDuration
+izinli olduğum dönemler azami süreden sayılır mı	MaxStudyDuration
+öğrenim süresi en fazla kaç yarıyıl	MaxStudyDuration
+hazırlıkta geçen süre lisans süresinden düşer mi	MaxStudyDuration
+bb notu kaç puana karşılık geliyor	GradingSystem
+genel not ortalamam nasıl hesaplanıyor	GradingSystem
+harf notlarının katsayıları nedir	GradingSystem
+65 alırsam harf notum ne olur	GradingSystem
+dd geçer not sayılıyor mu	GradingSystem
+yarıyıl ortalaması hesaplama yöntemi	GradingSystem
+gno'm 2.00ın altında ne olacak	Probation
+sınamalı yeterli olmak için ortalamam kaç olmalı	Probation
+sınamalı statüsü ne zaman biter	Probation
+sınamalı öğrenciyim yeni ders alamıyor muyum	Probation
+120 kredim var ortalamam 1.75 durumum nedir	Probation
+probation statüsünden çıkmak için ne gerekli	Probation
+yüksek onur listesine girmek için gereken ortalama	HonorStatus
+onur öğrencisi sayılmak için şartlar	HonorStatus
+3.30 ortalamayla onur alır mıyım	HonorStatus
+onurla mezun olmak için kaç dönemde bitirmeliyim	HonorStatus
+disiplin cezası alırsam onur alabilir miyim	HonorStatus
+dean's list için ortalama kaç	HonorStatus
+kaldığım zorunlu dersi tekrar almak zorunda mıyım	CourseRepeat
+dc aldığım dersi notumu yükseltmek için tekrar alacağım	CourseRepeat
+tekrar edilen derste hangi not sayılıyor	CourseRepeat
+cc ile geçtiğim dersi tekrar alabilir miyim	CourseRepeat
+f aldığım seçmeli yerine başka seçmeli alınabilir mi	CourseRepeat
+dd notunu kaç dönem içinde yükseltebilirim	CourseRepeat
+bir dersten çekilmek istiyorum nasıl yaparım	CourseWithdrawal
+w notu alırsam ortalamam etkilenir mi	CourseWithdrawal
+öğrenim boyunca en fazla kaç dersten çekilebilirim	CourseWithdrawal
+dersten çekilme için son gün hangisi	CourseWithdrawal
+çekildiğim dersin ücreti iade edilir mi	CourseWithdrawal
+ilk dönemimde dersten çekilmem mümkün mü	CourseWithdrawal
+notuma itiraz etmek için ne yapmalıyım	GradeAppeal
+final kağıdımı görmek mümkün mü	GradeAppeal
+harf notum yanlış girilmiş düzeltilir mi	GradeAppeal
+itiraz süresi kaç gün	GradeAppeal
+hocaya itirazım sonuçsuz kaldı	GradeAppeal
+sınav sonucuna itiraz başvurusu	GradeAppeal
+sağlık raporum nedeniyle finale giremedim ne olacak	MissedExam
+ara sınavı kaçırdım telafisi var mı	MissedExam
+i notu verildi ne zamana kadar tamamlamalıyım	MissedExam
+mazeretim nedeniyle ödevi teslim edemedim	MissedExam
+hastalık yüzünden sınava katılamadım	MissedExam
+incomplete notu tamamlanmazsa ne olur	MissedExam
+derslerde devam zorunluluğu kaç yüzde	Attendance
+devamsızlık yüzünden fx alabilir miyim	Attendance
+derse hiç gitmesem ne olur	Attendance
+devamsızlık sınırını nereden öğrenirim	Attendance
+hazırlık sınıfında devam şartı kaç	Attendance
+yoklamaya girmezsem kalır mıyım	Attendance
+zorunlu staj kaç iş günü	InternshipDuration
+mimarlık öğrencileri kaç gün staj yapıyor	InternshipDuration
+toplam kaç staj yapmamız gerekiyor	InternshipDuration
+stajı hangi dönemlerde yapabilirim	InternshipDuration
+cumartesi günleri staja sayılıyor mu	InternshipDuration
+yazılım mühendisliğinde ikinci staj kaç gün	InternshipDuration
+staj onay formunu nereye yüklemem gerekiyor	InternshipApplication
+staj yerimi kim onaylayacak	InternshipApplication
+staj dersine hangi dönem kayıt olacağım	InternshipApplication
+staj yapacağım şirketi nasıl bulabilirim	InternshipApplication
+stajyer değerlendirme formunu kime teslim ederim	InternshipApplication
+başka üniversitede staj yapılabilir mi	InternshipApplication
+stajımın sigortasını kim yapacak	InternshipInsurance
+şirket sgk girişi yapmazsa ne olur	InternshipInsurance
+staj ücreti aldığımda hangi belgeleri göndermeliyim	InternshipInsurance
+staj sigortası için para ödeyecek miyim	InternshipInsurance
+gönüllü staj yaparken sigortalı olur muyum	InternshipInsurance
+staj sigortası işlemleri	InternshipInsurance
+zorunlu olmayan bir staj yapmak istiyorum	VoluntaryInternship
+gönüllü staj için süre sınırı var mı	VoluntaryInternship
+genç yetenek programına kimler katılabilir	VoluntaryInternship
+gönüllü stajda rapor istiyorlar mı	VoluntaryInternship
+birinci sınıf öğrencisiyim gönüllü staj yapabilir miyim	VoluntaryInternship
+dönem içinde haftada bir gün staj yapabilir miyim	VoluntaryInternship
+çift anadal başvurusu için gerekli ortalama	DoubleMajor
+çapa en erken kaçıncı yarıyılda başvurabilirim	DoubleMajor
+çift anadalda ortalamam 2.75in altına düşerse ne olur	DoubleMajor
+çap için fazladan ücret ödeyecek miyim	DoubleMajor
+ikinci bir lisans diploması almak mümkün mü	DoubleMajor
+çift anadal ve yandal aynı anda yapılabilir mi	DoubleMajor
+yan dal programına başvuru şartları	Minor
+yandal için minimum ortalama	Minor
+yandal tamamlayınca diploma mı veriliyor	Minor
+yandalda en az kaç ders almalıyım	Minor
+yandala en geç hangi dönemde başvurabilirim	Minor
+yandala devam etmek için ortalama kaç olmalı	Minor
+erasmus başvurusunda puan nasıl hesaplanıyor	Erasmus
+yurtdışında bir dönem okumak için ne yapmalıyım	Erasmus
+erasmus stajı en az kaç ay	Erasmus
+erasmus ile staj yapıp zorunlu stajıma saydırabilir miyim	Erasmus
+son yarıyılımda değişim programına gidebilir miyim	Erasmus
+erasmus seçiminde dil sınavı var mı	Erasmus
+kaydımı bir dönem dondurmak istiyorum	LeaveOfAbsence
+izinli ayrılma başvurusu için son gün	LeaveOfAbsence
+en fazla kaç dönem kayıt dondurma hakkım var	LeaveOfAbsence
+izin alırsam ne kadar ücret öderim	LeaveOfAbsence
+hastalık nedeniyle dönem ortasında izin alabilir miyim	LeaveOfAbsence
+kayıt dondurma başvurusu nasıl yapılır	LeaveOfAbsence
+ingilizce yeterlik sınavı hangi tarihte	EnglishPrep
+hazırlıkta en fazla kaç yıl okunabiliyor	EnglishPrep
+hazırlık sınıfını geçemezsem ne olur	EnglishPrep
+bölümde dersler ingilizce mi	EnglishPrep
+seviye belirleme sınavı tarihi	EnglishPrep
+proficiency sonuçları ne zaman	EnglishPrep
+mytedu şifremi hatırlamıyorum	PortalPassword
+portal şifremi nasıl yenilerim	PortalPassword
+çok deneme yaptım şifrem kilitlendi	PortalPassword
+tedupass şifremi sıfırlamak istiyorum	PortalPassword
+portala giriş yapamıyorum şifre hatası	PortalPassword
+şifre sıfırlama sayfası hangisi	PortalPassword
+öğrenci işleri müdürlüğünün maili nedir	StudentAffairsContact
+tedü santral numarası	StudentAffairsContact
+transkript almak için kime başvurmalıyım	StudentAffairsContact
+öğrenci işlerine nasıl ulaşabilirim	StudentAffairsContact
+tedünün açık adresi	StudentAffairsContact
+ödeme ile ilgili kime yazmalıyım	StudentAffairsContact

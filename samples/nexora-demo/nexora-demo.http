@@ -1,0 +1,91 @@
+@host = http://localhost:5080
+
+### Health (bot modeli hazır mı?)
+GET {{host}}/api/health?botKey=nexora-demo
+
+### Nexora bot + help menu
+GET {{host}}/api/bots/nexora-demo
+
+### Statik bilgi -> veritabanı
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "message": "kargo kaç günde gelir"
+}
+
+### Canlı fiyat -> Nexora Integration API
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "message": "NovaPhone X1 Pro 256 kaç TL"
+}
+
+### Canlı stok -> Nexora Integration API
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "message": "AstraBook Pro 14 stokta mı"
+}
+
+### Canlı teknik özellik -> Nexora Integration API
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "message": "AstraBook Pro 14 özellikleri neler"
+}
+
+### Ürün arama
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "message": "hangi monitörler var"
+}
+
+### En ucuz ürün
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "message": "en ucuz klavye hangisi"
+}
+
+### Bütçeye göre ürün
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "message": "5000 TL altında klavye göster"
+}
+
+### Menüden fiyat seçimi -> ürün adı istenir (type: "question")
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "sessionId": "http-pending-demo",
+  "message": "Bir ürünün fiyatını öğrenmek istiyorum",
+  "selectedIntent": "ProductPrice"
+}
+
+### Aynı oturumda sadece ürün adı -> ProductPrice (source: "pending-input")
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "nexora-demo",
+  "sessionId": "http-pending-demo",
+  "message": "AstraBook Pro 14"
+}

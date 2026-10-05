@@ -1,0 +1,424 @@
+{
+  "botKey": "hotel-demo",
+  "name": "Hotel Assistant Demo",
+  "welcomeMessage": "Merhaba! Oda tipleri ve fiyatlar, rezervasyon, giriş-çıkış, yeme-içme, havuz ve spa, otel hizmetleri ve kurallar hakkında yardımcı olabilirim.",
+  "fallbackMessage": "Bu soruyu anlayamadım. Soruyu farklı bir şekilde yazabilir misiniz?",
+  "menuPrompt": "Size hangi konuda yardımcı olabilirim?",
+  "followUpPhrases": [
+    "kaçta",
+    "ne zaman",
+    "bitişi",
+    "başlangıcı",
+    "sonra",
+    "önce"
+  ],
+  "answers": {
+    "Greeting": "Merhaba! Oda tipleri ve fiyatlar, rezervasyon, giriş-çıkış, yeme-içme, havuz ve spa, otel hizmetleri ve kurallar hakkında yardımcı olabilirim.",
+    "CheckInTime": "Check-in saati 14:00'tür. Giriş için kimlik veya pasaport gerekir; ilk gecenin tutarı girişte kartınızdan provizyon olarak alınır. Odanız hazırsa daha erken de yerleşebilirsiniz.",
+    "CheckOutTime": "Check-out saati en geç 11:00'dir. Çıkışta oda kartınızı resepsiyona bırakmanız yeterlidir. Çıkıştan sonra bavullarınızı emanet odasında ücretsiz bırakabilirsiniz.",
+    "BreakfastTime": "Açık büfe kahvaltı her gün 07:00–10:30 arasında zemin kattaki restoranda servis edilir. Erken ayrılacak misafirler 05:30–07:00 arasında resepsiyondan paket kahvaltı alabilir.",
+    "WifiHelp": "Wi-Fi tüm otelde ücretsizdir. Ağ adı \"Otel-Misafir\"; şifre, girişte verilen oda kartı kılıfında yazılıdır. Bağlantı sorunu yaşarsanız ağdan çıkıp yeniden bağlanın; devam ederse odadaki telefondan 0'ı tuşlayarak resepsiyonu arayın.",
+    "PetPolicy": "10 kg'a kadar kedi ve köpekleri yalnızca Standart odalarda kabul ediyoruz. Oda başına bir evcil hayvan kabul edilir ve gecelik 400 TL temizlik ücreti alınır. Evcil hayvanlar restoran, havuz ve spa alanlarına giremez. Rezervasyon sırasında evcil hayvanınızı bildirmeniz gerekir.",
+    "ReservationCreate": "Rezervasyonu otelin web sitesinden, rezervasyon@demootel.example adresine e-posta göndererek veya resepsiyondan yapabilirsiniz. Giriş-çıkış tarihlerini, kişi sayısını ve oda tipini (Standart/Premium, 1-2-3 kişilik) belirtmeniz yeterlidir. Onay ve rezervasyon numaranız e-postanıza gönderilir.",
+    "ReservationChange": "Rezervasyon numaranızla rezervasyon@demootel.example adresine yazarak veya resepsiyonu arayarak tarih, kişi sayısı ya da oda tipini değiştirebilirsiniz. Esnek fiyatlarda girişe 48 saat kalana kadar değişiklik ücretsizdir; yalnızca fiyat farkı yansıtılır. Standarttan Premium odaya yükseltme müsaitliğe bağlıdır.",
+    "ReservationCancel": "İptal için rezervasyon numaranızla rezervasyon@demootel.example adresine e-posta gönderin ya da rezervasyonu yaptığınız kanal üzerinden iptal edin. İptal onayı e-postanıza gelir. Ücretsiz iptal süresi ve iade koşulları için \"İptal koşulları nelerdir?\" seçeneğine bakabilirsiniz.",
+    "RoomAvailability": "Anlık müsaitliği buradan göremiyorum. Tarihleriniz için güncel durumu web sitesindeki rezervasyon ekranından veya rezervasyon@demootel.example adresinden öğrenebilirsiniz. Hafta içi genellikle tüm oda tiplerinde yer bulunur; hafta sonu ve bayramlarda Premium ve üç kişilik odalar daha erken dolar.",
+    "RoomTypes": "Otelimizde Standart ve Premium olmak üzere iki sınıfta, 1, 2 ve 3 kişilik toplam 6 oda tipi bulunur:\n\nStandart\n• Tek Kişilik – 18 m², tek kişilik yatak – 2.400 TL/gece\n• İki Kişilik – 24 m², çift veya iki ayrı yatak – 3.200 TL/gece\n• Üç Kişilik – 30 m², bir çift + bir tek yatak – 4.100 TL/gece\n\nPremium (şehir manzarası, kahve makinesi, minibar, yağmur duşu)\n• Tek Kişilik – 24 m², çalışma alanı – 3.300 TL/gece\n• İki Kişilik – 32 m², balkon ve küvet – 4.500 TL/gece\n• Üç Kişilik – 40 m², balkon ve oturma alanı – 5.600 TL/gece\n\nTüm odalarda klima, TV, kasa ve ücretsiz Wi-Fi vardır.",
+    "RoomPrice": "Gecelik oda fiyatları (oda başına, kahvaltı ve KDV dahil):\n\n• Standart Tek Kişilik: 2.400 TL\n• Standart İki Kişilik: 3.200 TL\n• Standart Üç Kişilik: 4.100 TL\n• Premium Tek Kişilik: 3.300 TL\n• Premium İki Kişilik: 4.500 TL\n• Premium Üç Kişilik: 5.600 TL\n\nFiyatlar kişi başı değil oda başınadır. İade edilemez fiyat seçeneğinde %10 indirim uygulanır.",
+    "EarlyCheckIn": "Odanız hazırsa 10:00'dan itibaren ücretsiz erken giriş yapabilirsiniz. 10:00'da odanın hazır olmasını garanti etmek isterseniz garantili erken check-in 750 TL'dir ve en az 24 saat önce talep edilmelidir. Oda hazır değilse bavullarınızı emanete bırakıp otel olanaklarını kullanabilirsiniz.",
+    "LateCheckOut": "Müsaitlik durumunda 14:00'e kadar geç çıkış 750 TL, 18:00'e kadar gecelik oda ücretinin %50'sidir. Premium oda misafirlerine 13:00'e kadar geç çıkış ücretsizdir. Talebinizi çıkıştan önceki akşam resepsiyona iletmeniz önerilir.",
+    "BreakfastIncluded": "Evet, tüm oda fiyatlarına açık büfe kahvaltı dahildir; ayrıca ücret ödemezsiniz. Otelde konaklamayan misafirler için kahvaltı kişi başı 450 TL'dir.",
+    "RestaurantHours": "Restoranımız öğle yemeği için 12:30–15:00, akşam yemeği için 19:00–22:30 arasında açıktır. Lobi bar 10:00–00:00 arasında hizmet verir. 20:00 sonrası akşam yemeği için masa ayırtmanız önerilir.",
+    "RoomService": "Oda servisi 24 saat hizmet verir; 23:00–07:00 arasında gece menüsü geçerlidir. Sipariş için odadaki telefondan 9'u tuşlayın. Oda servisi siparişlerine 150 TL servis ücreti eklenir.",
+    "Parking": "Otelimizin 40 araçlık kapalı otoparkı vardır. Konaklayan misafirler için gecelik 250 TL'dir, önceden rezervasyon gerekmez. 07:00–23:00 arasında vale hizmeti verilir ve otoparkta 2 elektrikli araç şarj istasyonu bulunur.",
+    "AirportTransfer": "Talep üzerine özel transfer sağlıyoruz: havalimanı–otel tek yön 1.500 TL (4 kişiye kadar, bagaj dahil). Uçuş bilgilerinizi en az 24 saat önce resepsiyona veya rezervasyon@demootel.example adresine iletmeniz yeterlidir; şoförümüz sizi isim tabelasıyla karşılar. Yolculuk yaklaşık 45 dakika sürer.",
+    "Housekeeping": "Odalar her gün 10:00–16:00 arasında temizlenir. Belirli bir saat isterseniz resepsiyona bildirin; kapıya \"Rahatsız Etmeyin\" kartı asarsanız temizlik yapılmaz. Havlular her gün, çarşaflar iki günde bir (talep halinde her gün) değiştirilir. Ek temizlik ve ekstra havlu ücretsizdir.",
+    "SmokingPolicy": "Tüm odalar, balkonlar ve kapalı alanlar sigarasızdır; elektronik sigara da bu kurala dahildir. Sigara yalnızca bahçedeki belirlenmiş alanda içilebilir. Odada sigara içildiği tespit edilirse 3.000 TL temizlik ücreti uygulanır.",
+    "ChildPolicy": "0–6 yaş çocuklar ebeveynleriyle aynı odada ücretsiz konaklar; bebek yatağı ücretsizdir. 7–12 yaş çocuklar için ek yatak gecelik 600 TL'dir; 12 yaş üstü misafirler yetişkin sayılır. Ek yatak yalnızca iki kişilik odalara konabilir. Lütfen rezervasyonda çocukların yaşlarını belirtin.",
+    "PaymentMethods": "Visa, Mastercard ve American Express kredi kartları, banka kartları ve nakit (TL, Euro, Dolar) kabul edilir. Ödeme girişte alınır; ön ödemeli rezervasyonlarda havale/EFT de mümkündür. Girişte ilk gecenin tutarı kartınıza provizyon olarak bloke edilir.",
+    "CancellationPolicy": "Esnek fiyatlı rezervasyonlar giriş tarihinden 48 saat öncesine kadar ücretsiz iptal edilebilir. Son 48 saat içindeki iptallerde ve gelinmediğinde ilk gecenin ücreti alınır. İade edilemez fiyat %10 daha ucuzdur ancak iptal veya değişiklikte iade yapılmaz. İadeler 5–7 iş gününde kartınıza yansır.",
+    "PoolAndSpa": "Kapalı ve ısıtmalı havuzumuz her gün 08:00–21:00 arasında konaklayan misafirlere ücretsizdir; 12 yaş altı çocuklar ebeveynleriyle girebilir. Spa, sauna ve Türk hamamı 10:00–20:00 arasında açıktır; sauna ve hamam ücretsiz, 45 dakikalık klasik masaj 1.200 TL'dir (randevu resepsiyondan). Fitness salonu 24 saat açıktır. Havuz havlusu spa girişinde verilir.",
+    "HotelLocation": "Otelimiz şehir merkezinde, metro istasyonuna 5 dakika yürüme mesafesindedir. Havalimanına araçla yaklaşık 45 dakika, otogara 20 dakikadır. Açık adres ve harita bağlantısı rezervasyon onay e-postanızda yer alır; havalimanından gelecekseniz transfer hizmetimizden de yararlanabilirsiniz.",
+    "ContactInfo": "Resepsiyonumuz 7/24 hizmet verir. Odanızdaki telefondan 0'ı tuşlayarak resepsiyona, 9'u tuşlayarak oda servisine ulaşabilirsiniz. Genel sorular için info@demootel.example, rezervasyonlar için rezervasyon@demootel.example adresine yazabilirsiniz; e-postalar 24 saat içinde yanıtlanır."
+  },
+  "categories": [
+    {
+      "title": "Rezervasyon ve Odalar",
+      "icon": "\uD83D\uDECF️",
+      "prompt": "Rezervasyon veya oda konusunda ne öğrenmek istersiniz?",
+      "aliases": [
+        "oda",
+        "odalar",
+        "rezervasyon",
+        "konaklama",
+        "müsaitlik",
+        "iptal"
+      ],
+      "items": [
+        {
+          "title": "Rezervasyon nasıl yapılır?",
+          "intent": "ReservationCreate",
+          "aliases": [
+            "rezervasyon yap",
+            "rezervasyon yapmak",
+            "rezervasyon oluştur",
+            "oda ayırt",
+            "yer ayırt"
+          ]
+        },
+        {
+          "title": "Rezervasyonumu değiştirmek istiyorum",
+          "intent": "ReservationChange",
+          "aliases": [
+            "rezervasyon değiştir",
+            "rezervasyonumu değiştir",
+            "rezervasyon değişikliği",
+            "rezervasyon tarihi değiştir"
+          ]
+        },
+        {
+          "title": "Rezervasyonumu iptal etmek istiyorum",
+          "intent": "ReservationCancel",
+          "aliases": [
+            "rezervasyon iptali",
+            "rezervasyonu iptal et",
+            "rezervasyonumu iptal",
+            "rezervasyon iptal"
+          ]
+        },
+        {
+          "title": "Boş oda var mı?",
+          "intent": "RoomAvailability",
+          "aliases": [
+            "boş oda",
+            "müsait oda",
+            "oda müsaitliği",
+            "oda var mı",
+            "odanız var mı",
+            "yer var mı",
+            "müsait mi"
+          ]
+        },
+        {
+          "title": "Oda tipleri ve özellikleri nelerdir?",
+          "intent": "RoomTypes",
+          "aliases": [
+            "oda tipleri",
+            "oda türleri",
+            "oda seçenekleri",
+            "hangi odalar",
+            "oda özellikleri",
+            "premium oda",
+            "premium odalar",
+            "standart oda",
+            "standart odalar"
+          ]
+        },
+        {
+          "title": "Oda fiyatlarını öğrenmek istiyorum",
+          "intent": "RoomPrice",
+          "aliases": [
+            "oda fiyatı",
+            "oda fiyatları",
+            "oda ücreti",
+            "gecelik fiyat",
+            "gecelik ücret",
+            "fiyat listesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Giriş ve Çıkış",
+      "icon": "\uD83E\uDDF3",
+      "prompt": "Giriş veya çıkış işlemleriyle ilgili hangi bilgiyi arıyorsunuz?",
+      "aliases": [
+        "giriş",
+        "çıkış",
+        "giriş çıkış",
+        "check in",
+        "check out"
+      ],
+      "items": [
+        {
+          "title": "Check-in saati kaç?",
+          "intent": "CheckInTime",
+          "aliases": [
+            "check in",
+            "check-in",
+            "giriş saati",
+            "otele giriş",
+            "giriş kaçta"
+          ]
+        },
+        {
+          "title": "Check-out saati kaç?",
+          "intent": "CheckOutTime",
+          "aliases": [
+            "check out",
+            "check-out",
+            "çıkış saati",
+            "otelden çıkış",
+            "çıkış kaçta"
+          ]
+        },
+        {
+          "title": "Erken check-in mümkün mü?",
+          "intent": "EarlyCheckIn",
+          "aliases": [
+            "erken check in",
+            "erken check-in",
+            "erken giriş",
+            "erken odaya giriş"
+          ]
+        },
+        {
+          "title": "Geç check-out mümkün mü?",
+          "intent": "LateCheckOut",
+          "aliases": [
+            "geç check out",
+            "geç check-out",
+            "geç çıkış",
+            "geç oda teslimi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yeme ve İçme",
+      "icon": "\uD83C\uDF7D️",
+      "prompt": "Yeme ve içme konusunda ne öğrenmek istersiniz?",
+      "aliases": [
+        "yeme içme",
+        "yemek",
+        "kahvaltı",
+        "restoran"
+      ],
+      "items": [
+        {
+          "title": "Kahvaltı saatleri nedir?",
+          "intent": "BreakfastTime",
+          "aliases": [
+            "kahvaltı saati",
+            "kahvaltı saatleri",
+            "kahvaltı ne zaman",
+            "kahvaltı kaçta"
+          ]
+        },
+        {
+          "title": "Kahvaltı fiyata dahil mi?",
+          "intent": "BreakfastIncluded",
+          "aliases": [
+            "kahvaltı dahil",
+            "kahvaltı fiyata dahil",
+            "kahvaltı ücretli mi",
+            "kahvaltı ücretsiz mi"
+          ]
+        },
+        {
+          "title": "Restoran saatleri nedir?",
+          "intent": "RestaurantHours",
+          "aliases": [
+            "restoran saati",
+            "restoran saatleri",
+            "restoran ne zaman",
+            "restoran kaçta"
+          ]
+        },
+        {
+          "title": "Oda servisi var mı?",
+          "intent": "RoomService",
+          "aliases": [
+            "oda servisi",
+            "room service",
+            "odaya yemek",
+            "odaya servis"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Otel Hizmetleri",
+      "icon": "\uD83C\uDFE8",
+      "prompt": "Hangi otel hizmeti hakkında bilgi almak istersiniz?",
+      "aliases": [
+        "otel hizmetleri",
+        "hizmetler",
+        "otel hizmeti"
+      ],
+      "items": [
+        {
+          "title": "Wi-Fi bilgilerini nasıl öğrenirim?",
+          "intent": "WifiHelp",
+          "aliases": [
+            "wifi",
+            "wi fi",
+            "wi-fi",
+            "wifi şifresi",
+            "internet şifresi",
+            "kablosuz internet"
+          ]
+        },
+        {
+          "title": "Otopark var mı?",
+          "intent": "Parking",
+          "aliases": [
+            "otopark",
+            "park yeri",
+            "araba park",
+            "araç park"
+          ]
+        },
+        {
+          "title": "Havaalanı transferi var mı?",
+          "intent": "AirportTransfer",
+          "aliases": [
+            "havaalanı transferi",
+            "airport transfer",
+            "transfer hizmeti",
+            "havaalanı servisi"
+          ]
+        },
+        {
+          "title": "Oda temizliği nasıl yapılıyor?",
+          "intent": "Housekeeping",
+          "aliases": [
+            "oda temizliği",
+            "temizlik",
+            "housekeeping",
+            "oda temizleme"
+          ]
+        },
+        {
+          "title": "Havuz ve spa var mı?",
+          "intent": "PoolAndSpa",
+          "aliases": [
+            "havuz",
+            "spa",
+            "masaj",
+            "sauna",
+            "hamam",
+            "fitness",
+            "spor salonu",
+            "jakuzi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Konum ve İletişim",
+      "icon": "\uD83D\uDCCD",
+      "prompt": "Konum veya iletişim konusunda ne öğrenmek istersiniz?",
+      "aliases": [
+        "konum",
+        "adres",
+        "iletişim",
+        "telefon",
+        "ulaşım"
+      ],
+      "items": [
+        {
+          "title": "Otel nerede, nasıl ulaşırım?",
+          "intent": "HotelLocation",
+          "aliases": [
+            "otelin adresi",
+            "otel nerede",
+            "adresiniz",
+            "yol tarifi",
+            "konum bilgisi",
+            "otele nasıl ulaşırım"
+          ]
+        },
+        {
+          "title": "Resepsiyona nasıl ulaşırım?",
+          "intent": "ContactInfo",
+          "aliases": [
+            "resepsiyonu ara",
+            "telefon numarası",
+            "e posta adresi",
+            "iletişim bilgileri",
+            "mail adresi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kurallar ve Politikalar",
+      "icon": "\uD83D\uDCCB",
+      "prompt": "Hangi otel politikası hakkında bilgi almak istersiniz?",
+      "aliases": [
+        "kurallar",
+        "politikalar",
+        "otel kuralları",
+        "otel politikaları"
+      ],
+      "items": [
+        {
+          "title": "Evcil hayvan kabul ediyor musunuz?",
+          "intent": "PetPolicy",
+          "aliases": [
+            "evcil hayvan",
+            "kedi",
+            "köpek",
+            "pet",
+            "hayvan kabul"
+          ]
+        },
+        {
+          "title": "Sigara içilebilir mi?",
+          "intent": "SmokingPolicy",
+          "aliases": [
+            "sigara",
+            "sigara içmek",
+            "sigara içilebilir",
+            "tütün",
+            "sigara serbest mi"
+          ]
+        },
+        {
+          "title": "Çocuklarla konaklama kuralları nedir?",
+          "intent": "ChildPolicy",
+          "aliases": [
+            "çocuk",
+            "çocuklarla konaklama",
+            "çocuk politikası",
+            "çocuk kabul"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ödeme ve İptal",
+      "icon": "\uD83D\uDCB3",
+      "prompt": "Ödeme veya iptal konusunda ne öğrenmek istersiniz?",
+      "aliases": [
+        "ödeme",
+        "ödeme iptal",
+        "iptal"
+      ],
+      "items": [
+        {
+          "title": "Hangi ödeme yöntemleri geçerli?",
+          "intent": "PaymentMethods",
+          "aliases": [
+            "ödeme yöntemleri",
+            "nasıl ödeme",
+            "kart geçiyor mu",
+            "nakit ödeme",
+            "kredi kartı"
+          ]
+        },
+        {
+          "title": "İptal koşulları nelerdir?",
+          "intent": "CancellationPolicy",
+          "aliases": [
+            "iptal koşulları",
+            "iptal politikası",
+            "ücretsiz iptal",
+            "iade koşulları"
+          ]
+        }
+      ]
+    }
+  ]
+}

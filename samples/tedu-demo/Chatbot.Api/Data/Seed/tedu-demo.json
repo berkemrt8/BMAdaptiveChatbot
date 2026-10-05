@@ -1,0 +1,302 @@
+{
+  "botKey": "tedu-demo",
+  "name": "TEDÜ Akademik Asistan (Demo)",
+  "welcomeMessage": "Merhaba! Ben TEDÜ Akademik Asistanı (demo). Akademik takvim, kredi ve sınıf, notlar, staj, çift anadal/yandal ve öğrenci işlemleriyle ilgili sorularınızı yanıtlayabilirim. Bilgiler TED Üniversitesi'nin resmi yönetmelik, yönerge ve 2026-2027 akademik takviminden derlenmiştir.",
+  "fallbackMessage": "Bu soruyu güvenilir şekilde yanıtlayamadım. Sorunuzu farklı bir şekilde yazabilir veya menüden bir konu seçebilirsiniz. Kesin bilgi için Öğrenci İşleri'ne (oim@tedu.edu.tr) başvurabilirsiniz.",
+  "menuPrompt": "Hangi konuda bilgi almak istersiniz?",
+  "followUpPhrases": [],
+  "answers": {
+    "Greeting": "Merhaba! Ben TEDÜ Akademik Asistanı. Akademik takvim, kredi ve sınıf durumu, notlar, staj, çift anadal/yandal, yaz okulu ve kayıt dondurma gibi konularda sorularınızı yanıtlayabilirim. Bilgiler TED Üniversitesi'nin resmi yönetmelik ve yönergelerinden ve 2026-2027 akademik takviminden derlenmiştir; kesin bilgi için Öğrenci İşleri'ne danışabilirsiniz.",
+    "Thanks": "Rica ederim! Başka bir sorunuz olursa buradayım.",
+    "SemesterDates": "2026-2027 akademik takvimine göre:\n• Güz 2026: Dersler 28 Eylül 2026'da başlar, 31 Aralık 2026'da sona erer. Final sınavları 4–17 Ocak 2027.\n• Yarıyıl tatili: Güz finalleri 17 Ocak 2027'de biter, bahar dersleri 15 Şubat 2027'de başlar.\n• Bahar 2027: Dersler 15 Şubat 2027'de başlar, 4 Haziran 2027'de sona erer. Final sınavları 5–18 Haziran 2027.\n• Yaz Okulu 2027: Dersler 12 Temmuz – 27 Ağustos 2027.\nHer yarıyıl 14 hafta ders ve 2 hafta yarıyıl sonu sınavından oluşur.",
+    "FinalExams": "2026-2027 akademik takvimine göre yarıyıl sonu (final) sınavları:\n• Güz 2026: 4–17 Ocak 2027 · Harf notlarının ilanı: 22 Ocak 2027, 17:00\n• Bahar 2027: 5–18 Haziran 2027 · Harf notlarının ilanı: 23 Haziran 2027, 17:00\n• Yaz Okulu 2027: 31 Ağustos – 1 Eylül 2027 · Harf notlarının ilanı: 4 Eylül 2027\nFinal sınav programı, sınav dönemi başlamadan en geç 4 hafta önce ilan edilir. Ara sınavlar (vize) akademik takvimde yer almaz: her dersten en az bir ara sınav yapılır ve tarihleri dersin izlencesinde duyurulur. Harf notları MyTEDU Portal üzerinden görülür.",
+    "CourseRegistration": "Ders kayıtları MyTEDU Portal üzerinden, sınıflara göre farklı günlerde yapılır (sınıfınız tamamladığınız krediye göre belirlenir):\n• Güz 2026: 22 Eylül 4. sınıf (09:00) ve 3. sınıf (13:00) · 23 Eylül 2. sınıf · 24 Eylül 1. sınıf · Kapanış 24 Eylül 18:00\n• Bahar 2027: 9 Şubat 4. sınıf (09:00) ve 3. sınıf (13:00) · 10 Şubat 2. sınıf · 11 Şubat 1. sınıf · Kapanış 11 Şubat 18:00\nKaydın kesinleşmesi için öğrenim ücretinin ödenmesi, ders kaydının yapılması ve danışman onayı gerekir; danışman onayları kayıt günlerinde 23:59'a kadar verilir. Kayıttan önce MyTEDU Portal'daki CCR (Müfredat Uyumluluk Raporu) incelenmelidir. Kaydını yaptıramayan öğrenciler ekle-bırak döneminde kayıt yenileyebilir; ekle-bırak sonuna kadar kaydını tamamlamayan öğrenci kayıtsız sayılır. Mali blokaj hatası için muhasebe@tedu.edu.tr, kayıt dönemi veya sınıf bilgisi sorunları için oim@tedu.edu.tr adresine yazabilirsiniz.",
+    "AddDrop": "Ders ekleme-bırakma (add-drop) tarihleri (2026-2027):\n• Güz 2026: 6–7 Ekim 2026 (09:00–18:00)\n• Bahar 2027: 23–24 Şubat 2027 (09:00–18:00)\nEkle-bırak MyTEDU Portal üzerinden yapılır. Bu dönemde ders ekleme, bırakma ve grup (şube) değişikliği yapabilirsiniz; değişiklikten sonra yeniden danışman onayı almanız gerekir. Ekle-bırak bittikten sonra bir dersi bırakmak isterseniz dersten çekilme (W) kuralları uygulanır. Yaz okulunda ekle-bırak uygulaması yoktur.",
+    "Holidays": "2026-2027 akademik takvimindeki tatiller:\n• Cumhuriyet Bayramı: 28–29 Ekim 2026 (1,5 gün)\n• Yılbaşı: 1 Ocak 2027\n• Ramazan Bayramı: 9–11 Mart 2027 (3 gün) · Ara tatil: 12 Mart 2027\n• Ulusal Egemenlik ve Çocuk Bayramı: 23 Nisan 2027\n• Emek ve Dayanışma Günü: 1 Mayıs 2027\n• Kurban Bayramı: 17–19 Mayıs 2027 · Atatürk'ü Anma, Gençlik ve Spor Bayramı: 19 Mayıs 2027 · Ara tatil: 20–21 Mayıs 2027\n• Demokrasi ve Milli Birlik Günü: 15 Temmuz 2027 · Zafer Bayramı: 30 Ağustos 2027\n10 Kasım takvimde tatil olarak değil, Atatürk'ü Anma Günü olarak yer alır. Güz ile bahar arasındaki yarıyıl tatili, güz finallerinin bittiği 17 Ocak 2027 ile bahar derslerinin başladığı 15 Şubat 2027 arasındadır.",
+    "SummerSchool": "Yaz Okulu 2027 (2026-2027 akademik takvimi):\n• Ders kaydı ve ücret ödeme: 6–7 Temmuz 2027\n• Dersler: 12 Temmuz – 27 Ağustos 2027 (7 hafta)\n• Sınavlar: 31 Ağustos – 1 Eylül 2027 · Notların ilanı: 4 Eylül 2027\nKurallar:\n• Yaz okulu isteğe bağlıdır; en fazla 2 ders alınabilir. Mezuniyet durumundaki öğrenciler danışman onayıyla 3 ders alabilir.\n• Yaz okulu ücretlidir; burslu öğrenciler dahil herkes öğrenim ücreti öder.\n• Ekle-bırak ve geç kayıt yoktur. Bir dersin açılması için en az 8 öğrenci gerekir; kapanan derslerin ücreti sonraki yarıyıla mahsup edilir.\n• Yaz okulunda geçen süre öğrenim süresine sayılmaz.\n• Yaz okulunda ders alırsanız zorunlu staj yapamazsınız; yaz okulu bittikten sonra yapabilirsiniz.\n• Ders TEDÜ'de açılmıyorsa, bölüm onayıyla Bilkent, Boğaziçi, Koç, ODTÜ veya Sabancı'nın yaz okulundan ders alabilirsiniz (öğrenim boyunca en fazla 3 ders).",
+    "ClassStanding": "TEDÜ'de sınıfınız yıla göre değil, tamamladığınız kredi toplamına göre belirlenir. Tamamlanan kredi, DD ve üzeri notla geçtiğiniz derslerin kredileridir. Tüm fakülteler için:\n• 29 kredi ve altı → 1. sınıf\n• 30–58 kredi → 2. sınıf\n• 59–96 kredi → 3. sınıf\n• 97 kredi ve üstü → 4. sınıf\nÖrneğin 45 krediniz varsa 2. sınıftasınız. 2. sınıf olmak için en az 30, 3. sınıf için en az 59, 4. sınıf için en az 97 kredi tamamlamanız gerekir. Tamamladığınız kredileri transkriptinizden takip edebilirsiniz; sınıf bilginiz hatalı görünüyorsa oim@tedu.edu.tr adresine yazabilirsiniz.",
+    "CourseLoad": "Lisans öğrencileri için kredi yükü kuralları:\n• Ortalama kredi yarıyıl başına 17'dir.\n• Normal ders yükü 15–19 kredidir.\n• Bir yarıyılda en az 9, en fazla 25 kredi alınabilir.\n• İlk yarıyılda ders yükü artırılamaz.\n• Genel not ortalaması (GNO) 2,00 ve üzerindeyse ders yükü danışman onayıyla artırılabilir veya azaltılabilir; GNO'su 2,00'ın altındaki öğrenciler normal ders yükünü aşamaz.\n• Ücret: 14–20 kredi için bursluluk oranına göre tam ücret ödenir; 13 veya daha az ya da 21 veya daha fazla kredide az ya da fazla ücret uygulanır.\nEğitim Fakültesi'nde 2018–2021 arasında başlayıp yeni müfredatı izleyen öğrenciler için ortalama 18, normal yük 14–22, en fazla 26 kredidir.",
+    "GraduationRequirements": "Lisans programından mezun olmak için (Lisans Eğitim-Öğretim Yönetmeliği md. 26):\n• Müfredattaki tüm derslerden en az DD veya P almak,\n• Genel not ortalamasının (GNO) en az 2,00 olması,\n• Programın toplam kredisinin en az yarısını TEDÜ'den almış olmak,\n• Üniversiteye karşı yükümlülükleri (öğrenim ücreti, kütüphane, yurt vb.) yerine getirmiş olmak,\n• Mezuniyet için ilgili yönetim kurulu kararının alınması.\nGNO'nuz en az 2,00 ise DD ve DC notları mezuniyete engel değildir. Toplam kredi programdan programa değişir; eksik derslerinizi MyTEDU Portal'daki CCR (Müfredat Uyumluluk Raporu) üzerinden takip edebilirsiniz. Mezuniyet tarihiniz, son dönemin harf notlarının ilan tarihidir. Bir veya iki dersten F aldığınız için mezun olamıyorsanız mezuniyet ek sınavı hakkınızı inceleyin.",
+    "GraduationExtraExam": "TEDÜ'de genel bir bütünleme sınavı yoktur; bunun yerine mezuniyet aşamasında ek sınav hakkı tanınır (Yönetmelik md. 27):\n• GNO'su en az 2,00 olup iki dersten F aldığı için mezun olamayan öğrenciye bir kez ek sınav hakkı verilir.\n• GNO'su en az 2,00 olup yalnızca bir dersten F aldığı için mezun olamayan öğrenciye sınırsız ek sınav hakkı verilir.\n• Tüm derslerden geçtiği halde GNO'su 2,00'ı tutmayan öğrenci, DD/DC aldığı derslerden dilediklerine sınırsız ek sınava girebilir.\n• FX notu bu kapsamda kabul edilmez. Tasarım, stüdyo, laboratuvar ve staj gibi yarıyıla yayılan derslerde ek sınav yapılmaz. Ek sınava giremeyenlerin mazereti kabul edilmez; ek sınav notu harf notunun yerine geçer.\n2026-2027 tarihleri (başvuru → sınav): 25–26 Ocak → 1–2 Şubat 2027 · 28–29 Haziran → 1–2 Temmuz 2027 · 8–9 Eylül → 13–14 Eylül 2027. Başvuru, harf notları ilan edildikten sonra kayıtlı olduğunuz dekanlığa dilekçe ile yapılır.",
+    "MaxStudyDuration": "Öğrenim süreleri (Yönetmelik md. 7):\n• Lisans programlarının normal süresi 4 yıl, azami süresi 7 yıldır (14 yarıyıl).\n• İngilizce hazırlık programının süresi 1 yıl, azami süresi 2 yıldır.\nAzami süreye dahil olanlar: programa ilk kayıttan itibaren kayıtlı veya kayıtsız geçirilen tüm yarıyıllar ve değişim programlarında (ör. Erasmus) geçen süre.\nDahil olmayanlar: İngilizce hazırlıkta, yaz okulunda ve izinli geçen süreler.\nAzami süre sonunda mezuniyet koşullarını sağlayamayan öğrenciler için 2547 sayılı Kanun'un ilgili hükümleri uygulanır; akademik takvimde azami süre sonunda tanınan ek sınav tarihleri ayrıca yer alır.",
+    "GradingSystem": "TEDÜ harf notları (katsayı – puan aralığı):\n• AA 4,00 (90–100) · BA 3,50 (85–89) · BB 3,00 (80–84) · CB 2,50 (75–79) · CC 2,00 (70–74)\n• DC 1,50 (60–69) · DD 1,00 (50–59): dersi koşullu geçtiğinizi gösterir; GNO'nuz en az 2,00 ise mezuniyete engel değildir.\n• F 0,00 (0–49): başarısız · FX 0,00: devamsızlık veya ders yükümlülüklerini yerine getirmeme nedeniyle başarısız (ortalamada F gibi işlem görür)\n• P: kredisiz derslerde geçer not\nOrtalama hesabı: Her dersin kredisi harf notunun katsayısıyla çarpılır, bu toplam derslerin kredi toplamına bölünür. Yarıyıl ortalaması (YNO/SPA) o dönemin dersleriyle, genel ortalama (GNO/GPA) tüm derslerin son notlarıyla hesaplanır ve virgülden sonra iki haneye yuvarlanır. Programa fazla (NC) dersler ortalamaya katılmaz.",
+    "Probation": "Genel not ortalaması (GNO) 2,00'ın altında olan öğrenci sınamalı sayılır (Yönetmelik md. 25). İlk iki yarıyıl hariç, tamamlanan krediye göre sınamalı-yeterli eşikleri:\n• 50 ve daha az kredi: GNO ≥ 1,60\n• 51–100 kredi: GNO ≥ 1,70\n• 101 ve üzeri kredi: GNO ≥ 1,80\nBu eşiğin altında kalan öğrenci sınamalı-yetersizdir: F, FX, DD ve DC aldığı dersleri tekrarlar; daha önce hiç almadığı veya ilk kez alıp çekildiği dersleri alamaz. Tekrarlanacak ders kalmadıysa ve ders yükü elveriyorsa yeni ders veya W aldığı dersleri alabilir. Sınamalı öğrenciler normal ders yükünü aşamaz. Sınamalı durumdan çıkmak için GNO'nun en az 2,00 olması gerekir.",
+    "HonorStatus": "Onur ve yüksek onur statüsü, GNO'nun en az 2,00 olması ve disiplin cezası almamış olma koşuluyla iki şekilde verilir (Yönetmelik md. 25):\n• Her yarıyıl sonunda: Normal veya fazla ders yüküne kayıtlı olup yarıyıl not ortalaması 3,00–3,49 olanlar onur, 3,50 ve üzeri olanlar yüksek onur öğrencisi olur.\n• Mezuniyette: Öğrenimini hazırlık hariç en çok 9 yarıyılda tamamlayanlardan GNO'su 3,00–3,49 olanlar onur, 3,50'nin üzerinde olanlar yüksek onur derecesiyle mezun olur.\nNormal ders yükünün altında ders alan öğrenciler o dönemin onur listesine giremez.",
+    "CourseRepeat": "Ders tekrarı kuralları:\n• F veya FX alınan zorunlu dersler ile W alınan zorunlu dersler ilk açıldıkları dönemde tekrarlanmalıdır; ders kaydında önce bu dersler alınır.\n• Tekrarlanacak ders seçmeliyse, danışman onayıyla aynı grupta (serbest, ortak çekirdek veya program seçmeli) başka bir seçmeli ders alınabilir.\n• Not yükseltmek için DD ve DC aldığınız dersleri, notu aldığınız dönemi takip eden iki yarıyıl içinde tekrar edebilirsiniz. CC ve üzeri not alınan dersler tekrarlanamaz.\n• Tekrarlanan derste önceki not ne olursa olsun en son alınan not geçerlidir (daha düşük olsa bile). Tekrar edilen dersler R harfiyle gösterilir.\n• Not yükseltmek için tekrar alıp sonra çekildiğiniz derste önceki notunuz geçerli kalır.",
+    "CourseWithdrawal": "Dersten çekilme (withdrawal) kuralları:\n• Akademik takvimde belirtilen süre içinde, MyTEDU Portal'daki Course Withdrawal uygulamasıyla başvurulur ve danışman onayı gerekir. Süresi içinde onaylanmayan başvuru işleme alınmaz.\n• Çekildiğiniz derse W verilir; W not ortalamasına katılmaz.\n• Bir yarıyılda en çok 2, öğrenim boyunca en çok 6 dersten çekilebilirsiniz.\n• 1. sınıf 1. yarıyıldaki öğrenciler çekilemez. F/FX tekrarı olarak alınan zorunlu derslerden ve daha önce çekildiğiniz derslerden tekrar çekilemezsiniz.\n• W aldığınız zorunlu dersi tekrar almanız gerekir. Ücret iadesi yapılmaz.\n2026-2027 son tarihleri: Güz 2026 için 4 Aralık 2026 (18:00), Bahar 2027 için 1 Mart – 7 Mayıs 2027 (18:00). Yaz okulunda çekilme, yaz okulu sınavlarından iki hafta öncesine kadar yapılabilir.",
+    "GradeAppeal": "Sınav sonucuna itiraz (Yönetmelik md. 24):\n1. Sonuçların ilanından itibaren en geç bir hafta içinde dersin öğretim elemanına başvurup sınav kağıdınızın yeniden incelenmesini isteyebilirsiniz.\n2. Notunuz değişmezse ilgili dekanlığa başvurabilirsiniz. Yönetim kurulu uygun görürse üç kişilik bir heyet kurulur; heyetin kararı size dekanlık aracılığıyla yazılı bildirilir.\nNotunuz sisteme yanlış girildiyse (maddi hata), düzeltme dersi veren öğretim elemanının dekanlığa başvurusu ve yönetim kurulu kararıyla yapılır; maddi hatalar en geç sonraki yarıyıl kayıtları başlamadan düzeltilmelidir. Sınav kağıtları dekanlıkta iki yıl saklanır.",
+    "MissedExam": "Sınava giremediyseniz:\n• Yarıyıl sonu (final) sınavına sağlık nedeniyle giremeyen öğrencilerin durumu Senato'nun belirlediği esaslara göre değerlendirilir; sağlık dışı mazeretler ilgili uygulama esaslarına göre yürütülür (Yönetmelik md. 20). Mazeretinizi belgeleyip dersin öğretim elemanına ve fakültenize başvurun.\n• Sınav, ödev veya proje gibi koşulları mazeretiniz nedeniyle zamanında tamamlayamadıysanız ve mazeretiniz kabul edilirse I (Incomplete) notu verilir. Eksik en fazla 10 gün içinde tamamlanır (yönetim kurulu kararıyla akademik takvimdeki tarihe kadar uzatılabilir); tamamlanmayan I notu F'ye dönüşür. I notları için son tarihler: Güz 2026 için 31 Ocak 2027, Bahar 2027 için 2 Temmuz 2027.\n• Ara ve yarıyıl sonu sınavlarının hiçbirine katılmazsanız FX verilir.\n• Ara sınav telafisi için dersin izlencesindeki kurallara bakın ve öğretim elemanıyla görüşün.",
+    "Attendance": "TEDÜ lisans yönetmeliğinde tüm dersler için tek bir devamsızlık oranı belirlenmemiştir. Derse devam koşulları her dersin izlencesinde (syllabus) öğretim elemanı tarafından yarıyıl başında açıklanır ve devam durumunuzu dersin öğretim elemanı izler (Yönetmelik md. 20).\n• İzlencedeki devam ve diğer yükümlülükleri yerine getirmezseniz final sınavına girme hakkı kazanamaz ve FX alırsınız; FX ortalamada F gibi işlem görür.\n• İngilizce Dil Okulu'nda (hazırlık) %85 devam koşulu vardır; bir yarıyılda bunu sağlamayan öğrenci o yarıyıla devam hakkını kaybeder.\n• Bursların devamı için de derslere devam önemlidir.",
+    "InternshipDuration": "Zorunlu staj süreleri (Lisans Öğrencileri İçin Staj Yönergesi, Rev.4 – 14.08.2025, md. 13):\n• İktisadi ve İdari Bilimler ile Mühendislik Fakülteleri: en az 20 iş günü; 2. ve 3. sınıftan sonraki yaz dönemlerinde toplam 2 staj.\n• Yazılım Mühendisliği: 2. sınıftan sonra 20 iş günü, 3. sınıftan sonra 30 gün.\n• Mimarlık ve Tasarım Fakültesi: en az 30 iş günü; 2. ve 3. sınıftan sonra toplam 2 staj.\n• Sosyoloji: en az 20 iş günü (ön koşul SOC 201 ve SOC 203); staj günlüğü, rapor ve sunum hazırlanır.\n• Eğitim Fakültesi: MEB'e bağlı okullardaki öğretmenlik uygulaması yönergesine göre yürütülür.\nZorunlu stajlar esas olarak yaz tatilinde yapılır; bölüm onayıyla yarıyıl tatilinde de yapılabilir. İş gününe Pazar dahil değildir; Cumartesi çalışıyorsanız portalda staj girişinde belirtmelisiniz. Staj, isteğinize veya bölüm kararına bağlı olarak bu sürelerden uzun olabilir. Programınızın staj şartı için bölüm staj koordinatörünüze danışın.",
+    "InternshipApplication": "Zorunlu staj süreci (Staj Yönergesi md. 12–17):\n1. Staj yerini Kariyer Merkezi duyuruları, Kariyer Günleri veya kendi çabanızla bulun. Üniversiteler (araştırma merkezleri ve teknokent şirketleri hariç) zorunlu staj yeri olamaz.\n2. Zorunlu Staj Onay Formu'nu (KYS-FR-84) Kariyer Merkezi web sayfasından alın; formda kurumun imza ve kaşesi ile staj tarihleriniz yer almalıdır.\n3. Formu staja başlamadan en az 3 iş günü önce My TEDU Portal'a yükleyin. Bölüm staj koordinatörü staj yerini ve içeriğini portaldan onaylar; programınızla ilgisiz bir sektör seçilirse veya form ile portal bilgileri uyuşmazsa başvuru reddedilebilir.\n4. Stajın ilk günü Stajyer Değerlendirme Formu'nu (KYS-FR-17) kurumdaki yetkiliye verin; kurum formu staj bitiminde doldurup kapalı zarfla veya e-postayla bölüme iletir.\n5. Stajı yaptığınız yazı takip eden güz döneminde staj dersine kayıt olun; raporunuz staj dersinin izlencesindeki tarih ve ölçütlere göre değerlendirilir.\nDaha önce yapılmış stajlar (yatay geçiş, ÇAP) bölüm görüşü ve fakülte yönetim kurulu onayıyla sayılabilir.",
+    "InternshipInsurance": "Staj sigortası (Staj Yönergesi md. 17):\n• Staj yaptığınız kurum sigortanızı yapmazsa, zorunlu ve gönüllü stajlar için sigorta TEDÜ Mali İşler Müdürlüğü tarafından sizin adınıza yapılır. Staj sigortası mezuniyetinize kadar üniversite tarafından karşılanır.\n• My TEDU Portal'a staj girişi yaparken sigortanın kurum tarafından mı yoksa TEDÜ tarafından mı yapılacağını belirtmelisiniz.\n• Kurumdan stajyer maaşı alıyorsanız maaş dekontlarınızı ve doldurduğunuz Staj Ücretlerine İşsizlik Fonu Katkısı Bilgi Formu'nu (KYS-FR-15) Kariyer Merkezi'ne e-postayla göndermelisiniz.\n• Erasmus+ dışında yurt dışında kendi bulduğunuz stajlarda sigorta, sözleşme gibi işlemlerin sorumluluğu size aittir.",
+    "VoluntaryInternship": "Gönüllü staj (Staj Yönergesi md. 7, 13, 17):\n• Tüm fakültelerdeki öğrenciler mezuniyete kadar istedikleri kurumlarda gönüllü staj yapabilir; asgari veya azami bir süre yoktur ve bölüm onayıyla dönem içinde de yapılabilir.\n• Gönüllü Staj Onay Formu'nu (KYS-FR-85) Kariyer Merkezi web sayfasından alıp staja başlamadan en az 3 iş günü önce My TEDU Portal'a yüklersiniz; gönüllü stajları doğrudan Kariyer Merkezi onaylar.\n• Gönüllü stajda staj raporu ve kurumdan değerlendirme formu istenmez. Sigortanızı kurum yapmazsa TEDÜ yapar.\n• TEDÜ Genç Yetenek Programı: İktisadi ve İdari Bilimler ile Mühendislik Fakültesi öğrencileri için anlaşmalı kurumlarda uzun dönem gönüllü staj programıdır. Talebe göre 3. sınıfların ders programında haftada bir gün, 4. sınıfların programında haftada iki gün boş bırakılır. Bilgilendirme Kariyer Merkezi tarafından yapılır.",
+    "DoubleMajor": "Çift Anadal Programı (ÇAP):\n• Başvuru: Anadalınızda en erken 3. yarıyılın başında, en geç 5. yarıyılın başında, akademik takvimdeki tarihlerde online yapılır (2027 Bahar için 25–26 Ocak 2027, 2027 Güz için 5–9 Temmuz 2027).\n• Şartlar: Başvurudan önce aldığınız tüm anadal derslerini başarıyla tamamlamış olmak, GNO'nun en az 2,75 olması ve sınıfınızın başarı sıralamasında en üst %20'de olmak (bunu sağlamayanlar için ÇAP programının o yılki ÖSYS taban puanına sahip olmak).\n• Devam: Anadal GNO'nuz en az 2,75 olmalıdır; ÇAP süresince bir kez 2,50'ye kadar düşebilir, ikinci kez 2,75'in altına düşerse ÇAP kaydınız silinir. İki yarıyıl üst üste ÇAP'tan ders almazsanız da kaydınız silinir.\n• Ders yükü: anadal normal yükü + 8 kredi; 25 krediye kadar ek ücret ödenmez.\n• Anadal ve ÇAP'ın tüm derslerini almanız gerekir. ÇAP diploması anadaldan mezun olduktan sonra verilir. ÇAP öğrencileri başka bir programa yatay geçiş yapamaz.\n• Aynı anda iki ÇAP'a kayıt olunamaz; ancak anadalla birlikte bir ÇAP ve ÇAP'tan farklı alanda bir yandal yapılabilir.",
+    "Minor": "Yandal Programı (YAP):\n• Başvuru: Anadalınızda en erken 3. yarıyılın başında, en geç 6. yarıyılın başında, akademik takvimdeki tarihlerde online yapılır (2027 Bahar için 25–26 Ocak 2027, 2027 Güz için 5–9 Temmuz 2027).\n• Şartlar: Başvurudan önce aldığınız tüm anadal derslerini başarıyla tamamlamış olmak ve GNO'nun en az 2,50 olması.\n• Devam: Anadal GNO'nuz en az 2,29 olmalıdır; aksi halde yandal kaydınız silinir. İki yarıyıl üst üste yandal dersi almazsanız da kaydınız silinir.\n• Yandaldan en az 18 kredilik en az 6 ders alınır. Dönemlik toplam yük anadal normal yükü + 8 kredidir; 25 krediye kadar ek ücret yoktur.\n• Yandal bir lisans programı değildir: tamamlayana diploma değil sertifika verilir ve sertifika anadaldan mezun olduktan sonra verilir. Anadaldan mezun olup yandalı bitirmeyenlere en fazla iki yarıyıl ek süre tanınabilir.\n• Aynı anda iki yandala kayıt olunamaz; ancak anadalla birlikte bir yandal ve yandaldan farklı alanda bir ÇAP yapılabilir.",
+    "Erasmus": "Erasmus+ ve değişim programları:\n• Öğrenim: İlk dönemini tamamlayan öğrenciler bir dönem veya bir akademik yıl boyunca AB ülkelerindeki üniversitelerde öğrenim görebilir. Değişim programlarına en fazla iki yarıyıl gidilebilir; mezuniyetten önceki son yarıyılda değişime katılınamaz. Alınan derslerin kredi ve intibakı danışman ve koordinatör onayıyla yönetim kurulunca belirlenir.\n• Seçim: %50 genel akademik ortalama ve %50 Erasmus+ İngilizce dil sınavı notuyla yapılır.\n• Erasmus+ stajı: En az 2, en fazla 12 ay sürer; her öğrenim kademesinde öğrenim ve staj toplamı en fazla 12 aydır. Başvurusunu mezuniyetten önce yapanlar, mezuniyetten sonraki bir yıl içinde de staj yapabilir. Erasmus stajını zorunlu stajınıza saydırmak için Erasmus Staj Saydırma Formu'nu (KYS-FR-43) doldurmanız gerekir.\nBaşvuru dönemleri ve duyurular için Uluslararası Programlar Ofisi'ni (ipo.tedu.edu.tr) takip edin.",
+    "LeaveOfAbsence": "İzin (kayıt dondurma) – Yönetmelik md. 35:\n• Sağlık, askerlik, yurt içi veya yurt dışı eğitim, maddi, ailevi ya da beklenmedik zorunlu nedenlerle, durumunuzu belgeleyerek izin başvurusu yapabilirsiniz.\n• Her defasında en fazla iki yarıyıl olmak üzere toplam en fazla dört yarıyıl izin verilir.\n• Başvuru, belgelerle birlikte elektronik ortamda en geç derslerin başlamasını izleyen 4. haftanın son iş gününe kadar yapılır: Güz 2026 için 23 Ekim 2026, Bahar 2027 için 19 Mart 2027. Ani hastalık, kaza gibi sonradan ortaya çıkan durumlarda süre sınırı yoktur.\n• İznin işleme konması için izinli sayılacağınız yarıyılın ücretinin yarısını ödemeniz ve borcunuz olmaması gerekir; bu ücret sonraki dönemlere mahsup edilmez.\n• İzin bitmeden dönmek isterseniz ders kayıtlarından önce dekanlığa dilekçe verirsiniz.\nİzinli geçen süre azami öğrenim süresine sayılmaz.",
+    "EnglishPrep": "İngilizce hazırlık (İngilizce Dil Okulu):\n• TEDÜ lisans programlarında öğretim dili İngilizcedir (Türkçe verilmesi zorunlu dersler hariç).\n• Hazırlık programının süresi 1 yıl (2 yarıyıl), azami süresi 2 yıldır; hazırlıkta geçen süre lisansın azami süresine dahil değildir.\n• Azami süre sonunda başarısız olup ilişiği kesilen öğrencilere, sonraki üç yıl içinde toplam üç kez İngilizce Yeterlik Sınavı'na girme veya Senato'nun kabul ettiği bir dil sınavı sonucu sunma hakkı verilir; en geç sınav tarihinden bir hafta önce İngilizce Dil Okulu'na başvurulmalıdır.\n2026-2027 tarihleri:\n• İngilizce Seviye Belirleme Sınavı: 7 Eylül 2026 (yapıldı)\n• İngilizce Yeterlik Sınavı: 25–26 Ocak 2027 (sonuç 29 Ocak) ve 5–6 Temmuz 2027 (sonuç 9 Temmuz)\n• Modül başlangıçları: Güz 2. modül 23 Kasım 2026 · Bahar 1. modül 15 Şubat 2027 · Bahar 2. modül 26 Nisan 2027\nKabul edilen ulusal ve uluslararası dil sınavları ile muafiyet puanları için İngilizce Dil Okulu'na başvurun.",
+    "PortalPassword": "MyTEDU Portal veya TEDUPass şifrenizi unuttuysanız ya da hatalı giriş uyarısı alıyorsanız http://reset.tedu.edu.tr/ adresinden şifrenizi sıfırlayabilirsiniz. Çok sayıda hatalı giriş nedeniyle şifreniz bloke olduysa help@tedu.edu.tr adresine yazın. Ders kayıtları başlamadan önce şifrenizi kontrol etmeniz önerilir; şifre değişikliğini MyTEDU Portal üzerinden de yapabilirsiniz.",
+    "StudentAffairsContact": "İletişim bilgileri:\n• Öğrenci İşleri Müdürlüğü: oim@tedu.edu.tr (kayıt dönemi, program/yarıyıl ve sınıf bilgisi sorunları; transkript ve öğrenci belgesi gibi belgeler) · Web: registrar.tedu.edu.tr\n• Mali işler, ödeme ve mali blokaj: muhasebe@tedu.edu.tr\n• Şifre ve bilgi teknolojileri: help@tedu.edu.tr\n• Danışman tanımlama ve kontenjan sorunları: kayıtlı olduğunuz veya dersin verildiği fakültenin sekreterliği\n• Santral: +90 (312) 585 0000 · Genel e-posta: info@tedu.edu.tr\n• Adres: Ziya Gökalp Caddesi No:48, 06420 Kolej, Çankaya/Ankara"
+  },
+  "categories": [
+    {
+      "title": "Akademik Takvim",
+      "icon": "📅",
+      "prompt": "Akademik takvimle ilgili ne öğrenmek istersiniz?",
+      "aliases": [ "akademik takvim", "takvim" ],
+      "items": [
+        {
+          "title": "Dersler ne zaman başlıyor ve bitiyor?",
+          "intent": "SemesterDates",
+          "aliases": [ "dersler ne zaman başlıyor", "dersler ne zaman bitiyor", "dönem ne zaman başlıyor", "dönem ne zaman bitiyor", "sömestr tatili", "yarıyıl tatili", "okul ne zaman açılıyor" ],
+          "actionText": "Akademik takvimi aç",
+          "actionUrl": "https://www.tedu.edu.tr/akademik-takvim"
+        },
+        {
+          "title": "Ders kayıtları ne zaman?",
+          "intent": "CourseRegistration",
+          "aliases": [ "ders kaydı", "ders kayıtları", "kayıt yenileme", "ders seçimi" ],
+          "actionText": "Ders kayıt kılavuzunu aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/ders-kayitlari-kilavuzu"
+        },
+        {
+          "title": "Ekle-bırak (add-drop) ne zaman?",
+          "intent": "AddDrop",
+          "aliases": [ "ekle bırak", "add drop", "ekleme bırakma", "grup değişikliği" ],
+          "actionText": "Akademik takvimi aç",
+          "actionUrl": "https://www.tedu.edu.tr/akademik-takvim"
+        },
+        {
+          "title": "Final sınavları ve notlar ne zaman?",
+          "intent": "FinalExams",
+          "aliases": [ "finaller", "final sınavları", "final haftası", "final tarihleri", "vize tarihleri", "ara sınav tarihleri", "notlar ne zaman açıklanıyor", "harf notları ne zaman" ],
+          "actionText": "Akademik takvimi aç",
+          "actionUrl": "https://www.tedu.edu.tr/akademik-takvim"
+        },
+        {
+          "title": "Bu yıl hangi günler tatil?",
+          "intent": "Holidays",
+          "aliases": [ "bayram tatili", "resmi tatil", "resmi tatiller", "ara tatil", "tatil günleri" ],
+          "actionText": "Akademik takvimi aç",
+          "actionUrl": "https://www.tedu.edu.tr/akademik-takvim"
+        },
+        {
+          "title": "Yaz okulu ne zaman, kuralları neler?",
+          "intent": "SummerSchool",
+          "aliases": [ "yaz okulu", "yaz okulunda", "yaz okuluna", "summer school" ],
+          "actionText": "Yaz okulu sayfasını aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/yaz-okulu"
+        }
+      ]
+    },
+    {
+      "title": "Kredi, Sınıf ve Mezuniyet",
+      "icon": "🎓",
+      "prompt": "Kredi, sınıf ve mezuniyetle ilgili ne öğrenmek istersiniz?",
+      "aliases": [ "kredi", "kredim", "sınıf", "mezuniyet" ],
+      "items": [
+        {
+          "title": "Kaç krediyle kaçıncı sınıf olurum?",
+          "intent": "ClassStanding",
+          "aliases": [ "kaçıncı sınıfım", "kaçıncı sınıf", "hangi sınıftayım", "sınıf olmak için", "sınıf hesaplama", "sınıf atlamak" ],
+          "actionText": "Öğrenci İşleri özet bilgilerini aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/yonetmelik-yonerge-akademik-konularla-ilgili-ozet-bilgiler"
+        },
+        {
+          "title": "Bir dönemde kaç kredi alabilirim?",
+          "intent": "CourseLoad",
+          "aliases": [ "kaç kredi alabilirim", "en fazla kaç kredi", "en az kaç kredi", "kredi limiti", "ders yükü", "kredi yükü", "overload" ],
+          "actionText": "Öğrenci İşleri özet bilgilerini aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/yonetmelik-yonerge-akademik-konularla-ilgili-ozet-bilgiler"
+        },
+        {
+          "title": "Mezuniyet şartları neler?",
+          "intent": "GraduationRequirements",
+          "aliases": [ "mezuniyet şartları", "mezuniyet koşulları", "mezun olmak için", "mezun olabilmem için", "mezuniyet gereklilikleri" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        },
+        {
+          "title": "Mezuniyet ek sınavı (bütünleme) var mı?",
+          "intent": "GraduationExtraExam",
+          "aliases": [ "ek sınav", "ek sınavı", "ek sınava", "tek ders sınavı", "bütünleme", "büt", "dersim kaldı" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        },
+        {
+          "title": "Azami öğrenim süresi ne kadar?",
+          "intent": "MaxStudyDuration",
+          "aliases": [ "azami süre", "azami süreye", "azami süreden", "azami öğrenim süresi", "en fazla kaç yıl", "kaç yılda bitirmem" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Notlar ve Dersler",
+      "icon": "📝",
+      "prompt": "Notlar ve derslerle ilgili ne öğrenmek istersiniz?",
+      "aliases": [ "not", "notum", "notlar", "ortalama", "ortalamam", "gno", "gpa" ],
+      "items": [
+        {
+          "title": "Harf notları ve ortalama nasıl hesaplanır?",
+          "intent": "GradingSystem",
+          "aliases": [ "not sistemi", "not baremi", "harf notu tablosu", "harf notu katsayıları", "ortalama nasıl hesaplanır", "gno nasıl hesaplanır", "gpa nasıl hesaplanır" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        },
+        {
+          "title": "Sınamalı öğrenci ne demek?",
+          "intent": "Probation",
+          "aliases": [ "sınamalı", "sınamalı öğrenci", "sınamalı yeterli", "sınamalı yetersiz", "probation" ],
+          "actionText": "Öğrenci İşleri özet bilgilerini aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/yonetmelik-yonerge-akademik-konularla-ilgili-ozet-bilgiler"
+        },
+        {
+          "title": "Onur ve yüksek onur şartları neler?",
+          "intent": "HonorStatus",
+          "aliases": [ "onur", "onurla", "onura", "yüksek onur", "onur listesi", "honor", "dean's list" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        },
+        {
+          "title": "Ders tekrarı nasıl yapılır?",
+          "intent": "CourseRepeat",
+          "aliases": [ "ders tekrarı", "not yükseltme", "dersi tekrar", "tekrar almak", "retake" ],
+          "actionText": "Öğrenci İşleri özet bilgilerini aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/yonetmelik-yonerge-akademik-konularla-ilgili-ozet-bilgiler"
+        },
+        {
+          "title": "Dersten nasıl çekilirim?",
+          "intent": "CourseWithdrawal",
+          "aliases": [ "dersten çekilme", "dersten çekilmek", "çekilme", "withdraw", "w notu", "çekilebilir" ],
+          "actionText": "Öğrenci İşleri özet bilgilerini aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/yonetmelik-yonerge-akademik-konularla-ilgili-ozet-bilgiler"
+        },
+        {
+          "title": "Notuma nasıl itiraz ederim?",
+          "intent": "GradeAppeal",
+          "aliases": [ "itiraz", "not itirazı", "maddi hata", "sınav kağıdımı" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        },
+        {
+          "title": "Sınava giremezsem ne olur?",
+          "intent": "MissedExam",
+          "aliases": [ "sınava giremedim", "giremedim", "mazeret sınavı", "mazeret", "i notu", "incomplete", "sağlık raporu" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        },
+        {
+          "title": "Devamsızlık sınırı var mı?",
+          "intent": "Attendance",
+          "aliases": [ "devamsızlık", "devamsızlık sınırı", "devam zorunluluğu", "devam şartı", "yoklama", "attendance" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Staj",
+      "icon": "💼",
+      "prompt": "Stajla ilgili ne öğrenmek istersiniz?",
+      "aliases": [ "staj", "stajı", "staja", "internship" ],
+      "items": [
+        {
+          "title": "Zorunlu staj kaç gün?",
+          "intent": "InternshipDuration",
+          "aliases": [ "staj süresi", "staj kaç gün", "kaç gün staj", "zorunlu staj süresi", "kaç iş günü" ],
+          "actionText": "Staj yönergesini aç",
+          "actionUrl": "https://career.tedu.edu.tr/sites/default/files/inline-files/KYS-YN-17_LisansOgrencileriIcinStajYonergesi.pdf"
+        },
+        {
+          "title": "Staj başvurusu nasıl yapılır?",
+          "intent": "InternshipApplication",
+          "aliases": [ "staj başvurusu", "staj onay formu", "staj formu", "staj raporu", "staj dersi", "staj yeri" ],
+          "actionText": "Staj yönergesini aç",
+          "actionUrl": "https://career.tedu.edu.tr/sites/default/files/inline-files/KYS-YN-17_LisansOgrencileriIcinStajYonergesi.pdf"
+        },
+        {
+          "title": "Staj sigortasını kim yapıyor?",
+          "intent": "InternshipInsurance",
+          "aliases": [ "staj sigortası", "sigorta", "sigortası", "sigortalı", "sigortamı", "sgk", "stajyer maaşı", "staj ücreti" ],
+          "actionText": "Staj yönergesini aç",
+          "actionUrl": "https://career.tedu.edu.tr/sites/default/files/inline-files/KYS-YN-17_LisansOgrencileriIcinStajYonergesi.pdf"
+        },
+        {
+          "title": "Gönüllü staj yapabilir miyim?",
+          "intent": "VoluntaryInternship",
+          "aliases": [ "gönüllü staj", "genç yetenek", "isteğe bağlı staj" ],
+          "actionText": "Staj yönergesini aç",
+          "actionUrl": "https://career.tedu.edu.tr/sites/default/files/inline-files/KYS-YN-17_LisansOgrencileriIcinStajYonergesi.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Ek Programlar ve Değişim",
+      "icon": "🌍",
+      "prompt": "Hangi program hakkında bilgi almak istersiniz?",
+      "aliases": [ "ek program", "değişim" ],
+      "items": [
+        {
+          "title": "Çift anadal (ÇAP) şartları neler?",
+          "intent": "DoubleMajor",
+          "aliases": [ "çift anadal", "çift ana dal", "çap", "çapa", "çapta", "çaptan", "double major" ],
+          "actionText": "ÇAP sıkça sorulan sorularını aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/cap-programi-sikca-sorulan-sorular"
+        },
+        {
+          "title": "Yandal (YAP) şartları neler?",
+          "intent": "Minor",
+          "aliases": [ "yandal", "yan dal", "yandala", "yandalda", "yap programı", "minor" ],
+          "actionText": "YAP sıkça sorulan sorularını aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/yap-programi-sikca-sorulan-sorular"
+        },
+        {
+          "title": "Erasmus'a nasıl başvurulur?",
+          "intent": "Erasmus",
+          "aliases": [ "erasmus", "değişim programı", "exchange", "yurtdışında staj", "yurt dışında staj" ],
+          "actionText": "Uluslararası Programlar Ofisi'ni aç",
+          "actionUrl": "https://ipo.tedu.edu.tr/"
+        },
+        {
+          "title": "İngilizce hazırlık ve yeterlik sınavı",
+          "intent": "EnglishPrep",
+          "aliases": [ "hazırlık", "hazırlıkta", "hazırlığı", "ingilizce dil okulu", "yeterlik sınavı", "proficiency", "seviye belirleme" ],
+          "actionText": "Akademik takvimi aç",
+          "actionUrl": "https://www.tedu.edu.tr/akademik-takvim"
+        }
+      ]
+    },
+    {
+      "title": "Öğrenci İşlemleri",
+      "icon": "🏛",
+      "prompt": "Hangi işlemle ilgili bilgi almak istersiniz?",
+      "aliases": [ "belge", "işlem" ],
+      "items": [
+        {
+          "title": "Kayıt dondurma (izin) nasıl yapılır?",
+          "intent": "LeaveOfAbsence",
+          "aliases": [ "kayıt dondurma", "kaydımı dondurmak", "kayıt dondurmak", "izinli ayrılma", "izin başvurusu" ],
+          "actionText": "Lisans yönetmeliğini aç",
+          "actionUrl": "https://www.tedu.edu.tr/sites/default/files/docs/Resmi-Gazete-29-Haziran-2025-PAZAR.pdf"
+        },
+        {
+          "title": "MyTEDU şifremi unuttum",
+          "intent": "PortalPassword",
+          "aliases": [ "şifremi unuttum", "şifre", "şifrem", "tedupass", "şifre sıfırlama" ],
+          "actionText": "Şifre sıfırlama sayfasını aç",
+          "actionUrl": "http://reset.tedu.edu.tr/"
+        },
+        {
+          "title": "Öğrenci İşleri iletişim bilgileri",
+          "intent": "StudentAffairsContact",
+          "aliases": [ "öğrenci işleri", "iletişim", "telefon numarası", "oim", "transkript", "öğrenci belgesi" ],
+          "actionText": "Öğrenci İşleri sayfasını aç",
+          "actionUrl": "https://registrar.tedu.edu.tr/"
+        }
+      ]
+    }
+  ]
+}

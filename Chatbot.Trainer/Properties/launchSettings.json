@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "nexora-demo": {
+      "commandName": "Project",
+      "commandLineArgs": "nexora-demo"
+    },
+    "hotel-demo": {
+      "commandName": "Project",
+      "commandLineArgs": "hotel-demo"
+    }
+  }
+}

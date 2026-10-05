@@ -1,0 +1,1172 @@
+Text	Label
+merhaba	Greeting
+selam	Greeting
+selamlar	Greeting
+merhabalar	Greeting
+iyi günler	Greeting
+günaydın	Greeting
+iyi akşamlar	Greeting
+hey	Greeting
+selam bot	Greeting
+merhaba asistan	Greeting
+merhaba yardım alabilir miyim	Greeting
+selam bir şey soracaktım	Greeting
+merhaba bir sorum var	Greeting
+selamlar sorum olacaktı	Greeting
+merhaba nasılsın	Greeting
+selam nasılsın	Greeting
+naber	Greeting
+slm	Greeting
+mrb	Greeting
+hello	Greeting
+hi	Greeting
+merhaba tedü asistanı	Greeting
+selam tedu bot	Greeting
+iyi günler bilgi almak istiyorum	Greeting
+merhaba bana yardımcı olur musun	Greeting
+selam kolay gelsin	Greeting
+merhaba kolay gelsin	Greeting
+selam orada mısın	Greeting
+kimse var mı	Greeting
+merhaba sen kimsin	Greeting
+neler yapabiliyorsun	Greeting
+hangi konularda yardımcı olabilirsin	Greeting
+sana ne sorabilirim	Greeting
+bu bot ne işe yarıyor	Greeting
+merhaba öğrenciyim bir şey danışacağım	Greeting
+selam hocam	Greeting
+iyi akşamlar bir sorum olacak	Greeting
+günaydın bilgi alabilir miyim	Greeting
+hey selam	Greeting
+merhaba ilk defa kullanıyorum	Greeting
+teşekkürler	Thanks
+teşekkür ederim	Thanks
+çok teşekkür ederim	Thanks
+çok teşekkürler	Thanks
+sağ ol	Thanks
+sağ olun	Thanks
+çok sağ ol	Thanks
+eyvallah	Thanks
+tamam teşekkürler	Thanks
+anladım teşekkürler	Thanks
+anladım teşekkür ederim	Thanks
+tşk	Thanks
+tşkler	Thanks
+eline sağlık	Thanks
+çok işime yaradı teşekkürler	Thanks
+harikasın teşekkürler	Thanks
+süpersin sağ ol	Thanks
+yardımın için teşekkürler	Thanks
+bilgi için teşekkürler	Thanks
+tamamdır sağ ol	Thanks
+oldu teşekkürler	Thanks
+tamam teşekkür ederim	Thanks
+tamam anladım sağ olun	Thanks
+görüşürüz	Thanks
+hoşça kal	Thanks
+bye	Thanks
+bay bay	Thanks
+kendine iyi bak	Thanks
+iyi çalışmalar	Thanks
+teşekkürler iyi çalışmalar	Thanks
+çok makbule geçti	Thanks
+sağolasın	Thanks
+thanks	Thanks
+thank you	Thanks
+mersi	Thanks
+çok yardımcı oldun	Thanks
+tamam bu kadar teşekkürler	Thanks
+başka sorum yok teşekkürler	Thanks
+işimi gördü sağ ol	Thanks
+dersler ne zaman başlıyor	SemesterDates
+güz dönemi dersleri ne zaman başlıyor	SemesterDates
+bahar dönemi ne zaman başlıyor	SemesterDates
+okul ne zaman açılıyor	SemesterDates
+dönem ne zaman bitiyor	SemesterDates
+güz dönemi ne zaman bitiyor	SemesterDates
+bahar dönemi dersleri ne zaman sona eriyor	SemesterDates
+derslerin son günü ne zaman	SemesterDates
+derslerin başlama tarihi nedir	SemesterDates
+bu dönem dersler ne zaman bitecek	SemesterDates
+yarıyıl ne zaman başlıyor	SemesterDates
+ikinci dönem ne zaman başlar	SemesterDates
+yarıyıl tatili ne zaman	SemesterDates
+sömestr tatili kaç hafta	SemesterDates
+şubat tatili ne zaman bitiyor	SemesterDates
+2026 güz dönemi başlangıç tarihi	SemesterDates
+2027 bahar dönemi başlangıç tarihi	SemesterDates
+akademik yıl ne zaman başlıyor	SemesterDates
+okullar ne zaman açılacak	SemesterDates
+bahar yarıyılı ne zaman başlayacak	SemesterDates
+güz yarıyılı kaç hafta sürüyor	SemesterDates
+bir dönem kaç hafta	SemesterDates
+derslere ne zaman başlıyoruz	SemesterDates
+ilk ders günü ne zaman	SemesterDates
+dersler eylülde mi başlıyor	SemesterDates
+şubatta okul ne zaman başlıyor	SemesterDates
+dönem sonu ne zaman	SemesterDates
+dersler aralıkta mı bitiyor	SemesterDates
+bahar dönemi haziranda mı bitiyor	SemesterDates
+akademik takvime göre dönem başlangıcı	SemesterDates
+okulun açılış tarihi	SemesterDates
+dönem başlangıç ve bitiş tarihleri	SemesterDates
+bu yarıyıl ne zaman tamamlanıyor	SemesterDates
+ders dönemi ne zaman bitiyor	SemesterDates
+semester ne zaman başlıyor	SemesterDates
+fall semester ne zaman başlıyor	SemesterDates
+spring semester start date	SemesterDates
+classes start date	SemesterDates
+yeni dönem ne zaman başlıyor	SemesterDates
+dersler hangi tarihte başlayacak	SemesterDates
+finaller ne zaman	FinalExams
+final sınavları ne zaman başlıyor	FinalExams
+final haftası ne zaman	FinalExams
+güz dönemi finalleri ne zaman	FinalExams
+bahar finalleri ne zaman	FinalExams
+dönem sonu sınavları hangi tarihlerde	FinalExams
+yarıyıl sonu sınavları ne zaman	FinalExams
+final takvimi ne zaman açıklanır	FinalExams
+final programı ne zaman belli olur	FinalExams
+finaller ocakta mı	FinalExams
+haziran finalleri hangi tarihte	FinalExams
+notlar ne zaman açıklanıyor	FinalExams
+harf notları ne zaman ilan edilir	FinalExams
+final notları ne zaman girilir	FinalExams
+dönem sonu notları ne zaman çıkar	FinalExams
+not ilanı ne zaman	FinalExams
+ara sınavlar ne zaman	FinalExams
+vizeler ne zaman	FinalExams
+midterm tarihleri ne zaman belli olur	FinalExams
+vize haftası var mı	FinalExams
+ara sınav tarihlerini nereden öğrenirim	FinalExams
+final sınavı tarihleri	FinalExams
+finals ne zaman	FinalExams
+final exam dates	FinalExams
+sınav dönemi ne zaman başlıyor	FinalExams
+sınav haftası hangi tarihlerde	FinalExams
+final sınavları kaç gün sürüyor	FinalExams
+notlar portala ne zaman düşer	FinalExams
+harf notlarım portalda ne zaman görünecek	FinalExams
+final sonuçları ne zaman açıklanacak	FinalExams
+ocak finalleri hangi gün bitiyor	FinalExams
+final tarihleri değişebilir mi	FinalExams
+final sınav programı ne zaman ilan edilir	FinalExams
+dönem sonu sınav tarihi	FinalExams
+güz yarıyıl sonu sınavları	FinalExams
+bahar yarıyıl sonu sınavları ne zaman başlar	FinalExams
+final sınavları hafta sonu da olur mu	FinalExams
+vize ve final tarihleri	FinalExams
+ders kaydı ne zaman	CourseRegistration
+ders kayıtları ne zaman başlıyor	CourseRegistration
+kayıt yenileme ne zaman	CourseRegistration
+ders seçimi ne zaman	CourseRegistration
+bahar dönemi ders kayıtları ne zaman	CourseRegistration
+güz ders kaydı hangi tarihte	CourseRegistration
+3. sınıfların ders kaydı ne zaman	CourseRegistration
+birinci sınıfların ders kaydı ne zaman	CourseRegistration
+dördüncü sınıf kayıtları hangi gün	CourseRegistration
+ders kaydı nasıl yapılır	CourseRegistration
+ders kaydını nereden yapıyorum	CourseRegistration
+mytedu portaldan ders kaydı nasıl yapılır	CourseRegistration
+danışman onayı ne zaman bitiyor	CourseRegistration
+danışman onayı almam gerekiyor mu	CourseRegistration
+ders kaydı için ücret ödemem gerekiyor mu	CourseRegistration
+ders kaydını kaçırdım ne yapabilirim	CourseRegistration
+kayıt döneminde değilsiniz hatası alıyorum	CourseRegistration
+ders kaydı saat kaçta açılıyor	CourseRegistration
+ders kayıtları saat kaçta kapanıyor	CourseRegistration
+kayıt yenileme işlemleri nasıl	CourseRegistration
+dönem kaydı nasıl yapılıyor	CourseRegistration
+course registration ne zaman	CourseRegistration
+registration tarihleri	CourseRegistration
+kayıt sırası nasıl belirleniyor	CourseRegistration
+neden sınıflara göre farklı günlerde kayıt var	CourseRegistration
+ders kaydı yapmazsam ne olur	CourseRegistration
+kaydımı yenilemezsem ne olur	CourseRegistration
+ccr nedir ders kaydında	CourseRegistration
+müfredat uyumluluk raporunu nereden görürüm	CourseRegistration
+danışmanım onay vermedi ne yapmalıyım	CourseRegistration
+ders kaydında kontenjan doldu	CourseRegistration
+ders listesi boş görünüyor	CourseRegistration
+ders kayıt tarihleri 2026	CourseRegistration
+ders kayıt tarihleri 2027	CourseRegistration
+hangi gün ders seçeceğim	CourseRegistration
+bölüm dersleri kaydı ne zaman	CourseRegistration
+ders kayıt kılavuzu var mı	CourseRegistration
+kayıt haftası ne zaman	CourseRegistration
+dönem başı kaydı	CourseRegistration
+ekle bırak ne zaman	AddDrop
+ders ekleme bırakma ne zaman	AddDrop
+add drop ne zaman	AddDrop
+add-drop tarihleri	AddDrop
+ders ekleme çıkarma ne zaman	AddDrop
+ders bırakma tarihi	AddDrop
+ekle bırak haftası hangi gün	AddDrop
+ders değiştirmek istiyorum ne zaman yapabilirim	AddDrop
+ders ekleyebilir miyim	AddDrop
+dersi bırakıp başka ders alabilir miyim	AddDrop
+şube değiştirmek istiyorum	AddDrop
+grup değişikliği nasıl yapılır	AddDrop
+section değiştirebilir miyim	AddDrop
+ekle bırakta danışman onayı gerekiyor mu	AddDrop
+ekle bırak kaç gün sürüyor	AddDrop
+ekle bırak saat kaçta kapanıyor	AddDrop
+güz dönemi ekle bırak tarihleri	AddDrop
+bahar ekle bırak ne zaman	AddDrop
+ekle bırakı kaçırdım	AddDrop
+ders kaydından sonra ders ekleyebilir miyim	AddDrop
+kayıttan sonra değişiklik yapabilir miyim	AddDrop
+ders programımı değiştirmek istiyorum	AddDrop
+dersimi değiştirebilir miyim	AddDrop
+ekle-bırak dönemi	AddDrop
+ekleme bırakma haftası	AddDrop
+ders ekle çıkar	AddDrop
+yanlış ders seçtim nasıl düzeltirim	AddDrop
+seçtiğim dersi silmek istiyorum	AddDrop
+bir ders daha eklemek istiyorum	AddDrop
+ekle bırakta kayıt yenilenir mi	AddDrop
+ekle bırak bitti mi	AddDrop
+add drop period	AddDrop
+ekle bırak ekim	AddDrop
+ekle bırak şubat	AddDrop
+seçmeli dersimi değiştirmek istiyorum	AddDrop
+ekle bırakta kontenjan açılır mı	AddDrop
+bayram tatili ne zaman	Holidays
+ramazan bayramında okul tatil mi	Holidays
+kurban bayramı tatili kaç gün	Holidays
+29 ekimde ders var mı	Holidays
+cumhuriyet bayramında okul kapalı mı	Holidays
+resmi tatiller neler	Holidays
+bu dönem hangi günler tatil	Holidays
+ara tatil var mı	Holidays
+ara tatil ne zaman	Holidays
+bahar dönemi ara tatil	Holidays
+1 mayısta okul var mı	Holidays
+23 nisanda ders var mı	Holidays
+19 mayıs tatil mi	Holidays
+yılbaşında okul tatil mi	Holidays
+10 kasımda ders yapılıyor mu	Holidays
+tatil günleri	Holidays
+akademik takvimdeki tatiller	Holidays
+mayıs ayında tatil var mı	Holidays
+martta tatil var mı	Holidays
+bayramda dersler iptal mi	Holidays
+bu ay tatil var mı	Holidays
+uzun tatil hangi tarihte	Holidays
+bayram tatili kaç gün sürecek	Holidays
+28 ekim yarım gün mü	Holidays
+holiday dates	Holidays
+resmi tatil günlerinde ders olur mu	Holidays
+kurban bayramından sonra ara tatil var mı	Holidays
+ramazan bayramı 2027 tatili	Holidays
+15 temmuz tatil mi	Holidays
+30 ağustos tatil mi	Holidays
+demokrasi bayramında okul açık mı	Holidays
+ders olmayan günler hangileri	Holidays
+bayram haftası okul kapalı mı	Holidays
+tatil takvimi	Holidays
+milli bayramlarda ders var mı	Holidays
+yaz okulu ne zaman	SummerSchool
+yaz okulu ne zaman başlıyor	SummerSchool
+yaz okulu kayıtları ne zaman	SummerSchool
+yaz okulunda kaç ders alabilirim	SummerSchool
+yaz okulunda en fazla kaç ders alınır	SummerSchool
+yaz okulu ücretli mi	SummerSchool
+yaz okulu ücreti ne kadar	SummerSchool
+burslular yaz okulu için ödeme yapıyor mu	SummerSchool
+yaz okulunu başka üniversitede alabilir miyim	SummerSchool
+odtüde yaz okulu alabilir miyim	SummerSchool
+bilkentten yaz okulu dersi alabilir miyim	SummerSchool
+yaz okulu kaç hafta sürüyor	SummerSchool
+yaz okulu sınavları ne zaman	SummerSchool
+yaz okulu notları ne zaman açıklanır	SummerSchool
+yaz okulunda ekle bırak var mı	SummerSchool
+yaz okuluna kimler katılabilir	SummerSchool
+yaz okulu zorunlu mu	SummerSchool
+yaz okulunda f aldığım dersi tekrar alabilir miyim	SummerSchool
+yaz okulunda ders açılması için kaç kişi gerekiyor	SummerSchool
+yaz okulunda ders kapanırsa param ne olur	SummerSchool
+yaz okulu ve staj aynı anda olur mu	SummerSchool
+yaz okulunda mezun olabilir miyim	SummerSchool
+mezuniyet durumundayım yaz okulunda 3 ders alabilir miyim	SummerSchool
+yaz dönemi ders kaydı	SummerSchool
+summer school ne zaman	SummerSchool
+yaz okulunda dersten çekilebilir miyim	SummerSchool
+yaz okulu öğrenim süresine sayılır mı	SummerSchool
+yaz okulunda hangi dersler açılıyor	SummerSchool
+yaz okulu 2027 tarihleri	SummerSchool
+yaz döneminde ders almak istiyorum	SummerSchool
+yazın ders alabilir miyim	SummerSchool
+yazın kaç ders alınabiliyor	SummerSchool
+başka üniversiteden ders almak istiyorum	SummerSchool
+diğer üniversitelerden en fazla kaç ders alınabilir	SummerSchool
+yaz okulu ödemesi ne zaman	SummerSchool
+yaz okulu başvurusu nasıl yapılır	SummerSchool
+hazırlık öğrencisi yaz okuluna kayıt olabilir mi	SummerSchool
+yaz okulunda ders saatleri nasıl	SummerSchool
+kaçıncı sınıfım	ClassStanding
+45 kredim var kaçıncı sınıfım	ClassStanding
+30 kredim var kaçıncı sınıf oluyorum	ClassStanding
+60 kredi ile kaçıncı sınıf olurum	ClassStanding
+kredime göre sınıfım ne	ClassStanding
+sınıfım nasıl belirleniyor	ClassStanding
+sınıf atlamak için kaç kredi gerekli	ClassStanding
+2. sınıf olmak için kaç kredi lazım	ClassStanding
+ikinci sınıf olmak için kaç kredi tamamlamalıyım	ClassStanding
+3. sınıfa geçmek için kaç kredi gerekiyor	ClassStanding
+üçüncü sınıf kaç krediden başlıyor	ClassStanding
+4. sınıf olmak için kaç kredi lazım	ClassStanding
+dördüncü sınıf sayılmak için gereken kredi	ClassStanding
+son sınıf olmak için kaç kredi gerekir	ClassStanding
+kaç kredide 2. sınıf olunur	ClassStanding
+kaç krediyle 3. sınıf oluyorum	ClassStanding
+kaç kredi tamamlarsam dördüncü sınıf olurum	ClassStanding
+58 kredim var 3. sınıf mıyım	ClassStanding
+96 kredi ile 4. sınıf olur muyum	ClassStanding
+100 kredim var hangi sınıftayım	ClassStanding
+25 kredim var hala birinci sınıf mıyım	ClassStanding
+birinci sınıf kaç krediye kadar	ClassStanding
+sınıf hesaplama nasıl yapılıyor	ClassStanding
+sınıfımı kredi mi belirliyor yıl mı	ClassStanding
+iki yıldır okuyorum ama hala birinci sınıf görünüyorum	ClassStanding
+neden 2. sınıf görünmüyorum	ClassStanding
+sınıf bilgim yanlış görünüyor	ClassStanding
+dd aldığım dersler sınıf hesabına sayılıyor mu	ClassStanding
+f aldığım dersin kredisi sınıfa sayılır mı	ClassStanding
+tamamlanan kredi ne demek	ClassStanding
+kaç krediyle kaçıncı sınıf olunuyor	ClassStanding
+sınıf kredi aralıkları neler	ClassStanding
+hangi kredi aralığı hangi sınıf	ClassStanding
+class standing nasıl hesaplanıyor	ClassStanding
+how many credits for junior	ClassStanding
+tedüde sınıf neye göre belirlenir	ClassStanding
+sınıf geçme şartı nedir	ClassStanding
+sınıfta kalmak var mı	ClassStanding
+bir üst sınıfa geçmek için ne gerekiyor	ClassStanding
+75 kredim var kaçıncı sınıftayım	ClassStanding
+50 kredi hangi sınıfa denk geliyor	ClassStanding
+120 kredim var son sınıf mıyım	ClassStanding
+kredim 29 birinci sınıf mıyım	ClassStanding
+kredimi nereden görebilirim	ClassStanding
+bir dönemde kaç kredi alabilirim	CourseLoad
+en fazla kaç kredi alabilirim	CourseLoad
+en az kaç kredi almam gerekiyor	CourseLoad
+normal ders yükü kaç kredi	CourseLoad
+maksimum kredi sınırı nedir	CourseLoad
+minimum kredi kaç	CourseLoad
+dönemlik kredi limiti	CourseLoad
+25 krediden fazla alabilir miyim	CourseLoad
+22 kredi alabilir miyim	CourseLoad
+12 kredi alsam olur mu	CourseLoad
+ders yükümü artırabilir miyim	CourseLoad
+fazla ders almak istiyorum	CourseLoad
+overload yapabilir miyim	CourseLoad
+ortalamam 2nin altında kaç kredi alabilirim	CourseLoad
+sınamalıyım ders yükümü artırabilir miyim	CourseLoad
+ilk dönem fazla ders alabilir miyim	CourseLoad
+fazla kredi alırsam ek ücret öder miyim	CourseLoad
+kaç krediye kadar tam ücret ödüyorum	CourseLoad
+az kredi alırsam ücret düşer mi	CourseLoad
+13 kredi alırsam daha az mı öderim	CourseLoad
+21 kredi alırsam fazla ücret çıkar mı	CourseLoad
+burslu öğrenci fazla kredi alırsa öder mi	CourseLoad
+ortalama kredi kaç	CourseLoad
+dönem başına ortalama kredi	CourseLoad
+ders yükü sınırı	CourseLoad
+kredi yükü	CourseLoad
+kaç ders alabilirim bu dönem	CourseLoad
+en fazla kaç ders alınır	CourseLoad
+ders yükünü azaltabilir miyim	CourseLoad
+9 krediden az alabilir miyim	CourseLoad
+yarıyıl başına kredi sınırları	CourseLoad
+eğitim fakültesi kredi limiti farklı mı	CourseLoad
+max credit limit	CourseLoad
+maximum credits per semester	CourseLoad
+course load limit	CourseLoad
+19 krediden fazla almak için ne gerekiyor	CourseLoad
+danışman onayıyla fazla ders alınabilir mi	CourseLoad
+kredi limitim neden 19 görünüyor	CourseLoad
+az ders almak istiyorum mümkün mü	CourseLoad
+ders yükü ücret ilişkisi	CourseLoad
+mezun olmak için ne gerekiyor	GraduationRequirements
+mezuniyet şartları neler	GraduationRequirements
+mezuniyet koşulları nelerdir	GraduationRequirements
+mezun olabilmem için ortalama kaç olmalı	GraduationRequirements
+mezuniyet için minimum gno	GraduationRequirements
+dd ile mezun olabilir miyim	GraduationRequirements
+dc notlarıyla mezun olunur mu	GraduationRequirements
+mezun olmak için kaç kredi gerekiyor	GraduationRequirements
+mezuniyet için toplam kredi	GraduationRequirements
+tüm dersleri geçtim mezun oluyor muyum	GraduationRequirements
+mezuniyet tarihi nasıl belirleniyor	GraduationRequirements
+diplomamı ne zaman alırım	GraduationRequirements
+mezun olmak için tedüden kaç kredi almam lazım	GraduationRequirements
+başka üniversiteden aldığım dersler mezuniyete sayılır mı	GraduationRequirements
+borcum varsa mezun olabilir miyim	GraduationRequirements
+kütüphane borcu mezuniyete engel mi	GraduationRequirements
+mezuniyet için yönetim kurulu kararı gerekiyor mu	GraduationRequirements
+mezun olma şartı	GraduationRequirements
+graduation requirements	GraduationRequirements
+mezuniyet gereklilikleri	GraduationRequirements
+4 yılda mezun olmak için ne yapmalıyım	GraduationRequirements
+mezun olmak için tüm derslerden geçmem mi gerekiyor	GraduationRequirements
+ortalamam 1.95 mezun olabilir miyim	GraduationRequirements
+gno 2 olmadan mezun olunmuyor mu	GraduationRequirements
+mezuniyet ortalaması kaç olmalı	GraduationRequirements
+eksik derslerimi nereden görürüm	GraduationRequirements
+ccr raporu mezuniyet	GraduationRequirements
+mezun olmama kaç dersim kaldı nasıl öğrenirim	GraduationRequirements
+mezuniyet işlemleri	GraduationRequirements
+ne zaman mezun sayılırım	GraduationRequirements
+mezuniyet tarihim ne olacak	GraduationRequirements
+p notu mezuniyete engel mi	GraduationRequirements
+koşullu geçtiğim derslerle mezun olabilir miyim	GraduationRequirements
+mezun olmak için gereken not ortalaması	GraduationRequirements
+mezuniyet için hangi şartları sağlamalıyım	GraduationRequirements
+mezun olabilmek için neler lazım	GraduationRequirements
+diploma almak için şartlar	GraduationRequirements
+mezuniyet kriterleri	GraduationRequirements
+mezuniyet ek sınavı nedir	GraduationExtraExam
+ek sınav hakkı nasıl kullanılır	GraduationExtraExam
+iki dersten f aldım mezun olamıyorum ne yapabilirim	GraduationExtraExam
+bir dersim kaldı mezun olamıyorum	GraduationExtraExam
+tek ders sınavı var mı	GraduationExtraExam
+tek ders sınavı	GraduationExtraExam
+mezuniyete bir dersim kaldı	GraduationExtraExam
+ek sınava kimler girebilir	GraduationExtraExam
+ek sınav başvurusu ne zaman	GraduationExtraExam
+ek sınav tarihleri ne zaman	GraduationExtraExam
+mezuniyet ek sınav başvurusu nereye yapılır	GraduationExtraExam
+ek sınav kaç kere hakkım var	GraduationExtraExam
+ortalamam 2nin altında olduğu için mezun olamıyorum	GraduationExtraExam
+gno şartını sağlayamadım mezun olamıyorum ne yapmalıyım	GraduationExtraExam
+dd ve dc aldığım derslerden ek sınava girebilir miyim	GraduationExtraExam
+fx aldığım derse ek sınav var mı	GraduationExtraExam
+stüdyo dersinden ek sınav olur mu	GraduationExtraExam
+staj dersinden ek sınav hakkı var mı	GraduationExtraExam
+ek sınava giremezsem mazeret kabul edilir mi	GraduationExtraExam
+ek sınavda geçemezsem ne olur	GraduationExtraExam
+ek sınav notu harf notunun yerine geçer mi	GraduationExtraExam
+azami süre sonu ek sınavı nedir	GraduationExtraExam
+azami süre ek sınav başvurusu	GraduationExtraExam
+iki f ile ek sınav	GraduationExtraExam
+bir f ile ek sınav hakkı sınırsız mı	GraduationExtraExam
+mezuniyet aşamasında ek sınav	GraduationExtraExam
+ek sınav ocak 2027	GraduationExtraExam
+haziran ek sınavı ne zaman	GraduationExtraExam
+eylül ek sınavları hangi tarihte	GraduationExtraExam
+ek sınav için dilekçe nereye verilir	GraduationExtraExam
+ek sınav yerine proje yapılabilir mi	GraduationExtraExam
+final sonrası ek sınav var mı	GraduationExtraExam
+bütünleme var mı	GraduationExtraExam
+bütünleme sınavı ne zaman	GraduationExtraExam
+büt var mı tedüde	GraduationExtraExam
+resit exam var mı	GraduationExtraExam
+kalan dersim için tekrar sınav hakkı var mı	GraduationExtraExam
+son dersimden kaldım sınav hakkı	GraduationExtraExam
+azami öğrenim süresi ne kadar	MaxStudyDuration
+en fazla kaç yılda bitirmem gerekiyor	MaxStudyDuration
+okulu kaç yılda bitirmek zorundayım	MaxStudyDuration
+azami süre kaç yıl	MaxStudyDuration
+7 yılda bitirmezsem ne olur	MaxStudyDuration
+14 dönemde mezun olamazsam ne olur	MaxStudyDuration
+hazırlık azami süreye dahil mi	MaxStudyDuration
+lisans programı kaç yıl	MaxStudyDuration
+normal öğrenim süresi ne kadar	MaxStudyDuration
+yaz okulu süreye dahil mi	MaxStudyDuration
+izinli geçen dönemler süreye sayılır mı	MaxStudyDuration
+kayıt dondurursam süre işler mi	MaxStudyDuration
+erasmusta geçen süre öğrenim süresine sayılır mı	MaxStudyDuration
+kayıt yenilemediğim dönemler süreden düşer mi	MaxStudyDuration
+azami süre dolarsa ne olur	MaxStudyDuration
+azami süre dolarsa ilişiğim kesilir mi	MaxStudyDuration
+uzatma hakkı var mı	MaxStudyDuration
+en geç ne zamana kadar mezun olmalıyım	MaxStudyDuration
+maximum study period	MaxStudyDuration
+kaç dönemde mezun olmam lazım	MaxStudyDuration
+öğrenim süresi sınırı	MaxStudyDuration
+ek süre hakkı	MaxStudyDuration
+4 yılda bitiremezsem ne olur	MaxStudyDuration
+okulu uzatırsam sorun olur mu	MaxStudyDuration
+5. yıla kalırsam ne olur	MaxStudyDuration
+6 yıl okuyabilir miyim	MaxStudyDuration
+bölümü en fazla kaç senede bitirebilirim	MaxStudyDuration
+azami öğrenim süresi hesabı	MaxStudyDuration
+öğrenim süreme neler dahil	MaxStudyDuration
+azami süreye neler dahil değil	MaxStudyDuration
+okulu en fazla kaç yıl uzatabilirim	MaxStudyDuration
+lisans eğitimi en fazla kaç yarıyıl sürebilir	MaxStudyDuration
+azami süreyi aşarsam ne olur	MaxStudyDuration
+kaç senede bitirmek zorunlu	MaxStudyDuration
+harf notları nelerdir	GradingSystem
+aa kaç puan	GradingSystem
+ba kaç puandan başlıyor	GradingSystem
+cc kaç puan	GradingSystem
+dd geçer mi	GradingSystem
+dc geçer not mu	GradingSystem
+ff ile f aynı mı	GradingSystem
+fx ne demek	GradingSystem
+fx notu nedir	GradingSystem
+f notu kaç puanın altı	GradingSystem
+not sistemi nasıl	GradingSystem
+not aralıkları neler	GradingSystem
+100 lük sistemde aa kaç	GradingSystem
+4lük sistemde bb kaç	GradingSystem
+harf notu katsayıları	GradingSystem
+p notu ne demek	GradingSystem
+ortalama nasıl hesaplanır	GradingSystem
+gno nasıl hesaplanıyor	GradingSystem
+gpa nasıl hesaplanır	GradingSystem
+yno nedir	GradingSystem
+dönem ortalaması nasıl hesaplanıyor	GradingSystem
+genel not ortalaması hesaplama	GradingSystem
+ortalamamı nasıl hesaplarım	GradingSystem
+kredi ile not çarpılıyor mu	GradingSystem
+ortalama virgülden sonra kaç hane	GradingSystem
+ortalama yuvarlanıyor mu	GradingSystem
+nc dersler ortalamaya girer mi	GradingSystem
+85 aldım hangi harf notu	GradingSystem
+72 hangi harfe denk geliyor	GradingSystem
+55 ile dersten geçer miyim	GradingSystem
+49 alırsam kalır mıyım	GradingSystem
+grading system	GradingSystem
+letter grades	GradingSystem
+harf notu tablosu	GradingSystem
+not baremi	GradingSystem
+koşullu geçmek ne demek	GradingSystem
+cgpa nedir	GradingSystem
+dönemlik ortalama ile genel ortalama farkı	GradingSystem
+4.00 üzerinden not sistemi	GradingSystem
+cb kaç puan	GradingSystem
+sınamalı ne demek	Probation
+sınamalı öğrenci nedir	Probation
+sınamalı oldum ne yapmalıyım	Probation
+ortalamam 2nin altına düştü	Probation
+gno 2den düşük olursa ne olur	Probation
+probation nedir	Probation
+akademik uyarı aldım	Probation
+sınamalı yeterli ne demek	Probation
+sınamalı yetersiz ne demek	Probation
+sınamalıdan nasıl çıkarım	Probation
+sınamalı statüsünden çıkmak için ortalama kaç olmalı	Probation
+sınamalıyken yeni ders alabilir miyim	Probation
+sınamalı öğrenci hangi dersleri tekrarlar	Probation
+1.60 ortalama yeterli mi	Probation
+1.70 ortalamam var sınamalı yeterli miyim	Probation
+1.80 ortalama şartı ne	Probation
+ortalamam 1.5 ne olacak	Probation
+ilk dönem ortalamam düşük sınamalı olur muyum	Probation
+sınamalılık kaç kredide değişiyor	Probation
+50 kredim var ortalamam 1.65 durumum ne	Probation
+sınamalı durum nasıl belirleniyor	Probation
+akademik başarısızlık durumu	Probation
+low gpa ne olur	Probation
+on probation ne yapmalıyım	Probation
+sınamalı öğrencilerin ders alma kuralları	Probation
+gno 2.00 altı kısıtlamalar	Probation
+sınamalıyken f aldığım dersleri tekrar etmek zorunda mıyım	Probation
+sınamalıyım dc aldığım dersi tekrar almalı mıyım	Probation
+düşük ortalama nasıl yükseltilir	Probation
+ortalamamı 2nin üstüne nasıl çıkarırım	Probation
+yeterli statüsü nedir	Probation
+sınamalı uyarısı ne anlama geliyor	Probation
+not ortalaması düşük öğrenciler için kurallar	Probation
+ilk iki dönem sınamalı sayılır mı	Probation
+ortalamam düştü ne gibi kısıtlamalar var	Probation
+ortalaması düşük olan öğrenci yeni ders alabilir mi	Probation
+onur öğrencisi olmak için ortalama kaç	HonorStatus
+yüksek onur kaç ortalama	HonorStatus
+onur listesi nedir	HonorStatus
+honor nasıl alınır	HonorStatus
+high honor için ortalama	HonorStatus
+onur belgesi alabilir miyim	HonorStatus
+3.20 ortalama onur mu	HonorStatus
+3.6 ortalama yüksek onur mu	HonorStatus
+onur ve yüksek onur şartları	HonorStatus
+dönem sonu onur öğrencisi	HonorStatus
+yüksek onurla mezun olmak için ne gerekir	HonorStatus
+onurla mezuniyet şartı	HonorStatus
+disiplin cezası onuru etkiler mi	HonorStatus
+onur için kaç kredi almam lazım	HonorStatus
+az ders aldım onur alabilir miyim	HonorStatus
+onur statüsü nasıl belirleniyor	HonorStatus
+honour list	HonorStatus
+dean's list var mı	HonorStatus
+şeref öğrencisi	HonorStatus
+yüksek şeref	HonorStatus
+onur derecesi	HonorStatus
+onur listesine girmek için	HonorStatus
+3.50 üstü ne oluyor	HonorStatus
+3 ortalama ile onur alınır mı	HonorStatus
+mezuniyette onur için kaç dönemde bitirmeliyim	HonorStatus
+9 dönemde mezun olursam onur alır mıyım	HonorStatus
+onur ödülü	HonorStatus
+ortalamam 3.4 yüksek onur mu	HonorStatus
+yüksek onur alt sınırı	HonorStatus
+onur statüsü dönemlik mi	HonorStatus
+yarıyıl not ortalamasına göre onur	HonorStatus
+honor student gpa	HonorStatus
+onur almak için gno mu yno mu bakılıyor	HonorStatus
+onur listesi şartları nelerdir	HonorStatus
+yüksek onur öğrencisi olmak	HonorStatus
+ders tekrarı nasıl oluyor	CourseRepeat
+f aldığım dersi tekrar almak zorunda mıyım	CourseRepeat
+kaldığım dersi ne zaman tekrar alırım	CourseRepeat
+fx aldım dersi tekrar alacak mıyım	CourseRepeat
+dd aldığım dersi tekrar alabilir miyim	CourseRepeat
+dc notumu yükseltmek için dersi tekrar alabilir miyim	CourseRepeat
+not yükseltmek için ders tekrarı	CourseRepeat
+cc aldığım dersi tekrar alabilir miyim	CourseRepeat
+bb aldığım dersi yükseltebilir miyim	CourseRepeat
+tekrar ettiğim derste hangi not geçerli	CourseRepeat
+tekrarda düşük alırsam eski notum mu sayılır	CourseRepeat
+ders tekrarında son not mu geçerli	CourseRepeat
+tekrar ettiğim dersin hangi notu ortalamaya girer	CourseRepeat
+seçmeli dersten kaldım aynı dersi mi almalıyım	CourseRepeat
+kaldığım seçmeli yerine başka ders alabilir miyim	CourseRepeat
+zorunlu dersten kaldım ne yapmalıyım	CourseRepeat
+dd aldığım dersi kaç dönem içinde tekrar edebilirim	CourseRepeat
+repeat course	CourseRepeat
+retake nasıl yapılır	CourseRepeat
+not yükseltme	CourseRepeat
+ortalamamı yükseltmek için ders tekrar edebilir miyim	CourseRepeat
+dersten kaldım ne olacak	CourseRepeat
+f notunu silebilir miyim	CourseRepeat
+eski notum transkriptte kalır mı	CourseRepeat
+r notu ne demek	CourseRepeat
+ders tekrarı zorunlu mu	CourseRepeat
+w aldığım zorunlu dersi tekrar almalı mıyım	CourseRepeat
+tekrar alacağım dersi kayıtta önce mi seçmeliyim	CourseRepeat
+dersi tekrar alırsam ortalamam nasıl değişir	CourseRepeat
+dc ile geçtiğim dersi tekrar almak zorunda mıyım	CourseRepeat
+koşullu geçtiğim dersi tekrar etmeli miyim	CourseRepeat
+cc ve üzeri tekrar edilir mi	CourseRepeat
+iki dönem içinde tekrar şartı	CourseRepeat
+kaldığım dersi tekrar almam gerekiyor mu	CourseRepeat
+geçtiğim dersi tekrar alıp notumu artırabilir miyim	CourseRepeat
+dersten çekilme nasıl yapılır	CourseWithdrawal
+dersten çekilmek istiyorum	CourseWithdrawal
+withdraw nasıl yapılır	CourseWithdrawal
+dersten çekilme son tarih ne zaman	CourseWithdrawal
+çekilme tarihi ne zaman bitiyor	CourseWithdrawal
+w notu ne demek	CourseWithdrawal
+w almak ortalamayı etkiler mi	CourseWithdrawal
+bir dönemde kaç dersten çekilebilirim	CourseWithdrawal
+toplamda kaç dersten çekilme hakkım var	CourseWithdrawal
+6 ders çekilme hakkı	CourseWithdrawal
+dersten çekilirsem para iadesi olur mu	CourseWithdrawal
+birinci sınıfta dersten çekilebilir miyim	CourseWithdrawal
+ilk dönemde withdraw yapabilir miyim	CourseWithdrawal
+f aldığım dersi tekrar alırken çekilebilir miyim	CourseWithdrawal
+danışman onayı olmadan çekilebilir miyim	CourseWithdrawal
+course withdrawal nereden yapılır	CourseWithdrawal
+mytedu course withdrawal	CourseWithdrawal
+dersten çekilme başvurum onaylandı mı	CourseWithdrawal
+çekildiğim dersi tekrar almak zorunda mıyım	CourseWithdrawal
+zorunlu dersten çekilirsem ne olur	CourseWithdrawal
+nc dersten çekilebilir miyim	CourseWithdrawal
+daha önce çekildiğim dersten tekrar çekilebilir miyim	CourseWithdrawal
+dd aldığım dersi tekrar alıp çekilirsem hangi not geçerli	CourseWithdrawal
+dersi bırakmak istiyorum ama ekle bırak bitti	CourseWithdrawal
+dönem ortasında dersi bırakabilir miyim	CourseWithdrawal
+dersten çekilme kuralları	CourseWithdrawal
+withdrawal deadline	CourseWithdrawal
+çekilme süresi aralıkta mı bitiyor	CourseWithdrawal
+bahar dönemi dersten çekilme tarihleri	CourseWithdrawal
+güz dönemi withdraw son gün	CourseWithdrawal
+dersten çekilme hakkım kaldı mı	CourseWithdrawal
+w notu transkripte yazar mı	CourseWithdrawal
+dersi bırakıp w almak	CourseWithdrawal
+ders çekilme danışman onayı ne zaman bitiyor	CourseWithdrawal
+çekilme başvurusu nasıl onaylanır	CourseWithdrawal
+bir dersi yarıda bırakmak istiyorum	CourseWithdrawal
+sınav notuma itiraz edebilir miyim	GradeAppeal
+nota itiraz nasıl yapılır	GradeAppeal
+sınav kağıdımı görmek istiyorum	GradeAppeal
+not itirazı süresi ne kadar	GradeAppeal
+kaç gün içinde itiraz etmeliyim	GradeAppeal
+final notuma itiraz etmek istiyorum	GradeAppeal
+harf notum yanlış girilmiş	GradeAppeal
+notum hatalı görünüyor	GradeAppeal
+maddi hata nedir	GradeAppeal
+hocam notumu yanlış girdi ne yapmalıyım	GradeAppeal
+sınav sonucuma itiraz	GradeAppeal
+itirazım reddedildi ne yapabilirim	GradeAppeal
+dekanlığa itiraz nasıl yapılır	GradeAppeal
+üç kişilik heyet nedir	GradeAppeal
+not itiraz dilekçesi	GradeAppeal
+kağıdımı tekrar okutmak istiyorum	GradeAppeal
+sınav kağıdı inceleme	GradeAppeal
+grade appeal	GradeAppeal
+exam objection	GradeAppeal
+nota itiraz hakkım var mı	GradeAppeal
+vize notuma itiraz edebilir miyim	GradeAppeal
+notum düşük geldi itiraz edebilir miyim	GradeAppeal
+notum değişir mi itiraz edersem	GradeAppeal
+yanlış not düzeltme	GradeAppeal
+not düzeltme talebi	GradeAppeal
+sınav sonuçlarına itiraz süresi	GradeAppeal
+bir haftadan sonra itiraz edilir mi	GradeAppeal
+hoca itirazımı kabul etmedi	GradeAppeal
+not değişikliği nasıl yapılır	GradeAppeal
+kağıdımı görebilir miyim	GradeAppeal
+cevap kağıdımı incelemek istiyorum	GradeAppeal
+notum sisteme yanlış yansımış	GradeAppeal
+itiraz için kime başvurmalıyım	GradeAppeal
+sınav kağıtları ne kadar saklanıyor	GradeAppeal
+notumun yeniden değerlendirilmesini istiyorum	GradeAppeal
+sınava giremedim ne yapmalıyım	MissedExam
+finale giremedim	MissedExam
+hastalandım sınava giremedim	MissedExam
+sağlık raporum var sınava giremedim	MissedExam
+mazeret sınavı var mı	MissedExam
+make up sınavı nasıl oluyor	MissedExam
+raporla sınava girmedim telafisi var mı	MissedExam
+ara sınavı kaçırdım	MissedExam
+vizeye giremedim	MissedExam
+final sınavını kaçırdım ne olur	MissedExam
+i notu nedir	MissedExam
+incomplete notu ne demek	MissedExam
+i notu kaç günde tamamlanır	MissedExam
+i notu f ye döner mi	MissedExam
+ödevi zamanında teslim edemedim mazeretim var	MissedExam
+mazeretim var sınava girmedim	MissedExam
+cenaze nedeniyle sınava giremedim	MissedExam
+sınav günü hastaneye kaldırıldım	MissedExam
+raporlu olduğum gün sınav vardı	MissedExam
+mazeret sınavı başvurusu	MissedExam
+missed exam	MissedExam
+sağlık raporu sınav	MissedExam
+mazeretli sınav hakkı	MissedExam
+sınava girmezsem fx alır mıyım	MissedExam
+mazeret sınavı ne zaman yapılır	MissedExam
+eksik notum var ne zaman tamamlanır	MissedExam
+i notunun son tarihi	MissedExam
+eksik not girişi son tarih	MissedExam
+proje teslimini kaçırdım	MissedExam
+sınava giremeyenler ne yapar	MissedExam
+hasta olduğum için finale katılamadım	MissedExam
+mazeret kabul edilirse ne olur	MissedExam
+telafi sınavı var mı	MissedExam
+sınav kaçırırsam telafisi olur mu	MissedExam
+devamsızlık sınırı kaç	Attendance
+devamsızlık hakkım ne kadar	Attendance
+kaç derse girmezsem kalırım	Attendance
+devam zorunlu mu	Attendance
+derslere devam zorunluluğu var mı	Attendance
+yoklama alınıyor mu	Attendance
+yüzde kaç devam şartı var	Attendance
+devamsızlıktan kalır mıyım	Attendance
+devamsızlıktan fx alır mıyım	Attendance
+derse gitmesem olur mu	Attendance
+attendance zorunlu mu	Attendance
+attendance policy	Attendance
+devamsızlık yüzünden finale girebilir miyim	Attendance
+devamsızlık kuralları nerede yazıyor	Attendance
+hocam devamsızlıktan bıraktı	Attendance
+izlencede devam şartı	Attendance
+laboratuvara devam zorunlu mu	Attendance
+hazırlıkta devamsızlık sınırı	Attendance
+hazırlıkta yüzde kaç devam gerekiyor	Attendance
+devamsızlık burs etkiler mi	Attendance
+devamsızlık hesabı nasıl yapılıyor	Attendance
+kaç saat devamsızlık yapabilirim	Attendance
+derslere girmezsem ne olur	Attendance
+devam takibi kim yapıyor	Attendance
+devamsızlığım fazla ne olacak	Attendance
+devamsızlıktan kalan öğrenci	Attendance
+yoklama zorunlu mu tedüde	Attendance
+her derse gitmek zorunda mıyım	Attendance
+hiç derse gitmeden geçebilir miyim	Attendance
+devamsızlık limiti	Attendance
+dersten devamsızlıktan kaldım	Attendance
+devamsızlık nedeniyle başarısız	Attendance
+attendance requirement	Attendance
+derse katılım zorunlu mu	Attendance
+staj kaç gün	InternshipDuration
+zorunlu staj süresi ne kadar	InternshipDuration
+kaç iş günü staj yapmam gerekiyor	InternshipDuration
+mühendislik stajı kaç gün	InternshipDuration
+yazılım mühendisliği stajı kaç gün	InternshipDuration
+mimarlık stajı kaç gün sürüyor	InternshipDuration
+iibf stajı kaç gün	InternshipDuration
+işletme bölümü staj süresi	InternshipDuration
+kaç tane staj yapmam lazım	InternshipDuration
+kaç staj zorunlu	InternshipDuration
+staj ne zaman yapılır	InternshipDuration
+stajı hangi sınıfta yapıyoruz	InternshipDuration
+ikinci sınıftan sonra staj var mı	InternshipDuration
+üçüncü sınıftan sonra staj	InternshipDuration
+stajı yazın mı yapmalıyım	InternshipDuration
+stajı dönem içinde yapabilir miyim	InternshipDuration
+sömestr tatilinde staj yapabilir miyim	InternshipDuration
+cumartesi staj gününe sayılır mı	InternshipDuration
+pazar günü staj sayılır mı	InternshipDuration
+iş günü nasıl hesaplanıyor	InternshipDuration
+sosyoloji stajı zorunlu mu	InternshipDuration
+eğitim fakültesi stajı nasıl	InternshipDuration
+öğretmenlik uygulaması kaç hafta	InternshipDuration
+psikoloji bölümünde staj zorunlu mu	InternshipDuration
+20 iş gününden fazla staj yapabilir miyim	InternshipDuration
+staj süresi uzatılabilir mi	InternshipDuration
+zorunlu staj kaç hafta	InternshipDuration
+internship kaç gün	InternshipDuration
+mandatory internship duration	InternshipDuration
+staj zorunlu mu	InternshipDuration
+hangi bölümlerde staj var	InternshipDuration
+staj sayısı	InternshipDuration
+iki staj mı yapıyoruz	InternshipDuration
+ilk staj ne zaman	InternshipDuration
+ikinci staj kaç gün	InternshipDuration
+30 iş günü staj hangi bölüm	InternshipDuration
+yazılım stajı 30 gün mü	InternshipDuration
+endüstri mühendisliği staj süresi	InternshipDuration
+inşaat mühendisliği kaç gün staj yapıyor	InternshipDuration
+staj başvurusu nasıl yapılır	InternshipApplication
+staj için ne yapmam gerekiyor	InternshipApplication
+staj onay formu nereden alınır	InternshipApplication
+zorunlu staj onay formu	InternshipApplication
+staj formunu nereye yüklüyorum	InternshipApplication
+mytedu portala staj girişi nasıl yapılır	InternshipApplication
+staj yerini nasıl bulurum	InternshipApplication
+staj yeri bulmama yardım eder misiniz	InternshipApplication
+kariyer merkezi staj bulur mu	InternshipApplication
+staj yerimi kim onaylıyor	InternshipApplication
+staj koordinatörü kim	InternshipApplication
+staja başlamadan kaç gün önce form yüklemeliyim	InternshipApplication
+staj formunda kaşe imza gerekli mi	InternshipApplication
+stajyer değerlendirme formu nedir	InternshipApplication
+staj değerlendirme formunu kim doldurur	InternshipApplication
+staj raporu nasıl hazırlanır	InternshipApplication
+staj raporu ne zaman teslim edilir	InternshipApplication
+staj dersi ne zaman alınır	InternshipApplication
+staj dersine ne zaman kayıt olmalıyım	InternshipApplication
+staj dersini hangi dönem seçiyorum	InternshipApplication
+üniversitede staj yapabilir miyim	InternshipApplication
+teknokentte staj olur mu	InternshipApplication
+staj başvurum reddedildi neden	InternshipApplication
+bölümümle alakasız yerde staj yapabilir miyim	InternshipApplication
+daha önce yaptığım stajı saydırabilir miyim	InternshipApplication
+yatay geçişle geldim stajım sayılır mı	InternshipApplication
+staj süreci nasıl işliyor	InternshipApplication
+internship application	InternshipApplication
+staj evrakları neler	InternshipApplication
+kys-fr-84 formu	InternshipApplication
+staj kabul yazısı	InternshipApplication
+staj belgesi	InternshipApplication
+staj yeri onayı nasıl alınır	InternshipApplication
+staj raporunu kime teslim ediyorum	InternshipApplication
+şirket değerlendirme formunu nasıl gönderecek	InternshipApplication
+staj kılavuzu nerede	InternshipApplication
+staja başlarken ne götürmeliyim	InternshipApplication
+staj için hangi formlar gerekli	InternshipApplication
+staj başvuru adımları	InternshipApplication
+aday mühendislik programı staj sayılır mı	InternshipApplication
+staj sigortası nasıl yapılıyor	InternshipInsurance
+staj sigortamı kim yapıyor	InternshipInsurance
+sgk staj sigortası	InternshipInsurance
+okul staj sigortası yapıyor mu	InternshipInsurance
+şirket sigorta yapmazsa ne olur	InternshipInsurance
+staj sigortası ücretli mi	InternshipInsurance
+staj sigortası için ne yapmalıyım	InternshipInsurance
+sigorta girişim yapıldı mı	InternshipInsurance
+staj sigortasını üniversite mi ödüyor	InternshipInsurance
+gönüllü stajda sigorta var mı	InternshipInsurance
+staj sigortası ne zaman başlar	InternshipInsurance
+staj sigorta başlangıç tarihi	InternshipInsurance
+sigortasız staj yapılır mı	InternshipInsurance
+mezun olduktan sonra staj sigortası	InternshipInsurance
+stajyer maaşı alırsam ne yapmalıyım	InternshipInsurance
+staj ücreti alıyorum ne bildirmeliyim	InternshipInsurance
+staj maaş dekontu nereye gönderilir	InternshipInsurance
+işsizlik fonu katkısı formu	InternshipInsurance
+kys-fr-15 nedir	InternshipInsurance
+staj ücreti için form	InternshipInsurance
+staj sırasında iş kazası sigortası var mı	InternshipInsurance
+staj sigortası kim tarafından karşılanır	InternshipInsurance
+staj sigortası mali işler	InternshipInsurance
+sigorta için portalda ne seçmeliyim	InternshipInsurance
+internship insurance	InternshipInsurance
+staj sgk girişi	InternshipInsurance
+stajda sigorta zorunlu mu	InternshipInsurance
+yurtdışı stajda sigortayı kim yapar	InternshipInsurance
+staj sigortası kurum mu yapacak tedü mü	InternshipInsurance
+staj sigortası belgesi	InternshipInsurance
+stajyer maaşı	InternshipInsurance
+staj ücreti	InternshipInsurance
+sigorta bildirimi staj	InternshipInsurance
+staj sigortası ne kadar sürer	InternshipInsurance
+şirketim sigortamı yapmıyor	InternshipInsurance
+gönüllü staj nedir	VoluntaryInternship
+gönüllü staj yapabilir miyim	VoluntaryInternship
+isteğe bağlı staj	VoluntaryInternship
+zorunlu olmayan staj	VoluntaryInternship
+birinci sınıfta staj yapabilir miyim	VoluntaryInternship
+gönüllü staj kaç gün	VoluntaryInternship
+gönüllü stajın süresi var mı	VoluntaryInternship
+gönüllü staj onay formu	VoluntaryInternship
+gönüllü stajı kim onaylıyor	VoluntaryInternship
+gönüllü stajda rapor yazmak gerekiyor mu	VoluntaryInternship
+dönem içinde gönüllü staj yapabilir miyim	VoluntaryInternship
+genç yetenek programı nedir	VoluntaryInternship
+tedü genç yetenek	VoluntaryInternship
+uzun dönem staj programı	VoluntaryInternship
+haftada bir gün staj	VoluntaryInternship
+üçüncü sınıfta haftanın bir günü boş mu	VoluntaryInternship
+part time staj yapabilir miyim	VoluntaryInternship
+ekstra staj yapmak istiyorum	VoluntaryInternship
+yazın gönüllü staj	VoluntaryInternship
+gönüllü staj başvurusu	VoluntaryInternship
+voluntary internship	VoluntaryInternship
+gönüllü staj portal girişi	VoluntaryInternship
+istediğim kurumda staj yapabilir miyim	VoluntaryInternship
+mezuniyete kadar kaç gönüllü staj yapabilirim	VoluntaryInternship
+gönüllü staj için formu nereden bulurum	VoluntaryInternship
+gönüllü staj değerlendirme formu gerekli mi	VoluntaryInternship
+kariyer merkezi gönüllü staj	VoluntaryInternship
+staj deneyimi için gönüllü staj	VoluntaryInternship
+okul dönemi staj	VoluntaryInternship
+iibf genç yetenek	VoluntaryInternship
+mühendislik genç yetenek programı	VoluntaryInternship
+dördüncü sınıfta iki gün staj	VoluntaryInternship
+genç yetenek başvurusu	VoluntaryInternship
+zorunlu stajım dışında staj yapmak	VoluntaryInternship
+çift anadal nedir	DoubleMajor
+çap nedir	DoubleMajor
+çift anadal şartları	DoubleMajor
+çap başvuru şartları	DoubleMajor
+çift anadal için ortalama kaç olmalı	DoubleMajor
+çap için gno kaç	DoubleMajor
+çift anadala ne zaman başvurabilirim	DoubleMajor
+çap başvurusu ne zaman	DoubleMajor
+kaçıncı dönemde çap başvurusu yapılır	DoubleMajor
+ilk %20 şartı nedir	DoubleMajor
+başarı sıralaması şartı çap	DoubleMajor
+çift anadal başvuru tarihleri	DoubleMajor
+çapta ortalamam düşerse ne olur	DoubleMajor
+çap için ek ücret var mı	DoubleMajor
+çift anadalda kaç kredi alabilirim	DoubleMajor
+çapta staj zorunlu mu	DoubleMajor
+çap dersleri anadala sayılır mı	DoubleMajor
+anadaldan mezun oldum çapa devam edebilir miyim	DoubleMajor
+çap diploması ne zaman verilir	DoubleMajor
+çaptan ayrılırsam yandal sertifikası alabilir miyim	DoubleMajor
+iki çap birden yapılabilir mi	DoubleMajor
+çap ve yandal aynı anda olur mu	DoubleMajor
+çapa kabul edildim kayıt nasıl	DoubleMajor
+çap kaydı için evrak	DoubleMajor
+double major	DoubleMajor
+double major gpa requirement	DoubleMajor
+ikinci diploma almak istiyorum	DoubleMajor
+iki bölüm birden okumak istiyorum	DoubleMajor
+çapta burs devam eder mi	DoubleMajor
+çap öğrencisi yatay geçiş yapabilir mi	DoubleMajor
+çap 2.75 şartı	DoubleMajor
+çift anadal sonuçları ne zaman açıklanır	DoubleMajor
+çift ana dal programı	DoubleMajor
+çapta iki dönem ders almazsam ne olur	DoubleMajor
+başka bölümden diploma almak	DoubleMajor
+çap başvurusu nereden yapılır	DoubleMajor
+yandal nedir	Minor
+yan dal programı	Minor
+yap nedir	Minor
+yandal şartları	Minor
+yandal için ortalama kaç	Minor
+yandala ne zaman başvurabilirim	Minor
+yandal başvuru tarihleri	Minor
+yandalda kaç ders almam gerekiyor	Minor
+yandal kaç kredi	Minor
+yandal sertifikası diploma yerine geçer mi	Minor
+yandaldan diploma alınır mı	Minor
+yandalda ortalamam düşerse ne olur	Minor
+yandal 2.29 şartı	Minor
+yandal için ek ücret öder miyim	Minor
+yandal dersleri anadala sayılır mı	Minor
+mezun olduktan sonra yandala devam edebilir miyim	Minor
+yandala kabul edildim nasıl kayıt olurum	Minor
+minor program	Minor
+minor gpa requirement	Minor
+yan dal sertifikası	Minor
+başka bölümden sertifika almak	Minor
+yandal kaçıncı dönemde başlar	Minor
+altıncı dönemde yandal başvurusu yapabilir miyim	Minor
+iki yandal yapılır mı	Minor
+yandalda kaç kredilik ders saydırabilirim	Minor
+yandalda iki dönem ders almazsam ne olur	Minor
+yandal başvurusu nereden yapılır	Minor
+yandal bursum devam eder mi	Minor
+yap programı sıkça sorulan sorular	Minor
+yandal programına kimler başvurabilir	Minor
+2.50 ortalama ile yandal olur mu	Minor
+yandal sertifikası ne zaman verilir	Minor
+psikoloji yandalı yapabilir miyim	Minor
+yandal yapmak istiyorum	Minor
+erasmus nedir	Erasmus
+erasmusa nasıl başvurulur	Erasmus
+erasmus başvuru şartları	Erasmus
+erasmus için ortalama kaç olmalı	Erasmus
+erasmus seçimi nasıl yapılıyor	Erasmus
+erasmus dil sınavı	Erasmus
+erasmus puanı nasıl hesaplanır	Erasmus
+kaçıncı sınıfta erasmusa gidilir	Erasmus
+ilk dönemde erasmusa başvurabilir miyim	Erasmus
+erasmus stajı nedir	Erasmus
+erasmus stajı kaç ay	Erasmus
+erasmus stajını zorunlu staja saydırabilir miyim	Erasmus
+yurtdışında staj yapabilir miyim	Erasmus
+yurtdışı değişim programları	Erasmus
+exchange programı var mı	Erasmus
+değişim programına kaç dönem gidilebilir	Erasmus
+son dönemimde erasmusa gidebilir miyim	Erasmus
+erasmus kaç ay sürer	Erasmus
+erasmusta aldığım dersler sayılır mı	Erasmus
+uluslararası programlar ofisi	Erasmus
+erasmus başvurusu ne zaman	Erasmus
+mezun olduktan sonra erasmus stajı yapabilir miyim	Erasmus
+erasmus için ingilizce puanı	Erasmus
+erasmus ülkeleri	Erasmus
+avrupada okumak istiyorum	Erasmus
+yurtdışında bir dönem okumak	Erasmus
+erasmus+ programı	Erasmus
+student exchange	Erasmus
+erasmus 12 ay hakkı	Erasmus
+erasmus staj saydırma formu	Erasmus
+erasmus sonuçları	Erasmus
+erasmusa gitmek istiyorum	Erasmus
+yurt dışında okuma fırsatı	Erasmus
+başka ülkede bir dönem ders almak	Erasmus
+kayıt dondurma nasıl yapılır	LeaveOfAbsence
+kaydımı dondurmak istiyorum	LeaveOfAbsence
+izinli ayrılma nedir	LeaveOfAbsence
+okula ara vermek istiyorum	LeaveOfAbsence
+bir dönem izin almak istiyorum	LeaveOfAbsence
+izin başvurusu son tarih	LeaveOfAbsence
+kayıt dondurma son gün ne zaman	LeaveOfAbsence
+kaç dönem kayıt dondurabilirim	LeaveOfAbsence
+en fazla kaç yarıyıl izin alınır	LeaveOfAbsence
+sağlık nedeniyle kayıt dondurma	LeaveOfAbsence
+askerlik nedeniyle izin	LeaveOfAbsence
+maddi nedenle kayıt dondurma	LeaveOfAbsence
+kayıt dondururken ücret ödenir mi	LeaveOfAbsence
+izinli dönem için ne kadar ödüyorum	LeaveOfAbsence
+izinliyken okula erken dönebilir miyim	LeaveOfAbsence
+kayıt dondurma şartları	LeaveOfAbsence
+leave of absence	LeaveOfAbsence
+izin almak için hangi belgeler	LeaveOfAbsence
+dönem ortasında kayıt dondurulabilir mi	LeaveOfAbsence
+ani hastalık kayıt dondurma	LeaveOfAbsence
+kayıt dondurma 2026 güz son tarih	LeaveOfAbsence
+bahar dönemi izin başvurusu ne zaman	LeaveOfAbsence
+izinli ayrılma başvurusu nereden yapılır	LeaveOfAbsence
+okulu bir yıl dondurmak	LeaveOfAbsence
+iki dönem üst üste izin alabilir miyim	LeaveOfAbsence
+izin süresi kaç yarıyıl	LeaveOfAbsence
+dört dönemden fazla izin	LeaveOfAbsence
+izin kararı kim veriyor	LeaveOfAbsence
+mezuniyet aşamasındayım ders açılmıyor izin alabilir miyim	LeaveOfAbsence
+ara verirsem ne olur	LeaveOfAbsence
+kaydımı askıya almak	LeaveOfAbsence
+izin için borcum olmaması gerekiyor mu	LeaveOfAbsence
+izinli öğrenci	LeaveOfAbsence
+kayıt dondurma ücreti	LeaveOfAbsence
+bu dönem okula devam edemeyeceğim	LeaveOfAbsence
+hazırlık kaç yıl	EnglishPrep
+ingilizce hazırlık süresi	EnglishPrep
+hazırlıkta en fazla kaç yıl kalabilirim	EnglishPrep
+hazırlığı geçemezsem ne olur	EnglishPrep
+ingilizce yeterlik sınavı ne zaman	EnglishPrep
+yeterlik sınavı tarihleri	EnglishPrep
+proficiency sınavı ne zaman	EnglishPrep
+seviye belirleme sınavı ne zaman	EnglishPrep
+hazırlık modülleri ne zaman başlıyor	EnglishPrep
+hazırlık ikinci modül ne zaman	EnglishPrep
+ingilizce dil okulu dersleri ne zaman başlıyor	EnglishPrep
+yeterlik sınav sonuçları ne zaman açıklanır	EnglishPrep
+hazırlıktan muaf olmak istiyorum	EnglishPrep
+hazırlığı atlamak için ne yapmalıyım	EnglishPrep
+proficiency geçersem birinci sınıfa başlar mıyım	EnglishPrep
+eğitim dili ingilizce mi	EnglishPrep
+derslerin hepsi ingilizce mi	EnglishPrep
+türkçe ders var mı	EnglishPrep
+hazırlık azami süreyi doldurdum ne olur	EnglishPrep
+ingilizce dil okulu	EnglishPrep
+english language school	EnglishPrep
+english proficiency exam	EnglishPrep
+ocak yeterlik sınavı	EnglishPrep
+temmuz yeterlik sınavı	EnglishPrep
+eylül yeterlik sınavı geçti mi	EnglishPrep
+hazırlık sınıfı	EnglishPrep
+prep school kaç yıl	EnglishPrep
+hazırlıkta ilişiği kesilenler sınava girebilir mi	EnglishPrep
+hazırlıktan atılırsam ne olur	EnglishPrep
+ielts toefl kabul ediliyor mu	EnglishPrep
+hazırlık okumadan bölüme başlayabilir miyim	EnglishPrep
+hazırlık dersleri kaç modül	EnglishPrep
+ingilizce muafiyet sınavı	EnglishPrep
+hazırlık bitirme sınavı	EnglishPrep
+mytedu şifremi unuttum	PortalPassword
+portal şifremi unuttum	PortalPassword
+şifremi nasıl sıfırlarım	PortalPassword
+tedupass şifresi unuttum	PortalPassword
+mytedu portala giremiyorum	PortalPassword
+şifrem bloke oldu	PortalPassword
+çok fazla yanlış şifre girdim	PortalPassword
+şifre sıfırlama linki	PortalPassword
+portal şifresi değiştirme	PortalPassword
+mytedu şifre değiştirme	PortalPassword
+şifremi değiştirmek istiyorum	PortalPassword
+öğrenci portalı giriş sorunu	PortalPassword
+portala giriş yapamıyorum	PortalPassword
+tedupass nedir	PortalPassword
+reset.tedu.edu.tr	PortalPassword
+şifre yenileme	PortalPassword
+hesabım kilitlendi	PortalPassword
+şifremi hatırlamıyorum	PortalPassword
+my tedu password	PortalPassword
+forgot password	PortalPassword
+portal hatalı giriş	PortalPassword
+şifre bloke kaldırma	PortalPassword
+şifremi yanlış girdim hesabım açılmıyor	PortalPassword
+tedupass ile giriş yapamıyorum	PortalPassword
+şifre sorunu kime yazmalıyım	PortalPassword
+portal şifre hatası veriyor	PortalPassword
+tedu pass şifre sıfırlama	PortalPassword
+şifremi sıfırladım ama giremiyorum	PortalPassword
+kullanıcı adı şifre unuttum	PortalPassword
+ders kaydından önce şifremi kontrol etmeliyim	PortalPassword
+portal hesabıma erişemiyorum	PortalPassword
+öğrenci işleri iletişim	StudentAffairsContact
+öğrenci işlerine nasıl ulaşırım	StudentAffairsContact
+öğrenci işleri e-posta adresi	StudentAffairsContact
+öğrenci işleri telefon	StudentAffairsContact
+öğrenci işleri nerede	StudentAffairsContact
+registrar iletişim	StudentAffairsContact
+oim mail adresi	StudentAffairsContact
+öğrenci işleri müdürlüğü	StudentAffairsContact
+okulun telefon numarası	StudentAffairsContact
+tedü adresi nedir	StudentAffairsContact
+kampüs nerede	StudentAffairsContact
+tedü iletişim bilgileri	StudentAffairsContact
+muhasebe iletişim	StudentAffairsContact
+mali işler e-posta	StudentAffairsContact
+ödeme sorunu kime sorulur	StudentAffairsContact
+mali blokaj hatası kime yazılır	StudentAffairsContact
+fakülte sekreterliği iletişim	StudentAffairsContact
+mühendislik fakültesi sekreterliği	StudentAffairsContact
+danışmanım atanmamış kime yazmalıyım	StudentAffairsContact
+kimle iletişime geçmeliyim	StudentAffairsContact
+yardım alabileceğim birim	StudentAffairsContact
+santral numarası	StudentAffairsContact
+tedü mail adresi	StudentAffairsContact
+info tedu	StudentAffairsContact
+oim@tedu.edu.tr	StudentAffairsContact
+registrar office contact	StudentAffairsContact
+student affairs email	StudentAffairsContact
+transkript almak istiyorum kime başvurmalıyım	StudentAffairsContact
+öğrenci belgesi almak istiyorum	StudentAffairsContact
+transkript nasıl alırım	StudentAffairsContact
+okulun adresi	StudentAffairsContact
+öğrenci belgesi nereden alınır	StudentAffairsContact
+help desk iletişim	StudentAffairsContact
+bilgi işlem iletişim	StudentAffairsContact
+bilgi teknolojileri e-posta	StudentAffairsContact

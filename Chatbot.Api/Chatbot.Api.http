@@ -1,0 +1,31 @@
+@host = http://localhost:5080
+# Denemek istediğiniz botun anahtarı (örnek: samples/hotel-demo eklendiyse hotel-demo)
+@botKey = hotel-demo
+
+### Health (bot modeli hazır mı?)
+GET {{host}}/api/health?botKey={{botKey}}
+
+### Veritabanındaki botlar
+GET {{host}}/api/bots
+
+### Botun karşılama mesajı ve menüsü
+GET {{host}}/api/bots/{{botKey}}
+
+### Serbest metin mesajı
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "{{botKey}}",
+  "message": "merhaba"
+}
+
+### Sabit bir sessionId ile gönderilen istekler aynı oturumda devam eder (takip soruları için)
+POST {{host}}/api/chat
+Content-Type: application/json
+
+{
+  "botKey": "{{botKey}}",
+  "sessionId": "http-demo",
+  "message": "merhaba"
+}

@@ -1,0 +1,316 @@
+{
+  "botKey": "nexora-demo",
+  "name": "Nexora Assistant",
+  "welcomeMessage": "Merhaba! Nexora Tech mağazasında ürünler, fiyatlar, stok, kargo, iade, garanti ve hesap işlemleri hakkında yardımcı olabilirim.",
+  "fallbackMessage": "Bu soruyu güvenilir şekilde yanıtlayamadım. Ürün adı veya ne öğrenmek istediğinizi biraz daha açık yazar mısınız?",
+  "menuPrompt": "Size hangi konuda yardımcı olabilirim?",
+  "followUpPhrases": [],
+  "answers": {
+    "Greeting": "Merhaba! Nexora Tech mağazasıyla ilgili ürünler, fiyatlar, stok, kargo, iade, garanti ve hesap işlemleri konusunda yardımcı olabilirim.",
+    "GeneralHelp": "Nexora Assistant; mağazadaki ürünleri arama, güncel fiyat ve stok bilgisi, teknik özellikler, kargo ve teslimat, iade, garanti, ödeme seçenekleri ve temel hesap kullanımı hakkında yardımcı olur.",
+    "ShippingPolicy": "Stokta bulunan siparişler normal koşullarda 1 iş günü içinde hazırlanır. Standart kargo büyük şehirlerde ortalama 1–3, diğer bölgelerde 2–5 iş gününde teslim edilir. 1.500 TL ve üzerindeki sepetlerde standart kargo ücretsizdir; daha düşük sepetlerde 79,90 TL, uygun bölgelerde hızlı kargo 149,90 TL olarak uygulanır.",
+    "ReturnPolicy": "Teslimattan sonraki 30 gün içinde, yeniden satılabilir durumda ve tüm aksesuarlarıyla birlikte olan ürünler için iade talebi oluşturulabilir. Kişiye özel ürünler, fiziksel hasar görmüş ürünler ve hijyen bandı açılmış kulak içi ürünler kapsam dışında değerlendirilebilir. Kabul edilen iadenin ödemesi kullanılan ödeme yöntemine banka sürecine bağlı olarak 2–7 iş gününde yansır.",
+    "WarrantyPolicy": "Nexora Tech tarafından satılan ürünlerde aksi belirtilmedikçe 2 yıl satıcı garantisi bulunur. Arızalı ürün için iletişim formunda Ürün desteği konusu seçilerek sipariş numarası, ürün adı ve arıza açıklaması paylaşılabilir.",
+    "PaymentMethods": "Referans mağazada kredi kartı, banka kartı ve havale seçenekleri arayüz seviyesinde simüle edilir. Uygulama gerçek kart numarası saklamaz.",
+    "PasswordResetHelp": "Şifrenizi unuttuysanız şifre sıfırlama sayfasından e-posta adresinizle yeni parola oluşturma akışını başlatabilirsiniz.",
+    "AccountRegistrationHelp": "Yeni kullanıcılar kayıt ekranında ad, soyad, e-posta ve güçlü bir şifre belirleyerek müşteri hesabı oluşturabilir. Mevcut kullanıcılar giriş ekranından e-posta ve şifre ile oturum açabilir.",
+    "AddressManagementHelp": "Hesabım > Adreslerim bölümünden birden fazla teslimat adresi ekleyebilir, mevcut adresleri düzenleyebilir veya silebilirsiniz. Adreslerden biri varsayılan olarak işaretlenebilir.",
+    "WishlistHelp": "Oturum açmış kullanıcılar ürünleri favorilerine ekleyebilir veya çıkarabilir. Favori ürünlerin tamamı Favorilerim sayfasında listelenir.",
+    "ReviewPolicy": "Bir ürünü değerlendirebilmek için o ürünü iptal edilmemiş bir siparişte satın almış olmanız gerekir. Aynı kullanıcı aynı ürün için tek bir değerlendirme kaydı tutar.",
+    "OrderCancellationPolicy": "Kullanıcı kendi siparişini yalnızca Processing veya Packed durumundayken iptal edebilir. Shipped, Delivered veya daha önce Cancelled olmuş siparişler kullanıcı tarafından bu akışla iptal edilemez.",
+    "ContactSupport": "Nexora Tech destek ekibine web sitesindeki iletişim formundan mesaj gönderebilirsiniz. Oturum açmış kullanıcıların ad ve e-posta alanları formda otomatik doldurulur.",
+    "PasswordChangeHelp": "Mevcut şifrenizi biliyorsanız Hesabım > Şifre değiştir sayfasından mevcut şifrenizi doğrulayıp yeni şifrenizi belirleyebilirsiniz.",
+    "ActiveOrdersHelp": "Processing, Packed veya Shipped durumundaki devam eden siparişlerinizi Aktif Siparişler sayfasından görüntüleyebilirsiniz."
+  },
+  "categories": [
+    {
+      "title": "Ürünler",
+      "icon": "\uD83D\uDECD️",
+      "prompt": "Ürünlerle ilgili ne öğrenmek istiyorsunuz?",
+      "aliases": [
+        "ürün",
+        "ürünler",
+        "katalog",
+        "mağaza"
+      ],
+      "items": [
+        {
+          "title": "Bir ürünün fiyatını öğrenmek istiyorum",
+          "intent": "ProductPrice",
+          "aliases": [
+            "ürün fiyatı",
+            "fiyatını öğren",
+            "kaç tl",
+            "kaç lira"
+          ]
+        },
+        {
+          "title": "Bir ürünün stok durumunu öğrenmek istiyorum",
+          "intent": "ProductAvailability",
+          "aliases": [
+            "stok durumu",
+            "stokta mı",
+            "kaç adet kaldı",
+            "mevcut mu"
+          ]
+        },
+        {
+          "title": "Bir ürünün teknik özelliklerini öğrenmek istiyorum",
+          "intent": "ProductSpecifications",
+          "aliases": [
+            "teknik özellik",
+            "özellikleri neler",
+            "ürün özellikleri"
+          ]
+        },
+        {
+          "title": "Ürünleri ara ve listele",
+          "intent": "ProductSearch",
+          "aliases": [
+            "ürün ara",
+            "ürünleri göster",
+            "ürünleri listele",
+            "hangi ürünler var"
+          ]
+        },
+        {
+          "title": "En ucuz ürünü bul",
+          "intent": "CheapestProduct",
+          "aliases": [
+            "en ucuz",
+            "en uygun fiyatlı",
+            "bütçe dostu"
+          ]
+        },
+        {
+          "title": "Bütçeme göre ürün bul",
+          "intent": "ProductBudgetSearch",
+          "aliases": [
+            "bütçeme göre",
+            "tl altında",
+            "liraya kadar",
+            "bütçeyle"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kargo, İade ve Sipariş",
+      "icon": "\uD83D\uDCE6",
+      "prompt": "Sipariş süreciyle ilgili hangi konuda bilgi almak istiyorsunuz?",
+      "aliases": [
+        "sipariş",
+        "kargo",
+        "teslimat",
+        "iade"
+      ],
+      "items": [
+        {
+          "title": "Kargo kaç günde gelir?",
+          "intent": "ShippingPolicy",
+          "aliases": [
+            "kargo süresi",
+            "teslimat süresi",
+            "ücretsiz kargo",
+            "kargo ücreti"
+          ]
+        },
+        {
+          "title": "İade koşulları nelerdir?",
+          "intent": "ReturnPolicy",
+          "aliases": [
+            "iade koşulları",
+            "iade süresi",
+            "ürünü geri gönder",
+            "para iadesi"
+          ]
+        },
+        {
+          "title": "Siparişimi iptal edebilir miyim?",
+          "intent": "OrderCancellationPolicy",
+          "aliases": [
+            "sipariş iptali",
+            "siparişi iptal",
+            "iptal koşulları"
+          ],
+          "actionText": "Aktif siparişlerimi aç",
+          "actionUrl": "/Orders?status=active"
+        }
+      ]
+    },
+    {
+      "title": "Garanti ve Ödeme",
+      "icon": "\uD83D\uDEE1️",
+      "prompt": "Garanti veya ödeme konusunda ne öğrenmek istiyorsunuz?",
+      "aliases": [
+        "garanti",
+        "ödeme",
+        "kart",
+        "servis"
+      ],
+      "items": [
+        {
+          "title": "Garanti kaç yıl?",
+          "intent": "WarrantyPolicy",
+          "aliases": [
+            "garanti süresi",
+            "teknik servis",
+            "arızalı ürün",
+            "ürün bozuk"
+          ]
+        },
+        {
+          "title": "Hangi ödeme yöntemleri var?",
+          "intent": "PaymentMethods",
+          "aliases": [
+            "ödeme yöntemleri",
+            "kredi kartı",
+            "banka kartı",
+            "havale"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hesabım",
+      "icon": "\uD83D\uDC64",
+      "prompt": "Hesapla ilgili hangi konuda yardım istiyorsunuz?",
+      "aliases": [
+        "hesap",
+        "üyelik",
+        "şifre",
+        "parola",
+        "adres",
+        "favori",
+        "siparişlerim"
+      ],
+      "items": [
+        {
+          "title": "Şifremi değiştirmek istiyorum",
+          "intent": "PasswordChangeHelp",
+          "aliases": [
+            "şifre değiştir",
+            "şifremi değiştir",
+            "parola değiştir",
+            "mevcut şifremi değiştir",
+            "hesap şifresini değiştir",
+            "şifremi nasıl değiştiririm",
+            "parolamı nasıl değiştiririm"
+          ],
+          "actionText": "Şifre değiştirme sayfasını aç",
+          "actionUrl": "/Account/ChangePassword"
+        },
+        {
+          "title": "Şifremi unuttum",
+          "intent": "PasswordResetHelp",
+          "aliases": [
+            "şifremi unuttum",
+            "parolamı unuttum",
+            "şifre sıfırla",
+            "parola sıfırla",
+            "forgot password",
+            "şifremi nasıl sıfırlarım",
+            "parolamı nasıl sıfırlarım"
+          ],
+          "actionText": "Şifre sıfırlama sayfasını aç",
+          "actionUrl": "/Account/ForgotPassword"
+        },
+        {
+          "title": "Aktif siparişlerimi görmek istiyorum",
+          "intent": "ActiveOrdersHelp",
+          "aliases": [
+            "aktif siparişlerim",
+            "devam eden siparişlerim",
+            "açık siparişlerim",
+            "siparişlerimi gör",
+            "siparişlerim nerede",
+            "aktif siparişlerimi nasıl görürüm",
+            "devam eden siparişlerimi nasıl görürüm"
+          ],
+          "actionText": "Aktif siparişlerimi aç",
+          "actionUrl": "/Orders?status=active"
+        },
+        {
+          "title": "Nasıl üye olurum?",
+          "intent": "AccountRegistrationHelp",
+          "aliases": [
+            "hesap aç",
+            "üye ol",
+            "kayıt ol",
+            "yeni hesap"
+          ],
+          "actionText": "Kayıt sayfasını aç",
+          "actionUrl": "/Account/Register"
+        },
+        {
+          "title": "Adreslerimi nasıl yönetirim?",
+          "intent": "AddressManagementHelp",
+          "aliases": [
+            "adres ekle",
+            "adres değiştir",
+            "adres sil",
+            "teslimat adresi"
+          ],
+          "actionText": "Adreslerimi aç",
+          "actionUrl": "/Account/Addresses"
+        },
+        {
+          "title": "Favoriler nasıl çalışıyor?",
+          "intent": "WishlistHelp",
+          "aliases": [
+            "favoriler",
+            "wishlist",
+            "favoriye ekle",
+            "ürün kaydet"
+          ],
+          "actionText": "Favorilerimi aç",
+          "actionUrl": "/Wishlist"
+        }
+      ]
+    },
+    {
+      "title": "Destek",
+      "icon": "\uD83D\uDCAC",
+      "prompt": "Hangi destek konusunda bilgi almak istiyorsunuz?",
+      "aliases": [
+        "destek",
+        "yardım",
+        "iletişim",
+        "yorum"
+      ],
+      "items": [
+        {
+          "title": "Ürün yorumu nasıl yapılır?",
+          "intent": "ReviewPolicy",
+          "aliases": [
+            "ürün yorumu",
+            "yorum yap",
+            "değerlendirme",
+            "yıldız ver"
+          ]
+        },
+        {
+          "title": "Destek ekibine nasıl ulaşırım?",
+          "intent": "ContactSupport",
+          "aliases": [
+            "iletişim formu",
+            "müşteri hizmetleri",
+            "destek ekibi",
+            "size nasıl ulaşırım"
+          ],
+          "actionText": "Destek formunu aç",
+          "actionUrl": "/Support/Contact"
+        },
+        {
+          "title": "Bu chatbot neler yapabilir?",
+          "intent": "GeneralHelp",
+          "aliases": [
+            "ne yapabilirsin",
+            "hangi konularda yardım",
+            "neleri biliyorsun"
+          ]
+        }
+      ]
+    }
+  ]
+}
