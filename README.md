@@ -150,6 +150,8 @@ dotnet tool restore
 dotnet dotnet-ef migrations add <Ad> --project Chatbot.Api --output-dir Data/Migrations
 ```
 
+Migration dosyalarının adlarındaki tarih önekleri kaldırılmıştır (`InitialCreate.cs` gibi). `dotnet ef` yeni migration'ları yine tarihli adla oluşturur; istenirse dosya adı aynı şekilde değiştirilebilir. Ancak `Designer.cs` içindeki `[Migration("20260924112633_InitialCreate")]` kimliği değiştirilmemelidir: EF Core migration'ları bu kimliğe göre sıralar ve veritabanındaki geçmişle bu kimlikten eşleştirir. Dosya adı kimlikten farklı olduğu için `dotnet ef migrations remove` dosyaları bulamaz; bir migration geri alınırsa dosyaları elle silinir.
+
 ## Model ve ölçüm
 
 **Model.** Her bot için ayrı bir ML.NET çok sınıflı sınıflandırıcı: metin özellikleri (`FeaturizeText`) + `SdcaMaximumEntropy`. Metin eğitimde ve tahminde aynı şekilde normalize edilir (küçük harf, `ı ğ ü ş ö ç` → `i g u s o c`, noktalama temizliği).
